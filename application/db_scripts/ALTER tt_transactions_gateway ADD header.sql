@@ -1,0 +1,3 @@
+ALTER TABLE tt_transactions_gateway
+ADD COLUMN REQUESTHEADER longtext NULL,
+ADD COLUMN RESPONSEHEADER longtext NULL;
