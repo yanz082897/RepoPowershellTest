@@ -1,33 +1,61 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-VydcQmmkDaTVVOMNSQogJgiYASS70wG3s+qx
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2019, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2019, British Columbia Institute of Technology (https://bcit.ca/)
+ * @license	https://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 3.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+/**
+ * SQLite3 Utility Class
+ *
+ * @category	Database
+ * @author	Andrey Andreev
+ * @link	https://codeigniter.com/user_guide/database/
+ */
+class CI_DB_sqlite3_utility extends CI_DB_utility {
+
+	/**
+	 * Export
+	 *
+	 * @param	array	$params	Preferences
+	 * @return	mixed
+	 */
+	protected function _backup($params = array())
+	{
+		// Not supported
+		return $this->db->display_error('db_unsupported_feature');
+	}
+
+}

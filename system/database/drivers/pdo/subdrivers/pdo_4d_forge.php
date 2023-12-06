@@ -1,75 +1,217 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2019, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2019, British Columbia Institute of Technology (https://bcit.ca/)
+ * @license	https://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 3.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+/**
+ * PDO 4D Forge Class
+ *
+ * @category	Database
+ * @author		EllisLab Dev Team
+ * @link		https://codeigniter.com/user_guide/database/
+ */
+class CI_DB_pdo_4d_forge extends CI_DB_pdo_forge {
+
+	/**
+	 * CREATE DATABASE statement
+	 *
+	 * @var	string
+	 */
+	protected $_create_database	= 'CREATE SCHEMA %s';
+
+	/**
+	 * DROP DATABASE statement
+	 *
+	 * @var	string
+	 */
+	protected $_drop_database	= 'DROP SCHEMA %s';
+
+	/**
+	 * CREATE TABLE IF statement
+	 *
+	 * @var	string
+	 */
+	protected $_create_table_if	= 'CREATE TABLE IF NOT EXISTS';
+
+	/**
+	 * RENAME TABLE statement
+	 *
+	 * @var	string
+	 */
+	protected $_rename_table	= FALSE;
+
+	/**
+	 * DROP TABLE IF statement
+	 *
+	 * @var	string
+	 */
+	protected $_drop_table_if	= 'DROP TABLE IF EXISTS';
+
+	/**
+	 * UNSIGNED support
+	 *
+	 * @var	array
+	 */
+	protected $_unsigned		= array(
+		'INT16'		=> 'INT',
+		'SMALLINT'	=> 'INT',
+		'INT'		=> 'INT64',
+		'INT32'		=> 'INT64'
+	);
+
+	/**
+	 * DEFAULT value representation in CREATE/ALTER TABLE statements
+	 *
+	 * @var	string
+	 */
+	protected $_default		= FALSE;
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * ALTER TABLE
+	 *
+	 * @param	string	$alter_type	ALTER type
+	 * @param	string	$table		Table name
+	 * @param	mixed	$field		Column definition
+	 * @return	string|string[]
+	 */
+	protected function _alter_table($alter_type, $table, $field)
+	{
+		if (in_array($alter_type, array('ADD', 'DROP'), TRUE))
+		{
+			return parent::_alter_table($alter_type, $table, $field);
+		}
+
+		// No method of modifying columns is supported
+		return FALSE;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Process column
+	 *
+	 * @param	array	$field
+	 * @return	string
+	 */
+	protected function _process_column($field)
+	{
+		return $this->db->escape_identifiers($field['name'])
+			.' '.$field['type'].$field['length']
+			.$field['null']
+			.$field['unique']
+			.$field['auto_increment'];
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Field attribute TYPE
+	 *
+	 * Performs a data type mapping between different databases.
+	 *
+	 * @param	array	&$attributes
+	 * @return	void
+	 */
+	protected function _attr_type(&$attributes)
+	{
+		switch (strtoupper($attributes['TYPE']))
+		{
+			case 'TINYINT':
+				$attributes['TYPE'] = 'SMALLINT';
+				$attributes['UNSIGNED'] = FALSE;
+				return;
+			case 'MEDIUMINT':
+				$attributes['TYPE'] = 'INTEGER';
+				$attributes['UNSIGNED'] = FALSE;
+				return;
+			case 'INTEGER':
+				$attributes['TYPE'] = 'INT';
+				return;
+			case 'BIGINT':
+				$attributes['TYPE'] = 'INT64';
+				return;
+			default: return;
+		}
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Field attribute UNIQUE
+	 *
+	 * @param	array	&$attributes
+	 * @param	array	&$field
+	 * @return	void
+	 */
+	protected function _attr_unique(&$attributes, &$field)
+	{
+		if ( ! empty($attributes['UNIQUE']) && $attributes['UNIQUE'] === TRUE)
+		{
+			$field['unique'] = ' UNIQUE';
+
+			// UNIQUE must be used with NOT NULL
+			$field['null'] = ' NOT NULL';
+		}
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Field attribute AUTO_INCREMENT
+	 *
+	 * @param	array	&$attributes
+	 * @param	array	&$field
+	 * @return	void
+	 */
+	protected function _attr_auto_increment(&$attributes, &$field)
+	{
+		if ( ! empty($attributes['AUTO_INCREMENT']) && $attributes['AUTO_INCREMENT'] === TRUE)
+		{
+			if (stripos($field['type'], 'int') !== FALSE)
+			{
+				$field['auto_increment'] = ' AUTO_INCREMENT';
+			}
+			elseif (strcasecmp($field['type'], 'UUID') === 0)
+			{
+				$field['auto_increment'] = ' AUTO_GENERATE';
+			}
+		}
+	}
+
+}

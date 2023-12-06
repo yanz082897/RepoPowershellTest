@@ -1,201 +1,529 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+namespace Restserver\Libraries;
+use Exception;
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+/**
+ * Format class
+ * Help convert between various formats such as XML, JSON, CSV, etc.
+ *
+ * @author    Phil Sturgeon, Chris Kacerguis, @softwarespot
+ * @license   http://www.dbad-license.org/
+ */
+class Format {
+
+    /**
+     * Array output format
+     */
+    const ARRAY_FORMAT = 'array';
+
+    /**
+     * Comma Separated Value (CSV) output format
+     */
+    const CSV_FORMAT = 'csv';
+
+    /**
+     * Json output format
+     */
+    const JSON_FORMAT = 'json';
+
+    /**
+     * HTML output format
+     */
+    const HTML_FORMAT = 'html';
+
+    /**
+     * PHP output format
+     */
+    const PHP_FORMAT = 'php';
+
+    /**
+     * Serialized output format
+     */
+    const SERIALIZED_FORMAT = 'serialized';
+
+    /**
+     * XML output format
+     */
+    const XML_FORMAT = 'xml';
+
+    /**
+     * Default format of this class
+     */
+    const DEFAULT_FORMAT = self::JSON_FORMAT; // Couldn't be DEFAULT, as this is a keyword
+
+    /**
+     * CodeIgniter instance
+     *
+     * @var object
+     */
+    private $_CI;
+
+    /**
+     * Data to parse
+     *
+     * @var mixed
+     */
+    protected $_data = [];
+
+    /**
+     * Type to convert from
+     *
+     * @var string
+     */
+    protected $_from_type = NULL;
+
+    /**
+     * DO NOT CALL THIS DIRECTLY, USE factory()
+     *
+     * @param NULL $data
+     * @param NULL $from_type
+     * @throws Exception
+     */
+
+    public function __construct($data = NULL, $from_type = NULL)
+    {
+        // Get the CodeIgniter reference
+        $this->_CI = &get_instance();
+
+        // Load the inflector helper
+        $this->_CI->load->helper('inflector');
+
+        // If the provided data is already formatted we should probably convert it to an array
+        if ($from_type !== NULL)
+        {
+            if (method_exists($this, '_from_'.$from_type))
+            {
+                $data = call_user_func([$this, '_from_'.$from_type], $data);
+            }
+            else
+            {
+                throw new Exception('Format class does not support conversion from "'.$from_type.'".');
+            }
+        }
+
+        // Set the member variable to the data passed
+        $this->_data = $data;
+    }
+
+    /**
+     * Create an instance of the format class
+     * e.g: echo $this->format->factory(['foo' => 'bar'])->to_csv();
+     *
+     * @param mixed $data Data to convert/parse
+     * @param string $from_type Type to convert from e.g. json, csv, html
+     *
+     * @return object Instance of the format class
+     */
+    public static function factory($data, $from_type = NULL)
+    {
+        // $class = __CLASS__;
+        // return new $class();
+
+        return new static($data, $from_type);
+    }
+
+    // FORMATTING OUTPUT ---------------------------------------------------------
+
+    /**
+     * Format data as an array
+     *
+     * @param mixed|NULL $data Optional data to pass, so as to override the data passed
+     * to the constructor
+     * @return array Data parsed as an array; otherwise, an empty array
+     */
+    public function to_array($data = NULL)
+    {
+        // If no data is passed as a parameter, then use the data passed
+        // via the constructor
+        if ($data === NULL && func_num_args() === 0)
+        {
+            $data = $this->_data;
+        }
+
+        // Cast as an array if not already
+        if (is_array($data) === FALSE)
+        {
+            $data = (array) $data;
+        }
+
+        $array = [];
+        foreach ((array) $data as $key => $value)
+        {
+            if (is_object($value) === TRUE || is_array($value) === TRUE)
+            {
+                $array[$key] = $this->to_array($value);
+            }
+            else
+            {
+                $array[$key] = $value;
+            }
+        }
+
+        return $array;
+    }
+
+    /**
+     * Format data as XML
+     *
+     * @param mixed|NULL $data Optional data to pass, so as to override the data passed
+     * to the constructor
+     * @param NULL $structure
+     * @param string $basenode
+     * @return mixed
+     */
+    public function to_xml($data = NULL, $structure = NULL, $basenode = 'xml')
+    {
+        if ($data === NULL && func_num_args() === 0)
+        {
+            $data = $this->_data;
+        }
+
+        if ($structure === NULL)
+        {
+            $structure = simplexml_load_string("<?xml version='1.0' encoding='utf-8'?><$basenode />");
+        }
+
+        // Force it to be something useful
+        if (is_array($data) === FALSE && is_object($data) === FALSE)
+        {
+            $data = (array) $data;
+        }
+
+        foreach ($data as $key => $value)
+        {
+
+            //change false/true to 0/1
+            if (is_bool($value))
+            {
+                $value = (int) $value;
+            }
+
+            // no numeric keys in our xml please!
+            if (is_numeric($key))
+            {
+                // make string key...
+                $key = (singular($basenode) != $basenode) ? singular($basenode) : 'item';
+            }
+
+            // replace anything not alpha numeric
+            $key = preg_replace('/[^a-z_\-0-9]/i', '', $key);
+
+            if ($key === '_attributes' && (is_array($value) || is_object($value)))
+            {
+                $attributes = $value;
+                if (is_object($attributes))
+                {
+                    $attributes = get_object_vars($attributes);
+                }
+
+                foreach ($attributes as $attribute_name => $attribute_value)
+                {
+                    $structure->addAttribute($attribute_name, $attribute_value);
+                }
+            }
+            // if there is another array found recursively call this function
+            elseif (is_array($value) || is_object($value))
+            {
+                $node = $structure->addChild($key);
+
+                // recursive call.
+                $this->to_xml($value, $node, $key);
+            }
+            else
+            {
+                // add single node.
+                $value = htmlspecialchars(html_entity_decode($value, ENT_QUOTES, 'UTF-8'), ENT_QUOTES, 'UTF-8');
+
+                $structure->addChild($key, $value);
+            }
+        }
+
+        return $structure->asXML();
+    }
+
+    /**
+     * Format data as HTML
+     *
+     * @param mixed|NULL $data Optional data to pass, so as to override the data passed
+     * to the constructor
+     * @return mixed
+     */
+    public function to_html($data = NULL)
+    {
+        // If no data is passed as a parameter, then use the data passed
+        // via the constructor
+        if ($data === NULL && func_num_args() === 0)
+        {
+            $data = $this->_data;
+        }
+
+        // Cast as an array if not already
+        if (is_array($data) === FALSE)
+        {
+            $data = (array) $data;
+        }
+
+        // Check if it's a multi-dimensional array
+        if (isset($data[0]) && count($data) !== count($data, COUNT_RECURSIVE))
+        {
+            // Multi-dimensional array
+            $headings = array_keys($data[0]);
+        }
+        else
+        {
+            // Single array
+            $headings = array_keys($data);
+            $data = [$data];
+        }
+
+        // Load the table library
+        $this->_CI->load->library('table');
+
+        $this->_CI->table->set_heading($headings);
+
+        foreach ($data as $row)
+        {
+            // Suppressing the "array to string conversion" notice
+            // Keep the "evil" @ here
+            $row = @array_map('strval', $row);
+
+            $this->_CI->table->add_row($row);
+        }
+
+        return $this->_CI->table->generate();
+    }
+
+    /**
+     * @link http://www.metashock.de/2014/02/create-csv-file-in-memory-php/
+     * @param mixed|NULL $data Optional data to pass, so as to override the data passed
+     * to the constructor
+     * @param string $delimiter The optional delimiter parameter sets the field
+     * delimiter (one character only). NULL will use the default value (,)
+     * @param string $enclosure The optional enclosure parameter sets the field
+     * enclosure (one character only). NULL will use the default value (")
+     * @return string A csv string
+     */
+    public function to_csv($data = NULL, $delimiter = ',', $enclosure = '"')
+    {
+        // Use a threshold of 1 MB (1024 * 1024)
+        $handle = fopen('php://temp/maxmemory:1048576', 'w');
+        if ($handle === FALSE)
+        {
+            return NULL;
+        }
+
+        // If no data is passed as a parameter, then use the data passed
+        // via the constructor
+        if ($data === NULL && func_num_args() === 0)
+        {
+            $data = $this->_data;
+        }
+
+        // If NULL, then set as the default delimiter
+        if ($delimiter === NULL)
+        {
+            $delimiter = ',';
+        }
+
+        // If NULL, then set as the default enclosure
+        if ($enclosure === NULL)
+        {
+            $enclosure = '"';
+        }
+
+        // Cast as an array if not already
+        if (is_array($data) === FALSE)
+        {
+            $data = (array) $data;
+        }
+
+        // Check if it's a multi-dimensional array
+        if (isset($data[0]) && count($data) !== count($data, COUNT_RECURSIVE))
+        {
+            // Multi-dimensional array
+            $headings = array_keys($data[0]);
+        }
+        else
+        {
+            // Single array
+            $headings = array_keys($data);
+            $data = [$data];
+        }
+
+        // Apply the headings
+        fputcsv($handle, $headings, $delimiter, $enclosure);
+
+        foreach ($data as $record)
+        {
+            // If the record is not an array, then break. This is because the 2nd param of
+            // fputcsv() should be an array
+            if (is_array($record) === FALSE)
+            {
+                break;
+            }
+
+            // Suppressing the "array to string conversion" notice.
+            // Keep the "evil" @ here.
+            $record = @ array_map('strval', $record);
+
+            // Returns the length of the string written or FALSE
+            fputcsv($handle, $record, $delimiter, $enclosure);
+        }
+
+        // Reset the file pointer
+        rewind($handle);
+
+        // Retrieve the csv contents
+        $csv = stream_get_contents($handle);
+
+        // Close the handle
+        fclose($handle);
+
+        // Convert UTF-8 encoding to UTF-16LE which is supported by MS Excel
+        $csv = mb_convert_encoding($csv, 'UTF-16LE', 'UTF-8');
+
+        return $csv;
+    }
+
+    /**
+     * Encode data as json
+     *
+     * @param mixed|NULL $data Optional data to pass, so as to override the data passed
+     * to the constructor
+     * @return string Json representation of a value
+     */
+    public function to_json($data = NULL)
+    {
+        // If no data is passed as a parameter, then use the data passed
+        // via the constructor
+        if ($data === NULL && func_num_args() === 0)
+        {
+            $data = $this->_data;
+        }
+
+        // Get the callback parameter (if set)
+        $callback = $this->_CI->input->get('callback');
+
+        if (empty($callback) === TRUE)
+        {
+            return json_encode($data, JSON_UNESCAPED_UNICODE);
+        }
+
+        // We only honour a jsonp callback which are valid javascript identifiers
+        elseif (preg_match('/^[a-z_\$][a-z0-9\$_]*(\.[a-z_\$][a-z0-9\$_]*)*$/i', $callback))
+        {
+            // Return the data as encoded json with a callback
+            return $callback.'('.json_encode($data, JSON_UNESCAPED_UNICODE).');';
+        }
+
+        // An invalid jsonp callback function provided.
+        // Though I don't believe this should be hardcoded here
+        $data['warning'] = 'INVALID JSONP CALLBACK: '.$callback;
+
+        return json_encode($data, JSON_UNESCAPED_UNICODE);
+    }
+
+    /**
+     * Encode data as a serialized array
+     *
+     * @param mixed|NULL $data Optional data to pass, so as to override the data passed
+     * to the constructor
+     * @return string Serialized data
+     */
+    public function to_serialized($data = NULL)
+    {
+        // If no data is passed as a parameter, then use the data passed
+        // via the constructor
+        if ($data === NULL && func_num_args() === 0)
+        {
+            $data = $this->_data;
+        }
+
+        return serialize($data);
+    }
+
+    /**
+     * Format data using a PHP structure
+     *
+     * @param mixed|NULL $data Optional data to pass, so as to override the data passed
+     * to the constructor
+     * @return mixed String representation of a variable
+     */
+    public function to_php($data = NULL)
+    {
+        // If no data is passed as a parameter, then use the data passed
+        // via the constructor
+        if ($data === NULL && func_num_args() === 0)
+        {
+            $data = $this->_data;
+        }
+
+        return var_export($data, TRUE);
+    }
+
+    // INTERNAL FUNCTIONS
+
+    /**
+     * @param string $data XML string
+     * @return array XML element object; otherwise, empty array
+     */
+    protected function _from_xml($data)
+    {
+        return $data ? (array) simplexml_load_string($data, 'SimpleXMLElement', LIBXML_NOCDATA) : [];
+    }
+
+    /**
+     * @param string $data CSV string
+     * @param string $delimiter The optional delimiter parameter sets the field
+     * delimiter (one character only). NULL will use the default value (,)
+     * @param string $enclosure The optional enclosure parameter sets the field
+     * enclosure (one character only). NULL will use the default value (")
+     * @return array A multi-dimensional array with the outer array being the number of rows
+     * and the inner arrays the individual fields
+     */
+    protected function _from_csv($data, $delimiter = ',', $enclosure = '"')
+    {
+        // If NULL, then set as the default delimiter
+        if ($delimiter === NULL)
+        {
+            $delimiter = ',';
+        }
+
+        // If NULL, then set as the default enclosure
+        if ($enclosure === NULL)
+        {
+            $enclosure = '"';
+        }
+
+        return str_getcsv($data, $delimiter, $enclosure);
+    }
+
+    /**
+     * @param string $data Encoded json string
+     * @return mixed Decoded json string with leading and trailing whitespace removed
+     */
+    protected function _from_json($data)
+    {
+        return json_decode(trim($data));
+    }
+
+    /**
+     * @param string $data Data to unserialize
+     * @return mixed Unserialized data
+     */
+    protected function _from_serialize($data)
+    {
+        return unserialize(trim($data));
+    }
+
+    /**
+     * @param string $data Data to trim leading and trailing whitespace
+     * @return string Data with leading and trailing whitespace removed
+     */
+    protected function _from_php($data)
+    {
+        return trim($data);
+    }
+}

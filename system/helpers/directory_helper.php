@@ -1,50 +1,101 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-+U2s649M78gFVXWIhqceVMe=
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2019, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2019, British Columbia Institute of Technology (https://bcit.ca/)
+ * @license	https://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 1.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+/**
+ * CodeIgniter Directory Helpers
+ *
+ * @package		CodeIgniter
+ * @subpackage	Helpers
+ * @category	Helpers
+ * @author		EllisLab Dev Team
+ * @link		https://codeigniter.com/user_guide/helpers/directory_helper.html
+ */
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('directory_map'))
+{
+	/**
+	 * Create a Directory Map
+	 *
+	 * Reads the specified directory and builds an array
+	 * representation of it. Sub-folders contained with the
+	 * directory will be mapped as well.
+	 *
+	 * @param	string	$source_dir		Path to source
+	 * @param	int	$directory_depth	Depth of directories to traverse
+	 *						(0 = fully recursive, 1 = current dir, etc)
+	 * @param	bool	$hidden			Whether to show hidden files
+	 * @return	array
+	 */
+	function directory_map($source_dir, $directory_depth = 0, $hidden = FALSE)
+	{
+		if ($fp = @opendir($source_dir))
+		{
+			$filedata	= array();
+			$new_depth	= $directory_depth - 1;
+			$source_dir	= rtrim($source_dir, DIRECTORY_SEPARATOR).DIRECTORY_SEPARATOR;
+
+			while (FALSE !== ($file = readdir($fp)))
+			{
+				// Remove '.', '..', and hidden files [optional]
+				if ($file === '.' OR $file === '..' OR ($hidden === FALSE && $file[0] === '.'))
+				{
+					continue;
+				}
+
+				is_dir($source_dir.$file) && $file .= DIRECTORY_SEPARATOR;
+
+				if (($directory_depth < 1 OR $new_depth > 0) && is_dir($source_dir.$file))
+				{
+					$filedata[$file] = directory_map($source_dir.$file, $new_depth, $hidden);
+				}
+				else
+				{
+					$filedata[] = $file;
+				}
+			}
+
+			closedir($fp);
+			return $filedata;
+		}
+
+		return FALSE;
+	}
+}

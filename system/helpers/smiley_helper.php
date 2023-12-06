@@ -1,124 +1,255 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-AyoMjF7lf9e1MyGoYJORp3Lpi0J+ZPq=
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2019, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2019, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 1.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+/**
+ * CodeIgniter Smiley Helpers
+ *
+ * @package		CodeIgniter
+ * @subpackage	Helpers
+ * @category	Helpers
+ * @author		EllisLab Dev Team
+ * @link		https://codeigniter.com/user_guide/helpers/smiley_helper.html
+ * @deprecated	3.0.0	This helper is too specific for CI.
+ */
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('smiley_js'))
+{
+	/**
+	 * Smiley Javascript
+	 *
+	 * Returns the javascript required for the smiley insertion.  Optionally takes
+	 * an array of aliases to loosely couple the smiley array to the view.
+	 *
+	 * @param	mixed	alias name or array of alias->field_id pairs
+	 * @param	string	field_id if alias name was passed in
+	 * @param	bool
+	 * @return	array
+	 */
+	function smiley_js($alias = '', $field_id = '', $inline = TRUE)
+	{
+		static $do_setup = TRUE;
+		$r = '';
+
+		if ($alias !== '' && ! is_array($alias))
+		{
+			$alias = array($alias => $field_id);
+		}
+
+		if ($do_setup === TRUE)
+		{
+			$do_setup = FALSE;
+			$m = array();
+
+			if (is_array($alias))
+			{
+				foreach ($alias as $name => $id)
+				{
+					$m[] = '"'.$name.'" : "'.$id.'"';
+				}
+			}
+
+			$m = '{'.implode(',', $m).'}';
+
+			$r .= <<<EOF
+			var smiley_map = {$m};
+
+			function insert_smiley(smiley, field_id) {
+				var el = document.getElementById(field_id), newStart;
+
+				if ( ! el && smiley_map[field_id]) {
+					el = document.getElementById(smiley_map[field_id]);
+
+					if ( ! el)
+						return false;
+				}
+
+				el.focus();
+				smiley = " " + smiley;
+
+				if ('selectionStart' in el) {
+					newStart = el.selectionStart + smiley.length;
+
+					el.value = el.value.substr(0, el.selectionStart) +
+									smiley +
+									el.value.substr(el.selectionEnd, el.value.length);
+					el.setSelectionRange(newStart, newStart);
+				}
+				else if (document.selection) {
+					document.selection.createRange().text = smiley;
+				}
+			}
+EOF;
+		}
+		elseif (is_array($alias))
+		{
+			foreach ($alias as $name => $id)
+			{
+				$r .= 'smiley_map["'.$name.'"] = "'.$id."\";\n";
+			}
+		}
+
+		return ($inline)
+			? '<script type="text/javascript" charset="utf-8">/*<![CDATA[ */'.$r.'// ]]></script>'
+			: $r;
+	}
+}
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('get_clickable_smileys'))
+{
+	/**
+	 * Get Clickable Smileys
+	 *
+	 * Returns an array of image tag links that can be clicked to be inserted
+	 * into a form field.
+	 *
+	 * @param	string	the URL to the folder containing the smiley images
+	 * @param	array
+	 * @return	array
+	 */
+	function get_clickable_smileys($image_url, $alias = '')
+	{
+		// For backward compatibility with js_insert_smiley
+		if (is_array($alias))
+		{
+			$smileys = $alias;
+		}
+		elseif (FALSE === ($smileys = _get_smiley_array()))
+		{
+			return FALSE;
+		}
+
+		// Add a trailing slash to the file path if needed
+		$image_url = rtrim($image_url, '/').'/';
+
+		$used = array();
+		foreach ($smileys as $key => $val)
+		{
+			// Keep duplicates from being used, which can happen if the
+			// mapping array contains multiple identical replacements. For example:
+			// :-) and :) might be replaced with the same image so both smileys
+			// will be in the array.
+			if (isset($used[$smileys[$key][0]]))
+			{
+				continue;
+			}
+
+			$link[] = '<a href="javascript:void(0);" onclick="insert_smiley(\''.$key.'\', \''.$alias.'\')"><img src="'.$image_url.$smileys[$key][0].'" alt="'.$smileys[$key][3].'" style="width: '.$smileys[$key][1].'; height: '.$smileys[$key][2].'; border: 0;" /></a>';
+			$used[$smileys[$key][0]] = TRUE;
+		}
+
+		return $link;
+	}
+}
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('parse_smileys'))
+{
+	/**
+	 * Parse Smileys
+	 *
+	 * Takes a string as input and swaps any contained smileys for the actual image
+	 *
+	 * @param	string	the text to be parsed
+	 * @param	string	the URL to the folder containing the smiley images
+	 * @param	array
+	 * @return	string
+	 */
+	function parse_smileys($str = '', $image_url = '', $smileys = NULL)
+	{
+		if ($image_url === '' OR ( ! is_array($smileys) && FALSE === ($smileys = _get_smiley_array())))
+		{
+			return $str;
+		}
+
+		// Add a trailing slash to the file path if needed
+		$image_url = rtrim($image_url, '/').'/';
+
+		foreach ($smileys as $key => $val)
+		{
+			$str = str_replace($key, '<img src="'.$image_url.$smileys[$key][0].'" alt="'.$smileys[$key][3].'" style="width: '.$smileys[$key][1].'; height: '.$smileys[$key][2].'; border: 0;" />', $str);
+		}
+
+		return $str;
+	}
+}
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('_get_smiley_array'))
+{
+	/**
+	 * Get Smiley Array
+	 *
+	 * Fetches the config/smiley.php file
+	 *
+	 * @return	mixed
+	 */
+	function _get_smiley_array()
+	{
+		static $_smileys;
+
+		if ( ! is_array($_smileys))
+		{
+			if (file_exists(APPPATH.'config/smileys.php'))
+			{
+				include(APPPATH.'config/smileys.php');
+			}
+
+			if (file_exists(APPPATH.'config/'.ENVIRONMENT.'/smileys.php'))
+			{
+				include(APPPATH.'config/'.ENVIRONMENT.'/smileys.php');
+			}
+
+			if (empty($smileys) OR ! is_array($smileys))
+			{
+				$_smileys = array();
+				return FALSE;
+			}
+
+			$_smileys = $smileys;
+		}
+
+		return $_smileys;
+	}
+}

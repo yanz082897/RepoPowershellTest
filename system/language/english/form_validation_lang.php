@@ -1,116 +1,69 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-7W==
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2019, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2019, British Columbia Institute of Technology (https://bcit.ca/)
+ * @license	https://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 1.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+$lang['form_validation_required']		= 'The {field} field is required.';
+$lang['form_validation_isset']			= 'The {field} field must have a value.';
+$lang['form_validation_valid_email']		= 'The {field} field must contain a valid email address.';
+$lang['form_validation_valid_emails']		= 'The {field} field must contain all valid email addresses.';
+$lang['form_validation_valid_url']		= 'The {field} field must contain a valid URL.';
+$lang['form_validation_valid_ip']		= 'The {field} field must contain a valid IP.';
+$lang['form_validation_valid_base64']		= 'The {field} field must contain a valid Base64 string.';
+$lang['form_validation_min_length']		= 'The {field} field must be at least {param} characters in length.';
+$lang['form_validation_max_length']		= 'The {field} field cannot exceed {param} characters in length.';
+$lang['form_validation_exact_length']		= 'The {field} field must be exactly {param} characters in length.';
+$lang['form_validation_alpha']			= 'The {field} field may only contain alphabetical characters.';
+$lang['form_validation_alpha_numeric']		= 'The {field} field may only contain alpha-numeric characters.';
+$lang['form_validation_alpha_numeric_spaces']	= 'The {field} field may only contain alpha-numeric characters and spaces.';
+$lang['form_validation_alpha_dash']		= 'The {field} field may only contain alpha-numeric characters, underscores, and dashes.';
+$lang['form_validation_numeric']		= 'The {field} field must contain only numbers.';
+$lang['form_validation_is_numeric']		= 'The {field} field must contain only numeric characters.';
+$lang['form_validation_integer']		= 'The {field} field must contain an integer.';
+$lang['form_validation_regex_match']		= 'The {field} field is not in the correct format.';
+$lang['form_validation_matches']		= 'The {field} field does not match the {param} field.';
+$lang['form_validation_differs']		= 'The {field} field must differ from the {param} field.';
+$lang['form_validation_is_unique'] 		= 'The {field} field must contain a unique value.';
+$lang['form_validation_is_natural']		= 'The {field} field must only contain digits.';
+$lang['form_validation_is_natural_no_zero']	= 'The {field} field must only contain digits and must be greater than zero.';
+$lang['form_validation_decimal']		= 'The {field} field must contain a decimal number.';
+$lang['form_validation_less_than']		= 'The {field} field must contain a number less than {param}.';
+$lang['form_validation_less_than_equal_to']	= 'The {field} field must contain a number less than or equal to {param}.';
+$lang['form_validation_greater_than']		= 'The {field} field must contain a number greater than {param}.';
+$lang['form_validation_greater_than_equal_to']	= 'The {field} field must contain a number greater than or equal to {param}.';
+$lang['form_validation_error_message_not_set']	= 'Unable to access an error message corresponding to your field name {field}.';
+$lang['form_validation_in_list']		= 'The {field} field must be one of: {param}.';

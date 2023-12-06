@@ -1,54 +1,154 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2019, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2019, British Columbia Institute of Technology (https://bcit.ca/)
+ * @license	https://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 3.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+/**
+ * PDO IBM DB2 Forge Class
+ *
+ * @category	Database
+ * @author		EllisLab Dev Team
+ * @link		https://codeigniter.com/user_guide/database/
+ */
+class CI_DB_pdo_ibm_forge extends CI_DB_pdo_forge {
+
+	/**
+	 * RENAME TABLE IF statement
+	 *
+	 * @var	string
+	 */
+	protected $_rename_table	= 'RENAME TABLE %s TO %s';
+
+	/**
+	 * UNSIGNED support
+	 *
+	 * @var	array
+	 */
+	protected $_unsigned		= array(
+		'SMALLINT'	=> 'INTEGER',
+		'INT'		=> 'BIGINT',
+		'INTEGER'	=> 'BIGINT'
+	);
+
+	/**
+	 * DEFAULT value representation in CREATE/ALTER TABLE statements
+	 *
+	 * @var	string
+	 */
+	protected $_default		= FALSE;
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * ALTER TABLE
+	 *
+	 * @param	string	$alter_type	ALTER type
+	 * @param	string	$table		Table name
+	 * @param	mixed	$field		Column definition
+	 * @return	string|string[]
+	 */
+	protected function _alter_table($alter_type, $table, $field)
+	{
+		if ($alter_type === 'CHANGE')
+		{
+			$alter_type = 'MODIFY';
+		}
+
+		return parent::_alter_table($alter_type, $table, $field);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Field attribute TYPE
+	 *
+	 * Performs a data type mapping between different databases.
+	 *
+	 * @param	array	&$attributes
+	 * @return	void
+	 */
+	protected function _attr_type(&$attributes)
+	{
+		switch (strtoupper($attributes['TYPE']))
+		{
+			case 'TINYINT':
+				$attributes['TYPE'] = 'SMALLINT';
+				$attributes['UNSIGNED'] = FALSE;
+				return;
+			case 'MEDIUMINT':
+				$attributes['TYPE'] = 'INTEGER';
+				$attributes['UNSIGNED'] = FALSE;
+				return;
+			default: return;
+		}
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Field attribute UNIQUE
+	 *
+	 * @param	array	&$attributes
+	 * @param	array	&$field
+	 * @return	void
+	 */
+	protected function _attr_unique(&$attributes, &$field)
+	{
+		if ( ! empty($attributes['UNIQUE']) && $attributes['UNIQUE'] === TRUE)
+		{
+			$field['unique'] = ' UNIQUE';
+
+			// UNIQUE must be used with NOT NULL
+			$field['null'] = ' NOT NULL';
+		}
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Field attribute AUTO_INCREMENT
+	 *
+	 * @param	array	&$attributes
+	 * @param	array	&$field
+	 * @return	void
+	 */
+	protected function _attr_auto_increment(&$attributes, &$field)
+	{
+		// Not supported
+	}
+
+}

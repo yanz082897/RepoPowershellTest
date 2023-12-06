@@ -1,81 +1,137 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-WAT7kLqNjdq=
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2019, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2019, British Columbia Institute of Technology (https://bcit.ca/)
+ * @license	https://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 1.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+/**
+ * CodeIgniter Security Helpers
+ *
+ * @package		CodeIgniter
+ * @subpackage	Helpers
+ * @category	Helpers
+ * @author		EllisLab Dev Team
+ * @link		https://codeigniter.com/user_guide/helpers/security_helper.html
+ */
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('xss_clean'))
+{
+	/**
+	 * XSS Filtering
+	 *
+	 * @param	string
+	 * @param	bool	whether or not the content is an image file
+	 * @return	string
+	 */
+	function xss_clean($str, $is_image = FALSE)
+	{
+		return get_instance()->security->xss_clean($str, $is_image);
+	}
+}
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('sanitize_filename'))
+{
+	/**
+	 * Sanitize Filename
+	 *
+	 * @param	string
+	 * @return	string
+	 */
+	function sanitize_filename($filename)
+	{
+		return get_instance()->security->sanitize_filename($filename);
+	}
+}
+
+// --------------------------------------------------------------------
+
+if ( ! function_exists('do_hash'))
+{
+	/**
+	 * Hash encode a string
+	 *
+	 * @todo	Remove in version 3.1+.
+	 * @deprecated	3.0.0	Use PHP's native hash() instead.
+	 * @param	string	$str
+	 * @param	string	$type = 'sha1'
+	 * @return	string
+	 */
+	function do_hash($str, $type = 'sha1')
+	{
+		if ( ! in_array(strtolower($type), hash_algos()))
+		{
+			$type = 'md5';
+		}
+
+		return hash($type, $str);
+	}
+}
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('strip_image_tags'))
+{
+	/**
+	 * Strip Image Tags
+	 *
+	 * @param	string
+	 * @return	string
+	 */
+	function strip_image_tags($str)
+	{
+		return get_instance()->security->strip_image_tags($str);
+	}
+}
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('encode_php_tags'))
+{
+	/**
+	 * Convert PHP tags to entities
+	 *
+	 * @param	string
+	 * @return	string
+	 */
+	function encode_php_tags($str)
+	{
+		return str_replace(array('<?', '?>'), array('&lt;?', '?&gt;'), $str);
+	}
+}

@@ -1,123 +1,248 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPpfdvPrV/jtILgHmll9u0dsrwq5rsgFqiFoMBOoihCaIijel6eK4e+vck0ulf0HH0lsl/aYI
-CIiZSsv958Iz+D+DmpvaUJfnPTZbHAql8/Vxw719svXvyuGvryDU9flaKEeiDbB7NdJLnVOWfLe8
-BwZ4/F17xxUvPE5ZuwSifGXEqD++PD3472aKpfQAmRH4wJ0FvRHzYJghoAY3OE4ArAfflbx6o0jp
-pja4zihKVjcvk352Jn5f4WyGGR9kgWT3UDCQMzlSrFCacpJeFRJqwe20LIY/al6ReLUrFTNqXKLa
-CsO/4NdfXdzafTk6iTwGWgCM4cx/V8P1l+IMGYHbpq4SI1Ugf9/Vuce6ek+Ht4MoT6PO4oQE4hy2
-28BrRrlNuBoVhaHSxT96RraDDjnivVXPW3t+rZBTH1RHt6+OoOsTlN3s8Upb88YLAlIPt7emB8I5
-iNR6ZgHTdjWYol7N2XTRIOqUCke420d3QPDGN/qpGWQrX7YkWY04n4BR5JXEbwHxmRYXkqCcQFEi
-k67W+sXB87gtBEDg6arR5XQ/d1PpY4ZfXwI0B2SLwCRybD+WBjZGCneeUGXwE0z+5VR1CtkB74Qu
-X55OxcR8ZKQ7jeTn8DJgduq+yBN5+ad6DkpWaPtDgMfaEvfvvDr67sQ99ZPgSgdbNF/MlntPWnoJ
-m06X2tDD+r0LHW9/oTv9sXVqwBoGsT9Pz3ZqMkWLORXKSphkeKwqaXOB5ofhiLa9SIy3K4BaPb/G
-jaM72+vSMh1qnVeYMLpBgThHV8eGrTBHK6c1dvZPLTX/PV2aBzoLu1Y0ChJXKjFDv0XulhCo9zjE
-Wy6Umf+57iMbEOCV/PFPtSdwtj7rtwXFq8dFI3r0ceHBVjAGM8PJfEXg3QveQRoetbQcjXo3gIGf
-Os9E4n/8Ol0oJcLRLP2NvCPpHLXl9NscbCT3xrV1qeb+1DwjkWYoMoCTYZlf6FqRg8FYlGzlCgv2
-PCy7v5wr/OcJ+ViXL1aHDv3D4aD7/t0SfPW+zsRq6U1x8MbNAh87e+KFz3ZAqG+7Kop+xVYPlURt
-sogG+K0rjv9TE7nNHCQyNm/SS7VmP6SaQzLB2YNyU9JbS8XGXsXBPyskDodXLXDrFXJeoPcaoMGj
-ARA2iIbYNgybf4bTYf/lSAA6rbxi4eT34Zk7RLcKP4QGNOYPnawg61lGPxYD1HdPcJd0pHbdku1c
-VRMLWI9Z0NTVFzxDFOM3lT4jXmQAJHjsy5w6GPC9zk+0f76J+nb2cbshQhKBP3dVOAfw4Qd5uXQK
-nCJKr81baCrVJodA6ykjaYeaPkJSWVerS1TEQQQlJEGBrdnkvtarLJDYvWJv7OXhTs3/5D4WbrgT
-htwDwZWnhuSwTiCrk2mC4NeaupjFZGdX1rCv4yyLm08K906o/FXYd4c8giyalC3gxd5pMk7Pv3qF
-eatAPMC8QUYBfhelvMGEO2bJ2U4IH6FuoI4c8g5Qc6f43kYj7igqhsNwT9QxW/YbajUevLWxjJkh
-E2osdHnLVbcDP0BMOBFqS7JPkq3nNqur++b6em9KuLyzVTTJBtJve9a42SoMJ1sji2EVDS8o5Z5P
-rNir2yn0GSNrYY7Ltzj/tMz5iiqlFz9QuRudEV/MQf11TpaHSMdfnjXkpG8utDZijo8lhvyKE9pG
-BXUw2HCtt7+WwQXshcXGHfRfOMT5OMSmMF90hJSgegpxiulV8ypgqRE5Kj4C9G7HjvSLSzXrs/Js
-T0OGKbn0hTA+K7YnGACZoC2BXgxgnyJrKT79T+MMw2Elcc1R6HejgHk2JDz9sbv032Dpc2OGU42o
-lQtx1mK3UIk+7VETWPnfM4ka/2kD8IZifWtQFx6qeuvqV/snVEfwcEb/QXuGaq4jyIWDLprRv2sH
-gRuVwQf3H1ypQH/kNgbR8bgs+2JIBqEnBX61/9K73K+NiLrn0UWtMnr950RZLNQ9Rna+DDRAYSjp
-h1RjUp08whhZeHY2lw0WWS1RW7kJybgy1kj+UZUVWTslz2NiLR+lNCoq4Xh79sC9WWC/N+pV9s9D
-/qpZyCUxvHvhSjpgq7AUBbK8bJXn25+w6eI8k2LvaXDqx0KgCSa1cxUlRUmIyN450NTrESWdqpqz
-lahc7zPOnueXEOiEwCaTygELMam413qOddCrWOjn3OB4cZxT/y3cubtZNfWGXJJupF4sYRjMO+6J
-TxF+zoobONaVb9pdgD97TCLbSO2q/n6Sukt7lJLI+x/fukKA4reJJlZLDKO3PmA+RS8jB0mGQK2S
-A6U5bXmR10RfqJlxHTfxE6xLHNkXfIqDeRHZi+VpjxL5s2QtqXackF6FyTL95SkpNrk+43tzPF6T
-/D+W4Hot3HVAKsPs+d3iV725+1WmJbxrVY1i+2t/6WBRfov4Rj2SKPFG0NBUut3ZDjFoK0u5R9lA
-yVIWDFQOyZRvhBGlkr2HgRkXc7McTJq92UoBanYE7X9JMzk435GfoUIYnCAyFXU6/Upqt/Q+Ud0Z
-XvSZAQXFywlfgZ5Zn6YLbYrhXmam0GU/LgLwv68/NF675l83xNS3Gm+iBGtQUZxUPWUy7MNSIaWa
-/VdUcDBm9y3oaZchP2jgxWRekrbTFKvtiLJlm9Mc1tsa45YC5eLm+WHHNL/Xqnjw2uQi3s3/0kUm
-CLQdS6KOpoNdP0ohlqVo1t8xGe8Lqw954WlWZTanEf6RRUtBTbsvGL1mjBHaRIDmokKv1jb/PP/w
-QF+oOO+t9kdwDO/gHF6h0o6KjHOOESNTIYdKGwfssBvcaFCDE8qZhMdbBYC2XIKDbLckX+7BW0MU
-eNjk4uY5r9O/lEwvqTHwNh64rcVNz18prrFl48tEnbfiIsmFhYTTgu6CrX9q81WBibPcW4/aD81D
-ZV9XPjn0sfpgXj5pYspN51am3nJSxX/RK5XdCLwKZkme1aRTckSnvG3qbxwG5l9dPdJhxzLlS+Ij
-IluZUdRICsTpxVOYZVS7gy5bfnSx53RwtmFVcB/FcnlR42hRBQivBK9eHE+KiSvAqf5xLAV5EXBS
-gkjLAngG8JvXx4DLWGFZM96HBFR+uoxO6MAHNNud7EEKbt/25w52c7VfcccWCiuYjBKUFW54QkbW
-8s277nI8neCF6czm7AqC2jqvGwswNLzNCF7fZqYR309BMqCQUw6rV737+QT0afMJhd9WElev3naa
-yx9p90P7WjBWaEZgx1xplucLY/QariRnsnNs+v9G608x2P+t/S26Ik0VZszn7MtzFVzE/K1rTeqN
-Il9y1IEg1wA+TrTRfiBQcNKPuMiac0f+TPqOdvHN7baW6W11sV2E5DAgRksSVfT15zCfB7GEIABH
-iKpT6Q5+QDyYdG4QIgq5hgWMPH+84BAyJcUcLrB2X+gu4NWbzH4RzMTiZAm1OtgcEQCW9h8ZyEbj
-gbE/LjbSVIeXnihHvnfEexhh4vfRVkX6/PnJDjEkVmB5XJfk07CdPmCdYZWuRKN/wduGD+FVbwhk
-rfc+xoT6oU27DLuVzphpq7F1TGWr/Etj9Gc92RJqzOly7TjWnUpAylxbP571GrwD/1435n0XqXrI
-aBrszBoAJCAcydNg/WKfdZ9A0dsBSRET+gD+jpbmlwC8hnFJEvUpBXEO9X1lCbSVuDZ3/EmMSxOU
-+om0jfECDiifDzdDNgNpaGHScY5cpDJUm9Cvoxikc9GWflcLUdzHpuCu5Vq7zrCLKFQH5oXM0zzf
-j7gQBGw+DOuUzSuWBJ79DbkF0dZwMnCYsTLn9JxuvkhaAX+9UmiqUNs4U2JYguY9Dnb8pmoxkA6i
-OsHQDPUDo0v+UWg1lPpCWSSoLyryKRgOWn5hl23vOesWANz+KrXAnxdUwSzqNb6HTqfCNNkDT3A+
-4DdIldhXQWXUpOlAcKgNng+2RcGp6P9jjueXCEc3+3jHAjT39vbXIpE8nHtAzZ0hlU34ll7kyxub
-dVGuScw9nD7fsKJWxeagaUvcZIIHj34cdW8lecvPhbRDYCQGXNH5kejL0whAv2sHbj4bK7JK0lER
-MxFWIDcHyK97/NNmBX0XQD8v/CLY6gjsKk6ISPn66cZ5jJ94RotoQvUqlU8n84sLih9nf26fzgqB
-wQj0BIWjW5yQp0ecbgUvLzwv7Z2Fs+0V5Bl6rjHsZ2WvRWuPQBJOy0cvm1Wadx8CwkXfXsmstiB0
-cUxImjjmc7Iqd/DOjeE4S6ccnjkFFbRgnqu0dYVlk57iEZZcs7KxrnFIHirBvaAM4zC+qiFU/QNs
-m/FJFJBACt8FDTNMCOG3pOVOrYdNz3GlUaPEq9PrU4dqjdv780QG4hlYPDycHxQ9Cxwo46ThY3su
-2lFL5GzKR7guRmF2vZZbArS3wDlYr3lkFdULeO/hnb1Cr90Ehq5JtVSFUlPW8DyxqeDxBynmMDXO
-bpkYyyBvkf4ON85O0m93nP0685vX72M/WBg+PNBcKYn0+dpxS0TgkUpth4cCKi8hvGEqmVVHeMb2
-wzcvr2dvS+QbEM/BxRfTliKLqEhdy6z1akGKW1YGXA+S/Cds08AFsnvmukk+NTWI8ylpsC9dFYab
-iriJMbUOXjbQYLz9lCCN93wQn+l0mZ24GzGIPH5PPVjRbpZ9mSoa9NhK7Bz0F+UeJjZCJAtJzw2d
-MGtEweHwQntVMpUpzDM0q/AGpvtgfIoD++fqXfWcgex5hYIH4jX7twExph9BwuoW+23q97q70FaE
-Didi6IX2rUqN14aQloq31xu6suqraCSdxlgkVjVxXbVTgTbe58RsLGw3C70SCCXBJq0I3AdZPtgT
-JYm3LyMCjR+96es04x1zexGO+6ZEd4HtOd7JI/2k4qazpt0efHimylv5okeCV8VvSE9ct63Hszx4
-HFEuQ00xgGcNkpa++myWjVHpn+HqbUO7MIJANeX7zsLwRX5hNIA766iFAEAFRDyJasWJcUjP8YKV
-92TF5jG02PjeUX7wpAnBTWFYzGRScshDGKQw19REdErey4oIVHFkrWXxvsGDcBx6ODwtDaNArBP3
-GD25Rj/C7LR7LCmUlYEOFzHENd8Jb5ZOXMYXvUZ6Za7WKGtwuJtcu0lHM3QUUlsfdNJWffMvYD2e
-/nTO5mREBFA8zageCigAImP3eyqEjSdsw4/ysAvW+ciRsPC77Xipfj/JKnLoumPpG1B7EcabK8ia
-xA8m9z/nJEKHobZyLHb51//eL6j88ebS9MalnK1aZtgvIRuFvdZgI9dF+Wf46j09Jy6qvGX8VqZI
-2GXBtBKmYyLgznoErhGiaU4V7x2tp058WE7+cpFJZntgYl3b/5Y7IkwNVzgJvwJNB9cmFfhZXO1B
-jKCJapdYkguzt0PnNUdFtiJeQaAdC1Y+FbdR7t6ioqFt+W2BVvuvkXdwiiyEynp3ZQiojid5h3y1
-HsLdTTipLheqIPB0ZqrlD4yJmhno+bckH7PjmcJWjdm3SxCqApkyY7MHv2yq8iFS1238NLgWqO7T
-33OJ7ljOk6Z26GXqdcQMYnkPV6YKjrwpUPl9XE00RqNV4mukMYbWJ7i9gkb2WIEoalwPcybuzNZb
-DbdS/q2z4zT5mrdfBXA3wUP0DEYywZ7f/CEO3CB6JuzhtAn/7Gc/l5r4HHsQihX5ybnYE5IYGZNK
-KzfWsTPGPESsUnlL5hPHxMEKn1BcDlWZ/U8z0ueSbIPQQgI73Bb42RHlm+2BGORfKPC8Vf9eSqC4
-T+h+pxAQiRb9oTeLu/T5re2CUYAkwxFzFZNUMrk5sMGuD5PyqTwR6I/m7W1Wb6zhh3NcKlVoEzB0
-sae7ZFfDaOZepdBNxhQDEJANHShd4YanXx9pFn72QwpMWJea7BizWN+QBZUHOw2aW7eG69NgBUzm
-XbT8fQgAI0aOW2AqwVdgEl+iQanxSSyHGqcgExU775+oLwvIc7vwRfSRLsGqb8ti0D/FheG8LLt5
-gziPBWEqRZgWcQZFGftRJbAzEX75BAQ3ZR+TT7yvsBsDzvNjam9A4H7DhaaFbJqgHhxE7GU027PO
-vUNrv51IJq0xgPU7a+l9UIHc1z8kzwjSNI5L/MoHawM1BnVL26W6yqzJGoq6abBsVDZZz0K4xTW+
-tncm99k18iCXs3OCey3fsyfVg4ksjur34f80HuPrfqG2kOvVoF6+lKN5HMk2Z7mUBtuSqa6qYbPz
-ytTXMKFKgUFXAtxGhwoytysir4s8BtoUDOSosGWV28pEv/y3fsdcUTU+ZtmU/x4ed8fPkeT1zIBA
-jgdsp+K/fW0YVXHhgqyiZd8aPwxvzZ22yM2yJOAV12/TvKCxA7E9frVHB+ftf/XAC7ukE2RyJgQ8
-ZP5OyZYfuBs4+/KQaZueB70NCMjMwV1upI1102175rUJ0pxQUrpYa5OBhzP4xidXXTQIgVhgn2AG
-Y5kae/NBlSkx6xldsc5Ox3cJ4DDS5WCLJ6l9TRTk0AKsIEfXNjoZMzwuNpb1uZaX7LsC3a0e+Rob
-AxuAavgSj5+QSBXXl4EOVjNIBHt3S/daP2rp1Z7Gq1hrPsPc00W5ZM8htXSlLHx8k2L/0f1+/6mA
-nrYAQrqrK0eRamPwS2MeLI2rHoTijArkFQVwwxemTtZXa+9giRdN01o6OwBBKKZhccMtxmrjt1rX
-YYYLjQLWpipYzScZIeDw1ksqtubA60cmE9C61mQdukeBvVAZ6fSL2yhzJNigb6VaeDatXDkajY+Y
-RFL6+D1IBtAwJjw39gytbJK7tew50Jz0p6H4AISpds2tKhj8yLY5HLxLR+zOBirrMnHJFtseUGfd
-8lD5z0QXA6xk7TpqjuYRU7ZanqwXr2+9DvIhZ81p7KcUt0TLTvPkdmCOMxL0Wt5jG4XjDK91hU34
-4q0IugdHBjllokWidA580GJG8vuMquyjzIYUj1QNQAQNXgy6AN2h4B3NoAf5YcY7MFy3a9zquwrX
-fxfcqmUbtrszONnv7FP2iW3tMnD9VkWbZej2Yeyno2iOBNstyalbw6+F9MOWM/3BGBxIKteMvzaJ
-lyLjCLWLAqqeIqs9pC1CJ0YGuHNcuSEJHsD35iok9EhXs7AOwKoNuOhEyjtg80JwmjepAbcrYHRH
-QWQdJzQfeW8sWKOYWVtp+t3RVLRXp6vuffG+A4uODhSqrPDMZTy8agueePdIuIyrw2sEhBR6M/Po
-sazic0eHt/Mutw2azRP9befzfl6uZqu0Aoas6sBxzr5s/Bgdv1OzoUGeQunvE4qKuCN8q+0dqJtI
-bAetpH/GNsQKRHO8wMYBwQ4igD9y2aYWBTZ0NuuV3BwSpYP0uLynQqd7yOWG3qqpSn3xLd8BUsMv
-oQNc0DsbMERdE6ETm58M9kUevxtG6J2easSHOUxJV4Z2ma5CTEknywMFlePgQxD9GDT23a2dgjaS
-disrKQk7rLtSk8XlxFZObM7cEouPRtGL/LdyHKLUJRNM0l5SoGugAQ5jC+fMjNPmqg9s0IK52Kww
-7cMSLLd96L1Y8tq0nNAGfMmoriGOehNLENZBarfTXlXPkBIUPfR6RECPeANZKqpmIT25cFL+TBFD
-R8QWd58AX/W+5m9zEmGUB3rcUaBjotnNPSjtFtQ+9hGH7jhbjiK1DGf3ILyxcW3f0vNGATsU95M7
-IoXbDnI/FlEXlP/6Yivp6OQC9lW5swFMWchsdoU5Zm6WRVa6EHD3bHq1n4evtFgjUseRcO//4Hvc
-tmSZhkCAz9925FSWlRlTO2Af5kXIy1UQ5PZTn63vw5T4SgzIke3tKaKM+hMnCWqhkFZGeCW+C6mZ
-0YKNWo8eiGw6WVIymkNaEV0F44R7bJCQTsGm0AUPSvTRTF30PIMh0rZ2/WidFL4NDdw3aq/NwANa
-8BP+Xe/E8zdQi5As57w9iQVT/TPz0g4PIUB48MmACH1rMq4pW6zU5XyCRKN7pLXnyq8KOlMDv9ew
-pSbckmfHObU68vKKzUvQnGUykzCDL27boqvmItgfBl/shrvQ9VEpPB5p1wMOgjyWZ/jVV4DmGQpA
-TVJiVXxeRIGVnMaTUQ1moH+SDye6rtknG8upfC6teFWa0jJcvjGVd+0qMjd5nnhS7AjqkG7Kd7IJ
-64HE569D1xECAIE+YgI3VCn1azC0K5yOjFGnx4Ps++GdbWvOrYNnihu0NP/4h6auwyQS5XYIYpBP
-Iou0Ygp56J4r2YTDVYyewNrH73V4chrbUT7ERsmqLiZoNi58Y8F5azG64wXkWJkVFmHwWr/VIP0c
-dIrngIIo3iuIbQomu6AWcooSTlydJZ8dIBpYJd3/zNjou2FFm2IvdBj2FRIbVYvym6GeJmjV0VlA
-jpDesQ1sWA+PPEQxadz33t+3ORk8pv+6Ucyt+fwWwpxTA0r2NewK5o0WvjXPnr0cwQfnwV35yBYC
-gEJc8t5QONOCg/C7FvvZBY74EtkGiL5bUP1ghKvvx66pI5VRrIRJ94tLY+iasZeN8ZMJMPA8RzFR
-/2J63msKnOFtZr0a2Px5OqCYOEtoHnHiEC3KDpdjwuYcwLRiToJFLe12wI307tDANmNBPDZvzI6i
-GcOH14vB7eSFmFUSwRPAyr5BHUDYXB/cjaKW+3J1+81IPLj51hVXGipCw/sl8Zek/U68prKbXo16
-dx41HQJRyBr6ztpbcBKBDHFM+X0xhf7VTRHfwVmqfyDm6qt/n8kaUdsTBxuv4MgKLZ5tOvY1IS7k
-gHNV1dywamBr1gINW7OU3dJyPIBq9vAl+Mji5uqQqrfoFU4N4lFjO0MwlsUNFuZyZSJgn3y3JhKh
-LYtpA9Q/7MDYFktS6Pamqg6453dUE//J2wwOx8mY38HGjInIgxX2b+0uOjDeOR5u9Z3eIwopopd3
-Aof6Fe7OV+verj/4CDC6tgXefSin201/SJ+xOJFvTWrSNkM27xLlevy49qGjDVwkX0o+a4fhKJve
-yWlpzRqnesCp7zf75ZLsLW/OBixrRmQfu1A14NJSfLg7gyuhD0ALYg/9HOQjljoqzU1XWji3Ayjy
-yGoPr2qk4nLmuB/TC/sOSRmNH2IteHdqSsqpiP6JWnmDouEYmXfWyNmS4ztbLPpAH1Krro4VJFIA
-3r/+ENkeWoRgoMJks76n6xwfem==
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+/**
+ * @author norlan
+ * @version 1.0.0
+ * @copyright (c) 2020, Channel Solutions Inc. * 
+ * Track No.    DateTime    Author      Description
+ * ------------------------------------------------------------------------
+ * CFV-0001     09-08-2020  Jezzy       added email format validation
+ * CFV-0002     09-12-2020  Jezzy       added min date validation
+ */
+class CSI_Form_validation extends CI_Form_validation {
+public function special_ka($string){
+    return preg_match("/[`@!%$&^*()]+/", $string) ;
+    
+}
+    /**
+     * At least 1 uppercase letter
+     *
+     * @param	string $str
+     * @return	bool
+     */
+    public function atleast_one_uppercase($str) {
+        return (bool) preg_match('/^(?=.*[A-Z])/', $str);
+    }
+
+    /**
+     * At least 1 lowercase letter
+     *
+     * @param	string $str
+     * @return	bool
+     */
+    public function atleast_one_lowercase($str) {
+        return (bool) preg_match('/^(?=.*[a-z])/', $str);
+    }
+
+    /**
+     * At least 1 number
+     *
+     * @param	string $str
+     * @return	bool
+     */
+    public function atleast_one_number($str) {
+        return (bool) preg_match('/^(?=.*\d)/', $str);
+    }
+
+    /**
+     * At least 1 non-alphanumeric
+     *
+     * @param	string $str
+     * @return	bool
+     */
+    public function atleast_one_non_alphanumeric($str) {
+        return (bool) preg_match('/^(?=.*\W)/', $str);
+    }
+
+    /**
+     * alpha_numeric_special
+     * 
+     * 
+     * @param type $str
+     * @return bool
+     */
+    public function alpha_numeric_special($str): bool {
+        return (bool) preg_match('/^[a-zA-Z0-9\s!@#$%^&*()_+{}|\\[\\]\\\\:";\'<>?,.\\/~`\\-=]+$/', $str);
+    }
+
+    /**
+     * alpha_numeric_special without spaces
+     * 
+     * @param type $str
+     * @return bool
+     */
+    public function alpha_numeric_special_no_spaces($str): bool {
+        return (bool) preg_match('/^[a-zA-Z0-9!@#$%^&*()_+{}|\\[\\]\\\\:";\'<>?,.\\/~`\\-=]+$/', $str);
+    }
+    
+    /**
+     * alpha_numeric_special with spaces
+     * 
+     * @param type $str
+     * @return bool
+     */
+    public function alpha_numeric_spaces($str): bool {
+        return (bool) preg_match('/^[a-zA-Z0-9 ]*$/', $str);
+    }
+    
+    
+      /**
+     * alpha_numeric_uscore
+     * 
+     * @param type $str
+     * @return bool
+     */
+     public function alpha_numeric_uscore($str): bool {
+        return (bool) preg_match('/^[a-zA-Z0-9_][^\s]*$/', $str);
+    }
+    
+    
+
+    /**
+     * Not match one field to another
+     * 
+     * @param string $str       string to compare against
+     * @param string $field
+     * @return bool
+     */
+    public function not_matches($str, $field) {
+        return isset($this->_field_data[$field], $this->_field_data[$field]['postdata']) ? ($str !== $this->_field_data[$field]['postdata']) : FALSE;
+    }
+
+    /**
+     * File validation rules
+     * 
+     * @param string $field
+     * @param string $config upload configuration rules
+     * @return boolean
+     */
+    public function valid_file_upload($field, $config) {
+        if (empty($field)) {
+            return TRUE;
+        }
+        $CI = & get_instance();
+        $CI->load->library('upload', json_decode($config, TRUE));
+        if (!$CI->upload->do_upload($field)) {
+            $this->set_message('valid_file_upload', str_replace('{error}', $CI->upload->display_errors('', ''), lang('form_validation_valid_file_upload')));
+            return FALSE;
+        }
+        return TRUE;
+    }
+
+    /**
+     * Toggle fields rules
+     * 
+     * @param string $str
+     * @param string $param configuration rules
+     * @return boolean
+     */
+    public function toggle_field_rules($str, $param) {
+        $params = json_decode($param, TRUE);
+        if ($str === $params['toggle']) {
+            foreach ($params['fields'] as $field) {
+                $this->_field_data[$field]['rules'] = '';
+            }
+        }
+        return TRUE;
+    }
+
+    /**
+     * valid email
+     *
+     * @param	string $str
+     * @return	bool
+     */
+    public function valid_email($str) {
+        return (bool) preg_match('/^[\w\-.]+@([\w\-]+\.)+[\w-]{2,4}$/', $str);
+    }
+
+    /**
+     * Date format validation
+     * 
+     * @param string $date
+     * @return bool
+     */
+    public function valid_date(string $date): bool {
+        if (empty($date)) {
+            return TRUE;
+        }
+        $d1 = DateTime::createFromFormat(DATE_FORMAT, $date);
+        if ($d1 === FALSE) {
+            return FALSE;
+        }
+        if ($date === $d1->format(DATE_FORMAT)) {
+            return TRUE;
+        }
+        return FALSE;
+    }
+
+    /**
+     * Minimum date validation
+     * 
+     * @param string $date
+     * @param string (NULL) $interval
+     * @return bool
+     */
+    public function min_date(string $date, string $interval = NULL): bool {
+        if (empty($date)) {
+            return TRUE;
+        }
+        $d1  = DateTime::createFromFormat(DATE_FORMAT, $date);
+        $d1->setTime(0, 0, 0, 0);
+        $now = new DateTime('now');
+        $now->setTime(0, 0, 0, 0);
+        if (!empty($interval)) {
+            $now->add(new DateInterval($interval));
+        }
+        if ($d1 < $now) {
+            return FALSE;
+        }
+        return TRUE;
+    }
+    
+    protected function _prepare_rules($rules)
+	{
+		$new_rules = array();
+		$callbacks = array();
+
+		foreach ($rules as &$rule)
+		{
+			// Let 'required' always be the first (non-callback) rule
+			if ($rule === 'required')
+			{
+				array_unshift($new_rules, 'required');
+			}
+			// 'isset' is a kind of a weird alias for 'required' ...
+			elseif ($rule === 'isset' && (empty($new_rules) OR $new_rules[0] !== 'required'))
+			{
+				array_unshift($new_rules, 'isset');
+			}
+			// The old/classic 'callback_'-prefixed rules
+			elseif (is_string($rule) && strncmp('callback_', $rule, 9) === 0)
+			{
+				$callbacks[] = $rule;
+			}
+			// Proper callables
+			elseif (is_callable($rule))
+			{
+				$callbacks[] = $rule;
+			}
+			// "Named" callables; i.e. array('name' => $callable)
+			elseif (is_array($rule) && isset($rule[0], $rule[1]) && is_callable($rule[1]))
+			{
+				$callbacks[] = $rule;
+			}
+			// Everything else goes at the end of the queue
+			else
+			{
+				$new_rules[] = $rule;
+			}
+		}
+
+		return array_merge($new_rules, $callbacks);
+	}
+
+
+}

@@ -1,41 +1,79 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPyB/unwb607ZYfMDYuR6lyARGn1LzHihAAF8vpS9mOlzQZJEz2Y06iEUrjNMcE6K53r5p1W+
-higlY5XE2SzQ2DvEzGDp25/f1KP02/62nkkmJ/8OcLQEXXUMT/RL4VPpXfUX4QpGlbVf0Mixv5Yh
-jokXJC7q0xt5srMW9D9gL0jEEP6TJ/mEMjRvuD2pv4lvGEwDn1cM2oJzNGxWAYh2Olp7ZYyljrIQ
-91H2Hn1EECdlNIh9N20Z+GEb4zPwMxXbzaolcbIWp0vBsMNlQQGCBBZ1/h+IyPkXLxKzrVI5HMGp
-PZ+cSk4mNcepZvVjbK62en4IVWTnUpf5P+72dfrjJQYOJxZU2WFaaQitMEzoXMIuZpgnqZf0CFvO
-RBm4uBApbTXdChI62RYQSH22DieKjbJCGl4uG07kJ+Pcqynux1bcd/RvuQFkME6gDX0UZNCkFI1K
-uKHVNjZXn6di8c1faY1mAvbW81vdv1j0WrwuttW1PP1K0ALR+Kc+GAyPXCQvK7g0yNNHsacH4SW1
-qhQEyX1hKyMCdMGmP6ncilD3jKfhg/PCS2r+wdis21Y8k6XA1kLoEEtCWyUOTPa4yw/74SZPltqP
-FnwIxQ/GBg135zPbAwDGyW2YaocnTyfxVJqLFnfYeTvDoGHaFG7fr2xlEeq00PkisHvJj5VsRIXF
-mmK9ZUESWDZ8B6uI5iqBLgQvtluPhk6bzRuG1Yx+pn7HBggMZ8SOqzZgX3ZUqcP6pCgNAbunChYC
-UEQ+qRwIvb4u0wt/rHVT2Ru0AcWzwtqQb8XiTpqI9hLMgZKINUlWaZH2y4uqP/7LpwJXzhQ1IkoJ
-9Dqg7GrCWhziH8F06DA0QjqUWKMWSnZy9ocXviPRNCHtIlwm8nGTxcFs7CqskzQyeSaJu7SSmRPO
-NmOE1Uk4lZ1q+uwbMkuJQyWLZWa2DkoY9ezvV3idec/AGAp+zWuuToL0fzQXSOCNPzP+0XV4S+45
-58rtA3TivBgU7410St70WPbMtJvXWDLul9ahP+Kt6d7/xTQ29Wbrwj7dRNYMPwh8njc3gffAaPvD
-HZ9RUlGOvwqU/tPfwKUkNjMm6MjvmtXPCh6LSHaDP1TS4Cw7/qMuxZfLtvOT3Dk/pnJAkcNaI1PR
-byDURYCFdR3jYmSGx0l26jPZoAu9uhoq5UnscK9Paxi0ZGWr9v3S2AUysEeVdORzHzWFN1vtuNbR
-YNYhGSLAbjqCo4qdBCrEr5jRg0PHPbOUa4XaEhV8sJWADEqihzQ5+y6bHQgbdRuxYZzWVgd7zjPk
-N+kuoQQsRbA/KL7xex4/b/y2jlK3OrifubPSoCaQDJJTa5FCY9/RgLIqVAEfxTq6NaRaleaFu1g5
-oN0ZD/zhnUS7BGPqHUchbejkjdd9QSJaJzwAM4UdaDfLA82FgKzE09hf7Ptks48FIFKNRkOlXDEX
-BvP2T3/v4QVHcKs/h+PBh+NtH7JwiSimD+XTwj5L3YxaxIFdLiXrosHunZ/EWyK67324stP1NTa0
-MezdWzqS1J/41/gsXIGMRkmYpZDiLYw3e2pVMpwtOrCcj3NG4XKDN4hibju5i9m3gV2EcAWIBmFx
-2rtqSenBcgq5AKRU2vQvgjtOchtf7z2hpUq3G+VQP2yz8tS6FtcUaRTThXqTlYWllNVu2T5kfsqw
-tdF/zQ/78o82vxCZOL/mk+R1H0cmJfI4UkAOhW5vFRyu3h2gooydTV5N3efqMr0Wc4HgPkyGDeL1
-vfvU82/qnpGMXyscwmm3hvD+xMER4+KjIL+KpxBmcmHnTPSpDoDoCl1dVnfgoOsq3hxW+BfZluXE
-rdRVTdTIGHVnGaV7AHmF/vKaauakviPHq2ib1PFuZT2639aMt6sEqueLGucvSWa1K+abWJ9B6eyE
-1eGLWtc8XB8JPKX/Hy0hYj45sfC3SPm84WxSUeW3tsF8QpgBndV5/2AXmZa1Py5epsl5/sehdUwV
-DJuOxnPczNrpBW3ITPJkgANw8ZviJmR+RZeLU7XB/RqrE4FNTerfHd+tl9TCfuDS1dKaRWUTPiqv
-QfOmrVvjHDrjr17/VeYq+ItQG3BJAYQqW2pL0z+0DRKTWToCbvtUwmM+3QtbcWkzn4KKmoA4yE6/
-zpRkoThQ5r5IWH5vK3eaMGaBYUUutOU/wxdiMR6I8oSYFT63qy+WB0vXsUtM3kEn9dDcWgN26fTC
-8kZ2Zz4q4Qaw60WvyPZLSkZs1t9hfC+J6p2MOUXMa65xJAYx2mU18UKj0ACzgVwt2/hxJuMXZGLK
-QFCvE/BCCaVPh0W2NAmuRFNpC6aOW0QGeuDlSTJwOJggxWxJPrCMdKIxQrd3XZ6jVuZGfQn82N+6
-ZAKUbwENKEz5iO5N28ZrT7yXFVcndy4KzwEZAD/q8fl3BXDJJSw2SVyWp6rjaOpOcml2A8nVVhe9
-DAS+Ykg7cpxD/a7sgjRnjSRHdZcwVKKk0sCNSP3Omwqz3UAdwfqc2shLfVDF+kzEjuyvm7bc0++g
-6VV6nmASsr9lLHw04U0LXuXNEicF3vzCrCVfNLyVMVJ8vkB69usjmQCpAFdTZglWWocf7jLir3yY
-y1EGu2b3iSoYqdmCtKpIefp6Mo96xhMazmVaAl0gmP5ivkLSXvXNb6HCOAM2hCuDW+SH1yvpijnO
-RhMrkHY/9x2RKgVJPn6AX03E+SuGRIagCwMXqPGc9il32fpqOhMNpv1YEjB1TX7HQ0xW4Qc/VXgK
-ONZ+QBs9A4THze1iBEJCsTCeRQJURLPMK3ualSPR4TKLwKW1a9nuAstamt0kGjOKvLYVN0gviEgL
-Z8jh8sVDgg4K8wgz9lS0sqLDN/c8KdfaPNx6czpEOxSqq0gOMP8rlOkm4SW=
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2019, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2019, British Columbia Institute of Technology (https://bcit.ca/)
+ * @license	https://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 2.1.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+/**
+ * CUBRID Utility Class
+ *
+ * @category	Database
+ * @author		Esen Sagynov
+ * @link		https://codeigniter.com/user_guide/database/
+ */
+class CI_DB_cubrid_utility extends CI_DB_utility {
+
+	/**
+	 * List databases
+	 *
+	 * @return	array
+	 */
+	public function list_databases()
+	{
+		if (isset($this->db->data_cache['db_names']))
+		{
+			return $this->db->data_cache['db_names'];
+		}
+
+		return $this->db->data_cache['db_names'] = cubrid_list_dbs($this->db->conn_id);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * CUBRID Export
+	 *
+	 * @param	array	Preferences
+	 * @return	mixed
+	 */
+	protected function _backup($params = array())
+	{
+		// No SQL based support in CUBRID as of version 8.4.0. Database or
+		// table backup can be performed using CUBRID Manager
+		// database administration tool.
+		return $this->db->display_error('db_unsupported_feature');
+	}
+}

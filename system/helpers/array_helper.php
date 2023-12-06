@@ -1,59 +1,115 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2019, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2019, British Columbia Institute of Technology (https://bcit.ca/)
+ * @license	https://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 1.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+/**
+ * CodeIgniter Array Helpers
+ *
+ * @package		CodeIgniter
+ * @subpackage	Helpers
+ * @category	Helpers
+ * @author		EllisLab Dev Team
+ * @link		https://codeigniter.com/user_guide/helpers/array_helper.html
+ */
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('element'))
+{
+	/**
+	 * Element
+	 *
+	 * Lets you determine whether an array index is set and whether it has a value.
+	 * If the element is empty it returns NULL (or whatever you specify as the default value.)
+	 *
+	 * @param	string
+	 * @param	array
+	 * @param	mixed
+	 * @return	mixed	depends on what the array contains
+	 */
+	function element($item, array $array, $default = NULL)
+	{
+		return array_key_exists($item, $array) ? $array[$item] : $default;
+	}
+}
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('random_element'))
+{
+	/**
+	 * Random Element - Takes an array as input and returns a random element
+	 *
+	 * @param	array
+	 * @return	mixed	depends on what the array contains
+	 */
+	function random_element($array)
+	{
+		return is_array($array) ? $array[array_rand($array)] : $array;
+	}
+}
+
+// --------------------------------------------------------------------
+
+if ( ! function_exists('elements'))
+{
+	/**
+	 * Elements
+	 *
+	 * Returns only the array items specified. Will return a default value if
+	 * it is not set.
+	 *
+	 * @param	array
+	 * @param	array
+	 * @param	mixed
+	 * @return	mixed	depends on what the array contains
+	 */
+	function elements($items, array $array, $default = NULL)
+	{
+		$return = array();
+
+		is_array($items) OR $items = array($items);
+
+		foreach ($items as $item)
+		{
+			$return[$item] = array_key_exists($item, $array) ? $array[$item] : $default;
+		}
+
+		return $return;
+	}
+}

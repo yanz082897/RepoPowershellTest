@@ -1,44 +1,90 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2019, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2019, British Columbia Institute of Technology (https://bcit.ca/)
+ * @license	https://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 1.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+/**
+ * CodeIgniter XML Helpers
+ *
+ * @package		CodeIgniter
+ * @subpackage	Helpers
+ * @category	Helpers
+ * @author		EllisLab Dev Team
+ * @link		https://codeigniter.com/user_guide/helpers/xml_helper.html
+ */
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('xml_convert'))
+{
+	/**
+	 * Convert Reserved XML characters to Entities
+	 *
+	 * @param	string
+	 * @param	bool
+	 * @return	string
+	 */
+	function xml_convert($str, $protect_all = FALSE)
+	{
+		$temp = '__TEMP_AMPERSANDS__';
+
+		// Replace entities to temporary markers so that
+		// ampersands won't get messed up
+		$str = preg_replace('/&#(\d+);/', $temp.'\\1;', $str);
+
+		if ($protect_all === TRUE)
+		{
+			$str = preg_replace('/&(\w+);/', $temp.'\\1;', $str);
+		}
+
+		$str = str_replace(
+			array('&', '<', '>', '"', "'", '-'),
+			array('&amp;', '&lt;', '&gt;', '&quot;', '&apos;', '&#45;'),
+			$str
+		);
+
+		// Decode the temp markers back to entities
+		$str = preg_replace('/'.$temp.'(\d+);/', '&#\\1;', $str);
+
+		if ($protect_all === TRUE)
+		{
+			return preg_replace('/'.$temp.'(\w+);/', '&\\1;', $str);
+		}
+
+		return $str;
+	}
+}

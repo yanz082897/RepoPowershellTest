@@ -1,45 +1,84 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-Qm==
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2019, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2019, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 1.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+/**
+ * CodeIgniter Email Helpers
+ *
+ * @package		CodeIgniter
+ * @subpackage	Helpers
+ * @category	Helpers
+ * @author		EllisLab Dev Team
+ * @link		https://codeigniter.com/user_guide/helpers/email_helper.html
+ */
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('valid_email'))
+{
+	/**
+	 * Validate email address
+	 *
+	 * @deprecated	3.0.0	Use PHP's filter_var() instead
+	 * @param	string	$email
+	 * @return	bool
+	 */
+	function valid_email($email)
+	{
+		return (bool) filter_var($email, FILTER_VALIDATE_EMAIL);
+	}
+}
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('send_email'))
+{
+	/**
+	 * Send an email
+	 *
+	 * @deprecated	3.0.0	Use PHP's mail() instead
+	 * @param	string	$recipient
+	 * @param	string	$subject
+	 * @param	string	$message
+	 * @return	bool
+	 */
+	function send_email($recipient, $subject, $message)
+	{
+		return mail($recipient, $subject, $message);
+	}
+}

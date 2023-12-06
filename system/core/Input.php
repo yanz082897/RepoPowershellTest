@@ -1,296 +1,895 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-BzdaxfIQrmHMmBzeDjcwNX8XXW==
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2019, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2019, British Columbia Institute of Technology (https://bcit.ca/)
+ * @license	https://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 1.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+/**
+ * Input Class
+ *
+ * Pre-processes global input data for security
+ *
+ * @package		CodeIgniter
+ * @subpackage	Libraries
+ * @category	Input
+ * @author		EllisLab Dev Team
+ * @link		https://codeigniter.com/user_guide/libraries/input.html
+ */
+class CI_Input {
+
+	/**
+	 * IP address of the current user
+	 *
+	 * @var	string
+	 */
+	protected $ip_address = FALSE;
+
+	/**
+	 * Allow GET array flag
+	 *
+	 * If set to FALSE, then $_GET will be set to an empty array.
+	 *
+	 * @var	bool
+	 */
+	protected $_allow_get_array = TRUE;
+
+	/**
+	 * Standardize new lines flag
+	 *
+	 * If set to TRUE, then newlines are standardized.
+	 *
+	 * @var	bool
+	 */
+	protected $_standardize_newlines;
+
+	/**
+	 * Enable XSS flag
+	 *
+	 * Determines whether the XSS filter is always active when
+	 * GET, POST or COOKIE data is encountered.
+	 * Set automatically based on config setting.
+	 *
+	 * @var	bool
+	 */
+	protected $_enable_xss = FALSE;
+
+	/**
+	 * Enable CSRF flag
+	 *
+	 * Enables a CSRF cookie token to be set.
+	 * Set automatically based on config setting.
+	 *
+	 * @var	bool
+	 */
+	protected $_enable_csrf = FALSE;
+
+	/**
+	 * List of all HTTP request headers
+	 *
+	 * @var array
+	 */
+	protected $headers = array();
+
+	/**
+	 * Raw input stream data
+	 *
+	 * Holds a cache of php://input contents
+	 *
+	 * @var	string
+	 */
+	protected $_raw_input_stream;
+
+	/**
+	 * Parsed input stream data
+	 *
+	 * Parsed from php://input at runtime
+	 *
+	 * @see	CI_Input::input_stream()
+	 * @var	array
+	 */
+	protected $_input_stream;
+
+	protected $security;
+	protected $uni;
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Class constructor
+	 *
+	 * Determines whether to globally enable the XSS processing
+	 * and whether to allow the $_GET array.
+	 *
+	 * @return	void
+	 */
+	public function __construct()
+	{
+		$this->_allow_get_array		= (config_item('allow_get_array') !== FALSE);
+		$this->_enable_xss		= (config_item('global_xss_filtering') === TRUE);
+		$this->_enable_csrf		= (config_item('csrf_protection') === TRUE);
+		$this->_standardize_newlines	= (bool) config_item('standardize_newlines');
+
+		$this->security =& load_class('Security', 'core');
+
+		// Do we need the UTF-8 class?
+		if (UTF8_ENABLED === TRUE)
+		{
+			$this->uni =& load_class('Utf8', 'core');
+		}
+
+		// Sanitize global arrays
+		$this->_sanitize_globals();
+
+		// CSRF Protection check
+		if ($this->_enable_csrf === TRUE && ! is_cli())
+		{
+			$this->security->csrf_verify();
+		}
+
+		log_message('info', 'Input Class Initialized');
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Fetch from array
+	 *
+	 * Internal method used to retrieve values from global arrays.
+	 *
+	 * @param	array	&$array		$_GET, $_POST, $_COOKIE, $_SERVER, etc.
+	 * @param	mixed	$index		Index for item to be fetched from $array
+	 * @param	bool	$xss_clean	Whether to apply XSS filtering
+	 * @return	mixed
+	 */
+	protected function _fetch_from_array(&$array, $index = NULL, $xss_clean = NULL)
+	{
+		is_bool($xss_clean) OR $xss_clean = $this->_enable_xss;
+
+		// If $index is NULL, it means that the whole $array is requested
+		isset($index) OR $index = array_keys($array);
+
+		// allow fetching multiple keys at once
+		if (is_array($index))
+		{
+			$output = array();
+			foreach ($index as $key)
+			{
+				$output[$key] = $this->_fetch_from_array($array, $key, $xss_clean);
+			}
+
+			return $output;
+		}
+
+		if (isset($array[$index]))
+		{
+			$value = $array[$index];
+		}
+		elseif (($count = preg_match_all('/(?:^[^\[]+)|\[[^]]*\]/', $index, $matches)) > 1) // Does the index contain array notation
+		{
+			$value = $array;
+			for ($i = 0; $i < $count; $i++)
+			{
+				$key = trim($matches[0][$i], '[]');
+				if ($key === '') // Empty notation will return the value as array
+				{
+					break;
+				}
+
+				if (isset($value[$key]))
+				{
+					$value = $value[$key];
+				}
+				else
+				{
+					return NULL;
+				}
+			}
+		}
+		else
+		{
+			return NULL;
+		}
+
+		return ($xss_clean === TRUE)
+			? $this->security->xss_clean($value)
+			: $value;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Fetch an item from the GET array
+	 *
+	 * @param	mixed	$index		Index for item to be fetched from $_GET
+	 * @param	bool	$xss_clean	Whether to apply XSS filtering
+	 * @return	mixed
+	 */
+	public function get($index = NULL, $xss_clean = NULL)
+	{
+		return $this->_fetch_from_array($_GET, $index, $xss_clean);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Fetch an item from the POST array
+	 *
+	 * @param	mixed	$index		Index for item to be fetched from $_POST
+	 * @param	bool	$xss_clean	Whether to apply XSS filtering
+	 * @return	mixed
+	 */
+	public function post($index = NULL, $xss_clean = NULL)
+	{
+		return $this->_fetch_from_array($_POST, $index, $xss_clean);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Fetch an item from POST data with fallback to GET
+	 *
+	 * @param	string	$index		Index for item to be fetched from $_POST or $_GET
+	 * @param	bool	$xss_clean	Whether to apply XSS filtering
+	 * @return	mixed
+	 */
+	public function post_get($index, $xss_clean = NULL)
+	{
+		return isset($_POST[$index])
+			? $this->post($index, $xss_clean)
+			: $this->get($index, $xss_clean);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Fetch an item from GET data with fallback to POST
+	 *
+	 * @param	string	$index		Index for item to be fetched from $_GET or $_POST
+	 * @param	bool	$xss_clean	Whether to apply XSS filtering
+	 * @return	mixed
+	 */
+	public function get_post($index, $xss_clean = NULL)
+	{
+		return isset($_GET[$index])
+			? $this->get($index, $xss_clean)
+			: $this->post($index, $xss_clean);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Fetch an item from the COOKIE array
+	 *
+	 * @param	mixed	$index		Index for item to be fetched from $_COOKIE
+	 * @param	bool	$xss_clean	Whether to apply XSS filtering
+	 * @return	mixed
+	 */
+	public function cookie($index = NULL, $xss_clean = NULL)
+	{
+		return $this->_fetch_from_array($_COOKIE, $index, $xss_clean);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Fetch an item from the SERVER array
+	 *
+	 * @param	mixed	$index		Index for item to be fetched from $_SERVER
+	 * @param	bool	$xss_clean	Whether to apply XSS filtering
+	 * @return	mixed
+	 */
+	public function server($index, $xss_clean = NULL)
+	{
+		return $this->_fetch_from_array($_SERVER, $index, $xss_clean);
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Fetch an item from the php://input stream
+	 *
+	 * Useful when you need to access PUT, DELETE or PATCH request data.
+	 *
+	 * @param	string	$index		Index for item to be fetched
+	 * @param	bool	$xss_clean	Whether to apply XSS filtering
+	 * @return	mixed
+	 */
+	public function input_stream($index = NULL, $xss_clean = NULL)
+	{
+		// Prior to PHP 5.6, the input stream can only be read once,
+		// so we'll need to check if we have already done that first.
+		if ( ! is_array($this->_input_stream))
+		{
+			// $this->raw_input_stream will trigger __get().
+			parse_str($this->raw_input_stream, $this->_input_stream);
+			is_array($this->_input_stream) OR $this->_input_stream = array();
+		}
+
+		return $this->_fetch_from_array($this->_input_stream, $index, $xss_clean);
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Set cookie
+	 *
+	 * Accepts an arbitrary number of parameters (up to 7) or an associative
+	 * array in the first parameter containing all the values.
+	 *
+	 * @param	string|mixed[]	$name		Cookie name or an array containing parameters
+	 * @param	string		$value		Cookie value
+	 * @param	int		$expire		Cookie expiration time in seconds
+	 * @param	string		$domain		Cookie domain (e.g.: '.yourdomain.com')
+	 * @param	string		$path		Cookie path (default: '/')
+	 * @param	string		$prefix		Cookie name prefix
+	 * @param	bool		$secure		Whether to only transfer cookies via SSL
+	 * @param	bool		$httponly	Whether to only makes the cookie accessible via HTTP (no javascript)
+	 * @return	void
+	 */
+	public function set_cookie($name, $value = '', $expire = '', $domain = '', $path = '/', $prefix = '', $secure = NULL, $httponly = NULL)
+	{
+		if (is_array($name))
+		{
+			// always leave 'name' in last place, as the loop will break otherwise, due to $$item
+			foreach (array('value', 'expire', 'domain', 'path', 'prefix', 'secure', 'httponly', 'name') as $item)
+			{
+				if (isset($name[$item]))
+				{
+					$$item = $name[$item];
+				}
+			}
+		}
+
+		if ($prefix === '' && config_item('cookie_prefix') !== '')
+		{
+			$prefix = config_item('cookie_prefix');
+		}
+
+		if ($domain == '' && config_item('cookie_domain') != '')
+		{
+			$domain = config_item('cookie_domain');
+		}
+
+		if ($path === '/' && config_item('cookie_path') !== '/')
+		{
+			$path = config_item('cookie_path');
+		}
+
+		$secure = ($secure === NULL && config_item('cookie_secure') !== NULL)
+			? (bool) config_item('cookie_secure')
+			: (bool) $secure;
+
+		$httponly = ($httponly === NULL && config_item('cookie_httponly') !== NULL)
+			? (bool) config_item('cookie_httponly')
+			: (bool) $httponly;
+
+		if ( ! is_numeric($expire))
+		{
+			$expire = time() - 86500;
+		}
+		else
+		{
+			$expire = ($expire > 0) ? time() + $expire : 0;
+		}
+
+		setcookie($prefix.$name, $value, $expire, $path, $domain, $secure, $httponly);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Fetch the IP Address
+	 *
+	 * Determines and validates the visitor's IP address.
+	 *
+	 * @return	string	IP address
+	 */
+	public function ip_address()
+	{
+		if ($this->ip_address !== FALSE)
+		{
+			return $this->ip_address;
+		}
+
+		$proxy_ips = config_item('proxy_ips');
+		if ( ! empty($proxy_ips) && ! is_array($proxy_ips))
+		{
+			$proxy_ips = explode(',', str_replace(' ', '', $proxy_ips));
+		}
+
+		$this->ip_address = $this->server('REMOTE_ADDR');
+
+		if ($proxy_ips)
+		{
+			foreach (array('HTTP_X_FORWARDED_FOR', 'HTTP_CLIENT_IP', 'HTTP_X_CLIENT_IP', 'HTTP_X_CLUSTER_CLIENT_IP') as $header)
+			{
+				if (($spoof = $this->server($header)) !== NULL)
+				{
+					// Some proxies typically list the whole chain of IP
+					// addresses through which the client has reached us.
+					// e.g. client_ip, proxy_ip1, proxy_ip2, etc.
+					sscanf($spoof, '%[^,]', $spoof);
+
+					if ( ! $this->valid_ip($spoof))
+					{
+						$spoof = NULL;
+					}
+					else
+					{
+						break;
+					}
+				}
+			}
+
+			if ($spoof)
+			{
+				for ($i = 0, $c = count($proxy_ips); $i < $c; $i++)
+				{
+					// Check if we have an IP address or a subnet
+					if (strpos($proxy_ips[$i], '/') === FALSE)
+					{
+						// An IP address (and not a subnet) is specified.
+						// We can compare right away.
+						if ($proxy_ips[$i] === $this->ip_address)
+						{
+							$this->ip_address = $spoof;
+							break;
+						}
+
+						continue;
+					}
+
+					// We have a subnet ... now the heavy lifting begins
+					isset($separator) OR $separator = $this->valid_ip($this->ip_address, 'ipv6') ? ':' : '.';
+
+					// If the proxy entry doesn't match the IP protocol - skip it
+					if (strpos($proxy_ips[$i], $separator) === FALSE)
+					{
+						continue;
+					}
+
+					// Convert the REMOTE_ADDR IP address to binary, if needed
+					if ( ! isset($ip, $sprintf))
+					{
+						if ($separator === ':')
+						{
+							// Make sure we're have the "full" IPv6 format
+							$ip = explode(':',
+								str_replace('::',
+									str_repeat(':', 9 - substr_count($this->ip_address, ':')),
+									$this->ip_address
+								)
+							);
+
+							for ($j = 0; $j < 8; $j++)
+							{
+								$ip[$j] = intval($ip[$j], 16);
+							}
+
+							$sprintf = '%016b%016b%016b%016b%016b%016b%016b%016b';
+						}
+						else
+						{
+							$ip = explode('.', $this->ip_address);
+							$sprintf = '%08b%08b%08b%08b';
+						}
+
+						$ip = vsprintf($sprintf, $ip);
+					}
+
+					// Split the netmask length off the network address
+					sscanf($proxy_ips[$i], '%[^/]/%d', $netaddr, $masklen);
+
+					// Again, an IPv6 address is most likely in a compressed form
+					if ($separator === ':')
+					{
+						$netaddr = explode(':', str_replace('::', str_repeat(':', 9 - substr_count($netaddr, ':')), $netaddr));
+						for ($j = 0; $j < 8; $j++)
+						{
+							$netaddr[$j] = intval($netaddr[$j], 16);
+						}
+					}
+					else
+					{
+						$netaddr = explode('.', $netaddr);
+					}
+
+					// Convert to binary and finally compare
+					if (strncmp($ip, vsprintf($sprintf, $netaddr), $masklen) === 0)
+					{
+						$this->ip_address = $spoof;
+						break;
+					}
+				}
+			}
+		}
+
+		if ( ! $this->valid_ip($this->ip_address))
+		{
+			return $this->ip_address = '0.0.0.0';
+		}
+
+		return $this->ip_address;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Validate IP Address
+	 *
+	 * @param	string	$ip	IP address
+	 * @param	string	$which	IP protocol: 'ipv4' or 'ipv6'
+	 * @return	bool
+	 */
+	public function valid_ip($ip, $which = '')
+	{
+		switch (strtolower($which))
+		{
+			case 'ipv4':
+				$which = FILTER_FLAG_IPV4;
+				break;
+			case 'ipv6':
+				$which = FILTER_FLAG_IPV6;
+				break;
+			default:
+				$which = NULL;
+				break;
+		}
+
+		return (bool) filter_var($ip, FILTER_VALIDATE_IP, $which);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Fetch User Agent string
+	 *
+	 * @return	string|null	User Agent string or NULL if it doesn't exist
+	 */
+	public function user_agent($xss_clean = NULL)
+	{
+		return $this->_fetch_from_array($_SERVER, 'HTTP_USER_AGENT', $xss_clean);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Sanitize Globals
+	 *
+	 * Internal method serving for the following purposes:
+	 *
+	 *	- Unsets $_GET data, if query strings are not enabled
+	 *	- Cleans POST, COOKIE and SERVER data
+	 * 	- Standardizes newline characters to PHP_EOL
+	 *
+	 * @return	void
+	 */
+	protected function _sanitize_globals()
+	{
+		// Is $_GET data allowed? If not we'll set the $_GET to an empty array
+		if ($this->_allow_get_array === FALSE)
+		{
+			$_GET = array();
+		}
+		elseif (is_array($_GET))
+		{
+			foreach ($_GET as $key => $val)
+			{
+				$_GET[$this->_clean_input_keys($key)] = $this->_clean_input_data($val);
+			}
+		}
+
+		// Clean $_POST Data
+		if (is_array($_POST))
+		{
+			foreach ($_POST as $key => $val)
+			{
+				$_POST[$this->_clean_input_keys($key)] = $this->_clean_input_data($val);
+			}
+		}
+
+		// Clean $_COOKIE Data
+		if (is_array($_COOKIE))
+		{
+			// Also get rid of specially treated cookies that might be set by a server
+			// or silly application, that are of no use to a CI application anyway
+			// but that when present will trip our 'Disallowed Key Characters' alarm
+			// http://www.ietf.org/rfc/rfc2109.txt
+			// note that the key names below are single quoted strings, and are not PHP variables
+			unset(
+				$_COOKIE['$Version'],
+				$_COOKIE['$Path'],
+				$_COOKIE['$Domain']
+			);
+
+			foreach ($_COOKIE as $key => $val)
+			{
+				if (($cookie_key = $this->_clean_input_keys($key)) !== FALSE)
+				{
+					$_COOKIE[$cookie_key] = $this->_clean_input_data($val);
+				}
+				else
+				{
+					unset($_COOKIE[$key]);
+				}
+			}
+		}
+
+		// Sanitize PHP_SELF
+		$_SERVER['PHP_SELF'] = strip_tags($_SERVER['PHP_SELF']);
+
+		log_message('debug', 'Global POST, GET and COOKIE data sanitized');
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Clean Input Data
+	 *
+	 * Internal method that aids in escaping data and
+	 * standardizing newline characters to PHP_EOL.
+	 *
+	 * @param	string|string[]	$str	Input string(s)
+	 * @return	string
+	 */
+	protected function _clean_input_data($str)
+	{
+		if (is_array($str))
+		{
+			$new_array = array();
+			foreach (array_keys($str) as $key)
+			{
+				$new_array[$this->_clean_input_keys($key)] = $this->_clean_input_data($str[$key]);
+			}
+			return $new_array;
+		}
+
+		/* We strip slashes if magic quotes is on to keep things consistent
+
+		   NOTE: In PHP 5.4 get_magic_quotes_gpc() will always return 0 and
+		         it will probably not exist in future versions at all.
+		*/
+		if ( ! is_php('5.4') && get_magic_quotes_gpc())
+		{
+			$str = stripslashes($str);
+		}
+
+		// Clean UTF-8 if supported
+		if (UTF8_ENABLED === TRUE)
+		{
+			$str = $this->uni->clean_string($str);
+		}
+
+		// Remove control characters
+		$str = remove_invisible_characters($str, FALSE);
+
+		// Standardize newlines if needed
+		if ($this->_standardize_newlines === TRUE)
+		{
+			return preg_replace('/(?:\r\n|[\r\n])/', PHP_EOL, $str);
+		}
+
+		return $str;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Clean Keys
+	 *
+	 * Internal method that helps to prevent malicious users
+	 * from trying to exploit keys we make sure that keys are
+	 * only named with alpha-numeric text and a few other items.
+	 *
+	 * @param	string	$str	Input string
+	 * @param	bool	$fatal	Whether to terminate script exection
+	 *				or to return FALSE if an invalid
+	 *				key is encountered
+	 * @return	string|bool
+	 */
+	protected function _clean_input_keys($str, $fatal = TRUE)
+	{
+		if ( ! preg_match('/^[a-z0-9:_\/|-]+$/i', $str))
+		{
+			if ($fatal === TRUE)
+			{
+				return FALSE;
+			}
+			else
+			{
+				set_status_header(503);
+				echo 'Disallowed Key Characters.';
+				exit(7); // EXIT_USER_INPUT
+			}
+		}
+
+		// Clean UTF-8 if supported
+		if (UTF8_ENABLED === TRUE)
+		{
+			return $this->uni->clean_string($str);
+		}
+
+		return $str;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Request Headers
+	 *
+	 * @param	bool	$xss_clean	Whether to apply XSS filtering
+	 * @return	array
+	 */
+	public function request_headers($xss_clean = FALSE)
+	{
+		// If header is already defined, return it immediately
+		if ( ! empty($this->headers))
+		{
+			return $this->_fetch_from_array($this->headers, NULL, $xss_clean);
+		}
+
+		// In Apache, you can simply call apache_request_headers()
+		if (function_exists('apache_request_headers'))
+		{
+			$this->headers = apache_request_headers();
+		}
+		else
+		{
+			isset($_SERVER['CONTENT_TYPE']) && $this->headers['Content-Type'] = $_SERVER['CONTENT_TYPE'];
+
+			foreach ($_SERVER as $key => $val)
+			{
+				if (sscanf($key, 'HTTP_%s', $header) === 1)
+				{
+					// take SOME_HEADER and turn it into Some-Header
+					$header = str_replace('_', ' ', strtolower($header));
+					$header = str_replace(' ', '-', ucwords($header));
+
+					$this->headers[$header] = $_SERVER[$key];
+				}
+			}
+		}
+
+		return $this->_fetch_from_array($this->headers, NULL, $xss_clean);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Get Request Header
+	 *
+	 * Returns the value of a single member of the headers class member
+	 *
+	 * @param	string		$index		Header name
+	 * @param	bool		$xss_clean	Whether to apply XSS filtering
+	 * @return	string|null	The requested header on success or NULL on failure
+	 */
+	public function get_request_header($index, $xss_clean = FALSE)
+	{
+		static $headers;
+
+		if ( ! isset($headers))
+		{
+			empty($this->headers) && $this->request_headers();
+			foreach ($this->headers as $key => $value)
+			{
+				$headers[strtolower($key)] = $value;
+			}
+		}
+
+		$index = strtolower($index);
+
+		if ( ! isset($headers[$index]))
+		{
+			return NULL;
+		}
+
+		return ($xss_clean === TRUE)
+			? $this->security->xss_clean($headers[$index])
+			: $headers[$index];
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Is AJAX request?
+	 *
+	 * Test to see if a request contains the HTTP_X_REQUESTED_WITH header.
+	 *
+	 * @return 	bool
+	 */
+	public function is_ajax_request()
+	{
+		return ( ! empty($_SERVER['HTTP_X_REQUESTED_WITH']) && strtolower($_SERVER['HTTP_X_REQUESTED_WITH']) === 'xmlhttprequest');
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Is CLI request?
+	 *
+	 * Test to see if a request was made from the command line.
+	 *
+	 * @deprecated	3.0.0	Use is_cli() instead
+	 * @return	bool
+	 */
+	public function is_cli_request()
+	{
+		return is_cli();
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Get Request Method
+	 *
+	 * Return the request method
+	 *
+	 * @param	bool	$upper	Whether to return in upper or lower case
+	 *				(default: FALSE)
+	 * @return 	string
+	 */
+	public function method($upper = FALSE)
+	{
+		return ($upper)
+			? strtoupper($this->server('REQUEST_METHOD'))
+			: strtolower($this->server('REQUEST_METHOD'));
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Magic __get()
+	 *
+	 * Allows read access to protected properties
+	 *
+	 * @param	string	$name
+	 * @return	mixed
+	 */
+	public function __get($name)
+	{
+		if ($name === 'raw_input_stream')
+		{
+			isset($this->_raw_input_stream) OR $this->_raw_input_stream = file_get_contents('php://input');
+			return $this->_raw_input_stream;
+		}
+		elseif ($name === 'ip_address')
+		{
+			return $this->ip_address;
+		}
+	}
+
+}

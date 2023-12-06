@@ -1,173 +1,261 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+$config = [
+    'redeem' => [
+        [
+            'field' => 'ProcessingCode',
+            'label' => 'Processing Code',
+            'rules' => 'required|trim|max_length[6]'
+        ],
+        [
+            'field' => 'Amount',
+            'label' => 'Transaction Amount',
+            'rules' => 'required|trim|regex_match[/^(?![.0]*$)\d{1,18}+(?:\.\d{2})?$/]|max_length[12]',
+            'errors' => [
+                'regex_match' => "{field} must be a currency that is supported by Pinelabs API."
+            ]
+        ],
+        [
+            'field' => 'Stan',
+            'label' => 'STAN',
+            'rules' => 'required|trim|max_length[6]'
+        ],
+        [
+            'field' => 'Track2Data',
+            'label' => 'Card Number',
+            'rules' => 'required|trim|max_length[19]'
+        ],
+        [
+            'field' => 'CardPin',
+            'label' => 'Card Pin',
+            'rules' => 'required|trim|max_length[6]'
+        ],
+        [
+            'field' => 'TerminalID',
+            'label' => 'Terminal Identification',
+            'rules' => 'required|trim'
+        ],
+        [
+            'field' => 'MerchantID',
+            'label' => 'Merchant Identification',
+            'rules' => 'required|trim'
+        ],
+        [
+            'field' => 'InvoiceNumber',
+            'label' => 'Invoice Number',
+            'rules' => 'required|trim'
+        ]
+    ],
+    'void' => [
+        [
+            'field' => 'PAN',
+            'label' => 'PAN',
+            'rules' => 'required|trim|max_length[19]'
+        ],
+        [
+            'field' => 'ProcessingCode',
+            'label' => 'Processing Code',
+            'rules' => 'required|trim|max_length[6]'
+        ],
+        [
+            'field' => 'Amount',
+            'label' => 'Transaction Amount',
+            'rules' => 'required|trim|regex_match[/^(?![.0]*$)\d{1,18}+(?:\.\d{2})?$/]|max_length[12]',
+            'errors' => [
+                'regex_match' => "{field} must be a currency that is supported by Pinelabs API."
+            ]
+        ],
+        [
+            'field' => 'Stan',
+            'label' => 'STAN',
+            'rules' => 'required|trim|max_length[6]'
+        ],
+        [
+            'field' => 'Track2Data',
+            'label' => 'Card Number',
+            'rules' => 'required|trim|max_length[19]'
+        ],
+        [
+            'field' => 'ReferenceNumber',
+            'label' => 'Business Reference Number',
+            'rules' => 'required|trim'
+        ],
+        [
+            'field' => 'TerminalID',
+            'label' => 'Terminal Identification',
+            'rules' => 'required|trim'
+        ],
+        [
+            'field' => 'MerchantID',
+            'label' => 'Merchant Identification',
+            'rules' => 'required|trim'
+        ],
+        [
+            'field' => 'InvoiceNumber',
+            'label' => 'Original Invoice Number',
+            'rules' => 'required|trim'
+        ]
+    ],
+    'reverse' => [
+        [
+            'field' => 'ProcessingCode',
+            'label' => 'Processing Code',
+            'rules' => 'required|trim|max_length[6]'
+        ],
+        [
+            'field' => 'Amount',
+            'label' => 'Transaction Amount',
+            'rules' => 'required|trim|regex_match[/^(?![.0]*$)\d{1,18}+(?:\.\d{2})?$/]|max_length[12]',
+            'errors' => [
+                'regex_match' => "{field} must be a currency that is supported by Pinelabs API."
+            ]
+        ],
+        [
+            'field' => 'Stan',
+            'label' => 'STAN',
+            'rules' => 'required|trim|max_length[6]'
+        ],
+        [
+            'field' => 'Track2Data',
+            'label' => 'Card Number',
+            'rules' => 'required|trim|max_length[19]'
+        ],
+        // [
+        //     'field' => 'CardPin',
+        //     'label' => 'Card Pin',
+        //     'rules' => 'required|trim|max_length[6]'
+        // ],
+        [
+            'field' => 'TerminalID',
+            'label' => 'Terminal Identification',
+            'rules' => 'required|trim'
+        ],
+        [
+            'field' => 'MerchantID',
+            'label' => 'Merchant Identification',
+            'rules' => 'required|trim'
+        ],
+        [
+            'field' => 'InvoiceNumber',
+            'label' => 'Invoice Number',
+            'rules' => 'required|trim'
+        ]
+    ],
+    'rev_void' => [
+        [
+            'field' => 'PAN',
+            'label' => 'Card Number',
+            'rules' => 'required|trim|max_length[19]'
+        ],
+        [
+            'field' => 'ProcessingCode',
+            'label' => 'Processing Code',
+            'rules' => 'required|trim|max_length[6]'
+        ],
+        [
+            'field' => 'Amount',
+            'label' => 'Transaction Amount',
+            'rules' => 'required|trim|regex_match[/^(?![.0]*$)\d{1,18}+(?:\.\d{2})?$/]|max_length[12]',
+            'errors' => [
+                'regex_match' => "{field} must be a currency that is supported by Pinelabs API."
+            ]
+        ],
+        [
+            'field' => 'Stan',
+            'label' => 'STAN',
+            'rules' => 'required|trim|max_length[6]'
+        ],
+        [
+            'field' => 'TerminalID',
+            'label' => 'Terminal Identification',
+            'rules' => 'required|trim'
+        ],
+        [
+            'field' => 'MerchantID',
+            'label' => 'Merchant Identification',
+            'rules' => 'required|trim'
+        ],
+        [
+            'field' => 'InvoiceNumber',
+            'label' => 'Original Invoice Number',
+            'rules' => 'required|trim'
+        ]
+    ],
+    'balance' => [
+        [
+            'field' => 'Track2Data',
+            'label' => 'Card Number',
+            'rules' => 'required|trim|max_length[19]'
+        ],
+        [
+            'field' => 'ProcessingCode',
+            'label' => 'Processing Code',
+            'rules' => 'required|trim|max_length[6]'
+        ],
+        [
+            'field' => 'Stan',
+            'label' => 'STAN',
+            'rules' => 'required|trim|max_length[6]'
+        ],
+        [
+            'field' => 'TerminalID',
+            'label' => 'Terminal Identification',
+            'rules' => 'required|trim'
+        ],
+        [
+            'field' => 'MerchantID',
+            'label' => 'Merchant Identification',
+            'rules' => 'required|trim'
+        ]
+    ],
+    'settlement' => [
+        [
+            'field' => 'TerminalID',
+            'label' => 'Terminal Identification',
+            'rules' => 'required|trim'
+        ],
+        [
+            'field' => 'ProcessingCode',
+            'label' => 'Processing Code',
+            'rules' => 'required|trim|max_length[6]'
+        ],
+        [
+            'field' => 'Stan',
+            'label' => 'STAN',
+            'rules' => 'required|trim|max_length[6]'
+        ],
+        [
+            'field' => 'MerchantID',
+            'label' => 'Merchant Identification',
+            'rules' => 'required|trim'
+        ],
+        [
+            'field' => 'privateField[]',
+            'label' => 'Private Field',
+            'rules' => 'required|trim'
+        ],
+        [
+            'field' => 'privateField[0][RedemptionCount]',
+            'label' => 'Redemption Count',
+            'rules' => 'required|trim|max_length[3]'
+        ],
+        [
+            'field' => 'privateField[0][RedemptionAmount]',
+            'label' => 'Redemption Amount',
+            'rules' => 'required|trim|max_length[12]',
+        ],
+        [
+            'field' => 'privateField[0][CancelRedeemCount]',
+            'label' => 'Cancel Redemption Count',
+            'rules' => 'required|trim|max_length[3]'
+        ],
+        [
+            'field' => 'privateField[0][CancelRedeemAmount]',
+            'label' => 'Cancel Redemption Amount',
+            'rules' => 'required|trim|max_length[12]',
+        ]
+    ]
+
+];

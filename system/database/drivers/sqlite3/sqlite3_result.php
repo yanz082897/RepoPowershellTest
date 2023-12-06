@@ -1,75 +1,194 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPoDnjAxmwWo1/RWXZOzMkToAv7avld1atwB8+nLzYiM7ex7bzZ73sqxaiXSebSKzkzTONVpC
-705eWy/CpeNHfM5AmjF53WnvJvWNc6vzmmChU6QzmBCA2jKimynkfTLvszFs3T/moPqfXSds6uBF
-BCbdKdloGiVCQIIAeBhbPV6tPvgDLQRnZV72xMChmLXZM56W6LZlo30mWlLbO+Ieigd2j/IkPYfY
-XYk3PssPrswlbbicOUZiPW/7CBREsEbCngioes/d4ZixGvpqFJCi9g1j5B+IyPkXLxKzrVI5HMGp
-PZyEUvVyph32g2U7rbY28paOPTWc7vFvS4nl8BYrfeZJrzXA3BUgbxjA/g1eO+GqwlEUQot/K0Jy
-hm8ZAsR8d3dGsu8IaMH30fzIRvQJHe+AEq16syoR3B8PXIEBZijLpvsHX9gYj05S0N374F+d2qyb
-f5PR8K/hlLp6w9neotLLE2eWyloAu7dikL+ga3UKlc7TsJLiCSsc31KKhzwyL4Gd1aiNuVAhbne8
-TnxZJA/FDnLga0B1KAsQJZVakQM33N/nfMYgK30pVQnlFnYijKFyc22WI/n3DnzrISZ9SN6xiFSv
-l5sqc+1m1dw5yI0c/fmPoaNvphSKLyde8H3INKv3wPEMIidJ+P/Wr41YLF+EIsNxk8nOUVq0e/R4
-Ny2rf1Tq0qdXK3y1t0Z+oFjyNMZgyAl2KXISBQMUKUpP9ZfMofGeTF3BUQW4XdlKnmPLr+UiOV/2
-XE8794jPRWQPShMbVzbZpbm6RrH4uxJY73+dwZWvi+Bdt23L7IqFA8QWsHnWBr3wis66klBhkJXI
-8O2Ot7bWNYwYRqtuas0zsipjh/ROXR/fJxgEbmbNhcYliz7valA4Nw5ICVdaqUSF80irQzjqTIAl
-7NFyAPQH/Zs+A6WDz5BMOw3CTlMaDp4LgdMst5qORzGHyd/ZzORsyjcZQnjgcMLO9E8xy4q4Ljil
-fRlBt+u44VX4tHhMkYtQMIpsR51mS6AjjzDOxGTB5VoON3A04+5t6vYVnozU/ayWgPIcZdwX3ykW
-960TOVdcKyDRQSG3SUDVdos6Sc4Qkxy3cxGmuQx/aADaJxU1kUnqrVxTiJ0zIx4PX+TGi/1qvnO2
-WUIb0ablXqN4ZO3wzAPM1/UjBy1qrh+pOPQ0I50choz1bIzldo8z+B4gmwy7SNrz9HOdCEsioLzV
-WeYUbP4MWsfL6b/0j01h4+4NZJjt/H8gqXRJuzgWHtON4el5HKW/8tIZTCe55liL2Fjm/b4RYoHy
-sYSvSf8e+vAu5WDcaRpzZQsN1H8ksdj3ZO3NEbwUgn9cst43Vr6fH1wk+fYJt7yDbB6tXOvtpP8W
-OUJLJV/MvIZzL+D2+FtQDLgl9SF5J+oP8Tr8+nHI7aHdMKHciUeHTS7CnNLkU0ue30iY1g01EYUs
-klirLYT4yuPbHL+FL/doQ8z1pLyxdf58+iV4hF8zbqyUEOUFuZ+9rzfQMUmQnYr6PKlzkUqUGp7X
-JZlQ5vFSVtADlqvSXev1VCcQZbHx2e299wbyn+XivtYFZX8WEvT0S+eXb0leL95+Q2bo9HPv3RmS
-xfQxtpcmnrsY9Sd3m2Fp+K1Smrl64lnfg/OxPo+/MrLnrlHrwE0i5DfUvaoASdMT/XhuEk65gxTg
-pjLD3tkFqi2belphWKgZ9CQntxZQ23i/oqbt3jICE0XKFJuBHS4K/90AaECo4LLrAUPiaeuuKld/
-BI4xX+Eh+5nq+0wf9W4jvwXHXxBSzbyZSfoN6uQVdxwvKmvsdcoKcGd1t58Vxm0ev7nE9n5TsLxq
-lqtqehMSImu8dixs8p5TzShABHRhxQ0FteDpoD/BiRZMZxKGQ6DOXifyU26Jc5j7haaKbxa5U8Mg
-x3K6wDrunRa1Co4Mhi3ycLjotRx6ElTsxyMSNzwuWEyCfL295VMz3Am06k2xYG7vblPzcKfsf7ZD
-V9cW4MwoEmcjHwtejMhqCNM611lSy37SImbdRf8CTc/dxN4q75E3uIZ0mZXEh79I4UF8TVrBgT2q
-paaVV4nOfYLaDPB6OxLqU0s50cg8x4sNI5VEGg91ps7BvEZXrXBYYtbym856IWQEaHMU5Z2rET8l
-ryajTgUC/fPb2UBMfOpoZo/ghKhQPSHUOOoTzPg/HInt2p4ibqlx7ss5qrbnJjQM1JwpPeKLEvfI
-OBWSRitkISQi3/gvbKbH5E1O90D7/xAOnYePBzKUJz8OBrB3YTzAGbd5GaNVsMVno8hm0fOeFO+L
-HnmpN/Zs2xTfDu66o6447ZslibZ5eziuTOFh+L/qNP/OgR6TiI1HKgC6qIiMlREthAOowGqMsYmz
-kb5RUjcWDeomDdhatRWa3+mjwxvbNLn/rC3l12yOXYy5YiLd4ZtA2V+vpKbR9UyIznYNycbI9NbR
-+1m6PWu2MxzKRfnWh0Pz0enP4uBzIvIxhcZeVztulXiic1HU9bBarQcxSeuV1TOvUzf8vFlWSkZ3
-v/73wBEaZSm4gjI/6c5fZh77uSxXIQYFLKR8OEtOzC3hPtRiqSN1cxIHgQlTf7dZkjtSduQIQmeF
-6MFe03uBsJ74LANDaNJab/9eh2aXvqRGEQF6q9N8bjQwzCQ4GaCbqnm36Jez1WeZLc2onwtjVlAz
-1Juv62MDFnOzhyouptqLQGEbDou4Y93xwt5dMKiu2Jr4n7H6JtT2M4Q/NIRxv+uexBdBsQnQnJjL
-5TMgLfgTT676F/va/pqsQlN6mZSLKwOV3xMJNcVXkXdEGUgQpJ9+j42OYx2ZAEQAKJTmTQyg1dXl
-LMytZKm+CR6NqR2N/u6a/aMIL3xJvih6tCsW+1rdzsTb7wtiWspfFQtC1h6YTJ6ghVA+lm9/Xd4U
-sH9c0abrKAJc5BkdApQbpRdVqJfIXoR8xH0TzVOP8I21Y4/plDLZTtQMNxYgfUFPDFYq3a/DOpcx
-Az/3brCk0Ugf+uSSaacFlKat/yd/TaL1TEMxpzDl8kjuVW3VvoIpuzjfOghyJ32WE3UberOdlKUq
-avmCVF5PkRCh7oKxPEYhHcYUdcU5Cqma9/dHYol0AlZOAkIQEYA7YZa5IDJQ17IPq4OqoSoDgAJX
-QHMFXAaP+xp/bk3uLXMBRJvdiO145BwigObHiQ6g57/1MkrbJzTjQd+OnsQosOQBHyJNvuBV76H1
-NvrPP87kVyv9Mgji44OEKsgWdKvtX1wLsa1PWiXCGOcWpUvKxBktWVyeMCRJl7A3MPYzaFdFD1ls
-Wi+OCz1M4RTC8Zdy+wrvuAYesQxAdaNUWzZdmyK+6eR+j8+1Bbu6nJHMl4NO8dxMpdQP0miWOJkg
-7QIKuOBLADWbq55wiiMCZbNPHlAl2HOoR39nHh7YfOEs09BUFbAhJmykrNpOuzTETZVNJi3GBgmo
-WoHMto6b6VF/GHeqcRKlh5b866lifwU5K0LS8ZsOi5NtGW1gk5reIl1NXgW2cTwa0dsmgLGejVbp
-Q84j01dFfjQHNoceRpA6iJVtqMSSpriYk1+h50BccL9UAFe4j44f7rrzxzKZsYisAHpud/P8sK1y
-PLiLRvzTz+6VZJ+Y/PWB7vEyTkg0NHnExzQcZBx6BusgjSFxUUo/0gZanxafQxcTReCY8gJ8Qoiu
-EUH6rNegy5XnLhOac8hiwnMspVAwMIuN/jYHCGSPyzyo6aN0Y+4YrOSMTyVYeM7nD61pk7Vo7IrW
-zbY9SBMa1trTjsUXT2WgILe025Bx2LvmN8ZNdilpZjgl8GyXXSCEszl8R6h8auVPDDTkIZC/i48Q
-WGHbK8z5Oi1jiMIYhfHLT70MtFNgwdfNRMa72F+aSdnn2GfLaKvs+snB9ZPzvLash+XZPEtaDIxc
-FtJWHokQYKR08Kd3ZcycJRcpUTDBHk1pRexz6Cg4HPXRR8ktf6lV+esqqUniUt7X+Xc1AgR796P3
-wuNB7TkYBqPPJbwbcdPIZTibpo9CccS4Zy4KKHzZSM4bvz0JXbTSPkTXdWVpRQik2/MTOnLCtNDW
-zGgd/l/AT2xP1NqOMaYvgX3Frr9tzaxR99tqCWK14V2eLPP4d93SkXZckUxwcyAm6oIXlvPmNnJr
-WFPBhrGQ6wFyzVEgssVv1UQoFR13VpR0EjJ3YtGf37DdBKjjtwE7ctHCoBTHHlJdkk6u12xe/EG3
-9dRmAFt3aLSKsbTLMmIK0XlLU36+3K01rCQfIJXbQr5kbeVT9ScB9W9/8JPUuV59uWffU8ERpfiM
-yLTvC4uE/ZIY95P/FUkG6SaQsLM+RqjkGxSZecNOByKBi7HHi/n02H37MMI1pGluAnamPUZilW2y
-GxurHfLYNTOTxTbTc7sK3HbLm7+YZxlM7YfH57btDkBMg10vAs1LfFNvrvshFjyS/DGhHW4exo0M
-vpH5YaTFna6p8xQgOR+TvXO3j4Od6BbHw28dr24iVnfDpg1KegENdx9Ib5hnGHisSJbkc0GlEne7
-RRikCcUUUnmY33QNaqloglJw0RlWqpX93hY8bEpka5gVZfIGOVxQVOERXs8/xQAGbVMXtaMK5AJG
-vQ3DDh87AMSW1lJioqI1vML6+v8dEtmJYyO7zOfTqbm6mVbSvtA5vzWsyQKIxT3FTVKeabPBbvhE
-eukGehpAv8k9f0fpESuOnjJDqfS8R2K+K4FOnnoH+HjzwRoedqkAbWyHIL7zKyau3+05py7J/8K3
-KcgMWUsk+8HewvG9rwbA5M1LQfHZalwxNrfsz1Ts4U6eER+s0XZeY/WUDnb2A1JLflLWRSPo5dea
-qGVQZSAqwH3oK1oYXdJ4a9UeB0aFfwsk3QhNbY/hVtcEr60AAoBiDONTTPtZGjsAMRd2s9YGvEJ9
-W93x//vd73BAW/w4ylDAOuM8b/kWai2AdGlJRbH5zu2T/MOgidn2BdTtWZsNquiqn5OP+2SGZ8/G
-B82EUKetjG1Y88mfgRiSTH2Ayy9NB7M9xB7X5+iEZD6fbvQ3oq8kNqeI7FfOdsyZrdf5NeI0Kvt4
-NyqsqfcKzl8ia4n0H5P/nVQ0NRcjshx/FJEDXGjcv56tgLHYvSmh21Wvowu1VR0ZQokrsjaY1iqA
-OgiMJ6o81UZ4ywb3UqdiNof+B7KZxDpgMkmmx6PALFWmhi7SY2hPV0ynpECLbgAjTeVsLNkSeupP
-f2o380HsmQlsuL2hUXAXwihxu7gZvYb/zK6eqJZfKGyLaoEFOyrmQWVuhBN4gfGKOjyVEywemmVk
-WnW8pIx1+2RR6Y0llleKyDk+JW+GJmaUCXGhtn9C6Xu5XLzJT23f4EzGXeKzNsCv8PYx6eLe3QI3
-wBgrnyancQwLKTwq1vr+7T0vWnfkEmEQRQcZRC3tlgvTJ6gh7zbr2UverqbWrw0LBH8VBHbTl0ZQ
-7SD9Mtk+vjC9a5Ehee5/y6i=
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2019, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2019, British Columbia Institute of Technology (https://bcit.ca/)
+ * @license	https://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 3.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+/**
+ * SQLite3 Result Class
+ *
+ * This class extends the parent result class: CI_DB_result
+ *
+ * @category	Database
+ * @author		Andrey Andreev
+ * @link		https://codeigniter.com/user_guide/database/
+ */
+class CI_DB_sqlite3_result extends CI_DB_result {
+
+	/**
+	 * Number of fields in the result set
+	 *
+	 * @return	int
+	 */
+	public function num_fields()
+	{
+		return $this->result_id->numColumns();
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Fetch Field Names
+	 *
+	 * Generates an array of column names
+	 *
+	 * @return	array
+	 */
+	public function list_fields()
+	{
+		$field_names = array();
+		for ($i = 0, $c = $this->num_fields(); $i < $c; $i++)
+		{
+			$field_names[] = $this->result_id->columnName($i);
+		}
+
+		return $field_names;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Field data
+	 *
+	 * Generates an array of objects containing field meta-data
+	 *
+	 * @return	array
+	 */
+	public function field_data()
+	{
+		static $data_types = array(
+			SQLITE3_INTEGER	=> 'integer',
+			SQLITE3_FLOAT	=> 'float',
+			SQLITE3_TEXT	=> 'text',
+			SQLITE3_BLOB	=> 'blob',
+			SQLITE3_NULL	=> 'null'
+		);
+
+		$retval = array();
+		for ($i = 0, $c = $this->num_fields(); $i < $c; $i++)
+		{
+			$retval[$i]			= new stdClass();
+			$retval[$i]->name		= $this->result_id->columnName($i);
+
+			$type = $this->result_id->columnType($i);
+			$retval[$i]->type		= isset($data_types[$type]) ? $data_types[$type] : $type;
+
+			$retval[$i]->max_length		= NULL;
+		}
+
+		return $retval;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Free the result
+	 *
+	 * @return	void
+	 */
+	public function free_result()
+	{
+		if (is_object($this->result_id))
+		{
+			$this->result_id->finalize();
+			$this->result_id = NULL;
+		}
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Result - associative array
+	 *
+	 * Returns the result set as an array
+	 *
+	 * @return	array
+	 */
+	protected function _fetch_assoc()
+	{
+		return $this->result_id->fetchArray(SQLITE3_ASSOC);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Result - object
+	 *
+	 * Returns the result set as an object
+	 *
+	 * @param	string	$class_name
+	 * @return	object
+	 */
+	protected function _fetch_object($class_name = 'stdClass')
+	{
+		// No native support for fetching rows as objects
+		if (($row = $this->result_id->fetchArray(SQLITE3_ASSOC)) === FALSE)
+		{
+			return FALSE;
+		}
+		elseif ($class_name === 'stdClass')
+		{
+			return (object) $row;
+		}
+
+		$class_name = new $class_name();
+		foreach (array_keys($row) as $key)
+		{
+			$class_name->$key = $row[$key];
+		}
+
+		return $class_name;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Data Seek
+	 *
+	 * Moves the internal pointer to the desired offset. We call
+	 * this internally before fetching results to make sure the
+	 * result set starts at zero.
+	 *
+	 * @param	int	$n	(ignored)
+	 * @return	array
+	 */
+	public function data_seek($n = 0)
+	{
+		// Only resetting to the start of the result set is supported
+		return ($n > 0) ? FALSE : $this->result_id->reset();
+	}
+
+}

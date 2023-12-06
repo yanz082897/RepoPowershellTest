@@ -1,36 +1,103 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-ZXByOm==
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2019, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2019, British Columbia Institute of Technology (https://bcit.ca/)
+ * @license	https://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 1.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+/**
+ * Application Controller Class
+ *
+ * This class object is the super class that every library in
+ * CodeIgniter will be assigned to.
+ *
+ * @package		CodeIgniter
+ * @subpackage	Libraries
+ * @category	Libraries
+ * @author		EllisLab Dev Team
+ * @link		https://codeigniter.com/user_guide/general/controllers.html
+ */
+class CI_Controller {
+
+	/**
+	 * Reference to the CI singleton
+	 *
+	 * @var	object
+	 */
+	private static $instance;
+
+	/**
+	 * CI_Loader
+	 *
+	 * @var	CI_Loader
+	 */
+	public $load;
+
+	/**
+	 * Class constructor
+	 *
+	 * @return	void
+	 */
+	public function __construct()
+	{
+		self::$instance =& $this;
+
+		// Assign all the class objects that were instantiated by the
+		// bootstrap file (CodeIgniter.php) to local class variables
+		// so that CI can run as one big super object.
+		foreach (is_loaded() as $var => $class)
+		{
+			$this->$var =& load_class($class);
+		}
+
+		$this->load =& load_class('Loader', 'core');
+		$this->load->initialize();
+		log_message('info', 'Controller Class Initialized');
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Get the CI singleton
+	 *
+	 * @static
+	 * @return	object
+	 */
+	public static function &get_instance()
+	{
+		return self::$instance;
+	}
+
+}

@@ -1,209 +1,410 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2019, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2019, British Columbia Institute of Technology (https://bcit.ca/)
+ * @license	https://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 1.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+/**
+ * CodeIgniter HTML Helpers
+ *
+ * @package		CodeIgniter
+ * @subpackage	Helpers
+ * @category	Helpers
+ * @author		EllisLab Dev Team
+ * @link		https://codeigniter.com/user_guide/helpers/html_helper.html
+ */
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('heading'))
+{
+	/**
+	 * Heading
+	 *
+	 * Generates an HTML heading tag.
+	 *
+	 * @param	string	content
+	 * @param	int	heading level
+	 * @param	string
+	 * @return	string
+	 */
+	function heading($data = '', $h = '1', $attributes = '')
+	{
+		return '<h'.$h._stringify_attributes($attributes).'>'.$data.'</h'.$h.'>';
+	}
+}
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('ul'))
+{
+	/**
+	 * Unordered List
+	 *
+	 * Generates an HTML unordered list from an single or multi-dimensional array.
+	 *
+	 * @param	array
+	 * @param	mixed
+	 * @return	string
+	 */
+	function ul($list, $attributes = '')
+	{
+		return _list('ul', $list, $attributes);
+	}
+}
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('ol'))
+{
+	/**
+	 * Ordered List
+	 *
+	 * Generates an HTML ordered list from an single or multi-dimensional array.
+	 *
+	 * @param	array
+	 * @param	mixed
+	 * @return	string
+	 */
+	function ol($list, $attributes = '')
+	{
+		return _list('ol', $list, $attributes);
+	}
+}
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('_list'))
+{
+	/**
+	 * Generates the list
+	 *
+	 * Generates an HTML ordered list from an single or multi-dimensional array.
+	 *
+	 * @param	string
+	 * @param	mixed
+	 * @param	mixed
+	 * @param	int
+	 * @return	string
+	 */
+	function _list($type = 'ul', $list = array(), $attributes = '', $depth = 0)
+	{
+		// If an array wasn't submitted there's nothing to do...
+		if ( ! is_array($list))
+		{
+			return $list;
+		}
+
+		// Set the indentation based on the depth
+		$out = str_repeat(' ', $depth)
+			// Write the opening list tag
+			.'<'.$type._stringify_attributes($attributes).">\n";
+
+
+		// Cycle through the list elements.  If an array is
+		// encountered we will recursively call _list()
+
+		static $_last_list_item = '';
+		foreach ($list as $key => $val)
+		{
+			$_last_list_item = $key;
+
+			$out .= str_repeat(' ', $depth + 2).'<li>';
+
+			if ( ! is_array($val))
+			{
+				$out .= $val;
+			}
+			else
+			{
+				$out .= $_last_list_item."\n"._list($type, $val, '', $depth + 4).str_repeat(' ', $depth + 2);
+			}
+
+			$out .= "</li>\n";
+		}
+
+		// Set the indentation for the closing tag and apply it
+		return $out.str_repeat(' ', $depth).'</'.$type.">\n";
+	}
+}
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('img'))
+{
+	/**
+	 * Image
+	 *
+	 * Generates an <img /> element
+	 *
+	 * @param	mixed
+	 * @param	bool
+	 * @param	mixed
+	 * @return	string
+	 */
+	function img($src = '', $index_page = FALSE, $attributes = '')
+	{
+		if ( ! is_array($src) )
+		{
+			$src = array('src' => $src);
+		}
+
+		// If there is no alt attribute defined, set it to an empty string
+		if ( ! isset($src['alt']))
+		{
+			$src['alt'] = '';
+		}
+
+		$img = '<img';
+
+		foreach ($src as $k => $v)
+		{
+			if ($k === 'src' && ! preg_match('#^(data:[a-z,;])|(([a-z]+:)?(?<!data:)//)#i', $v))
+			{
+				if ($index_page === TRUE)
+				{
+					$img .= ' src="'.get_instance()->config->site_url($v).'"';
+				}
+				else
+				{
+					$img .= ' src="'.get_instance()->config->base_url($v).'"';
+				}
+			}
+			else
+			{
+				$img .= ' '.$k.'="'.$v.'"';
+			}
+		}
+
+		return $img._stringify_attributes($attributes).' />';
+	}
+}
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('doctype'))
+{
+	/**
+	 * Doctype
+	 *
+	 * Generates a page document type declaration
+	 *
+	 * Examples of valid options: html5, xhtml-11, xhtml-strict, xhtml-trans,
+	 * xhtml-frame, html4-strict, html4-trans, and html4-frame.
+	 * All values are saved in the doctypes config file.
+	 *
+	 * @param	string	type	The doctype to be generated
+	 * @return	string
+	 */
+	function doctype($type = 'xhtml1-strict')
+	{
+		static $doctypes;
+
+		if ( ! is_array($doctypes))
+		{
+			if (file_exists(APPPATH.'config/doctypes.php'))
+			{
+				include(APPPATH.'config/doctypes.php');
+			}
+
+			if (file_exists(APPPATH.'config/'.ENVIRONMENT.'/doctypes.php'))
+			{
+				include(APPPATH.'config/'.ENVIRONMENT.'/doctypes.php');
+			}
+
+			if (empty($_doctypes) OR ! is_array($_doctypes))
+			{
+				$doctypes = array();
+				return FALSE;
+			}
+
+			$doctypes = $_doctypes;
+		}
+
+		return isset($doctypes[$type]) ? $doctypes[$type] : FALSE;
+	}
+}
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('link_tag'))
+{
+	/**
+	 * Link
+	 *
+	 * Generates link to a CSS file
+	 *
+	 * @param	mixed	stylesheet hrefs or an array
+	 * @param	string	rel
+	 * @param	string	type
+	 * @param	string	title
+	 * @param	string	media
+	 * @param	bool	should index_page be added to the css path
+	 * @return	string
+	 */
+	function link_tag($href = '', $rel = 'stylesheet', $type = 'text/css', $title = '', $media = '', $index_page = FALSE)
+	{
+		$CI =& get_instance();
+		$link = '<link ';
+
+		if (is_array($href))
+		{
+			foreach ($href as $k => $v)
+			{
+				if ($k === 'href' && ! preg_match('#^([a-z]+:)?//#i', $v))
+				{
+					if ($index_page === TRUE)
+					{
+						$link .= 'href="'.$CI->config->site_url($v).'" ';
+					}
+					else
+					{
+						$link .= 'href="'.$CI->config->base_url($v).'" ';
+					}
+				}
+				else
+				{
+					$link .= $k.'="'.$v.'" ';
+				}
+			}
+		}
+		else
+		{
+			if (preg_match('#^([a-z]+:)?//#i', $href))
+			{
+				$link .= 'href="'.$href.'" ';
+			}
+			elseif ($index_page === TRUE)
+			{
+				$link .= 'href="'.$CI->config->site_url($href).'" ';
+			}
+			else
+			{
+				$link .= 'href="'.$CI->config->base_url($href).'" ';
+			}
+
+			$link .= 'rel="'.$rel.'" type="'.$type.'" ';
+
+			if ($media !== '')
+			{
+				$link .= 'media="'.$media.'" ';
+			}
+
+			if ($title !== '')
+			{
+				$link .= 'title="'.$title.'" ';
+			}
+		}
+
+		return $link."/>\n";
+	}
+}
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('meta'))
+{
+	/**
+	 * Generates meta tags from an array of key/values
+	 *
+	 * @param	array
+	 * @param	string
+	 * @param	string
+	 * @param	string
+	 * @return	string
+	 */
+	function meta($name = '', $content = '', $type = 'name', $newline = "\n")
+	{
+		// Since we allow the data to be passes as a string, a simple array
+		// or a multidimensional one, we need to do a little prepping.
+		if ( ! is_array($name))
+		{
+			$name = array(array('name' => $name, 'content' => $content, 'type' => $type, 'newline' => $newline));
+		}
+		elseif (isset($name['name']))
+		{
+			// Turn single array into multidimensional
+			$name = array($name);
+		}
+
+		$str = '';
+		foreach ($name as $meta)
+		{
+			$type		= (isset($meta['type']) && $meta['type'] !== 'name')	? 'http-equiv' : 'name';
+			$name		= isset($meta['name'])					? $meta['name'] : '';
+			$content	= isset($meta['content'])				? $meta['content'] : '';
+			$newline	= isset($meta['newline'])				? $meta['newline'] : "\n";
+
+			$str .= '<meta '.$type.'="'.$name.'" content="'.$content.'" />'.$newline;
+		}
+
+		return $str;
+	}
+}
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('br'))
+{
+	/**
+	 * Generates HTML BR tags based on number supplied
+	 *
+	 * @deprecated	3.0.0	Use str_repeat() instead
+	 * @param	int	$count	Number of times to repeat the tag
+	 * @return	string
+	 */
+	function br($count = 1)
+	{
+		return str_repeat('<br />', $count);
+	}
+}
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('nbs'))
+{
+	/**
+	 * Generates non-breaking space entities based on number supplied
+	 *
+	 * @deprecated	3.0.0	Use str_repeat() instead
+	 * @param	int
+	 * @return	string
+	 */
+	function nbs($num = 1)
+	{
+		return str_repeat('&nbsp;', $num);
+	}
+}

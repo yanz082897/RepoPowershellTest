@@ -1,349 +1,1091 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-hUy11KNYOtr/bDMulj+WkW==
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2019, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2019, British Columbia Institute of Technology (https://bcit.ca/)
+ * @license	https://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 1.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+/**
+ * Security Class
+ *
+ * @package		CodeIgniter
+ * @subpackage	Libraries
+ * @category	Security
+ * @author		EllisLab Dev Team
+ * @link		https://codeigniter.com/user_guide/libraries/security.html
+ */
+class CI_Security {
+
+	/**
+	 * List of sanitize filename strings
+	 *
+	 * @var	array
+	 */
+	public $filename_bad_chars =	array(
+		'../', '<!--', '-->', '<', '>',
+		"'", '"', '&', '$', '#',
+		'{', '}', '[', ']', '=',
+		';', '?', '%20', '%22',
+		'%3c',		// <
+		'%253c',	// <
+		'%3e',		// >
+		'%0e',		// >
+		'%28',		// (
+		'%29',		// )
+		'%2528',	// (
+		'%26',		// &
+		'%24',		// $
+		'%3f',		// ?
+		'%3b',		// ;
+		'%3d'		// =
+	);
+
+	/**
+	 * Character set
+	 *
+	 * Will be overridden by the constructor.
+	 *
+	 * @var	string
+	 */
+	public $charset = 'UTF-8';
+
+	/**
+	 * XSS Hash
+	 *
+	 * Random Hash for protecting URLs.
+	 *
+	 * @var	string
+	 */
+	protected $_xss_hash;
+
+	/**
+	 * CSRF Hash
+	 *
+	 * Random hash for Cross Site Request Forgery protection cookie
+	 *
+	 * @var	string
+	 */
+	protected $_csrf_hash;
+
+	/**
+	 * CSRF Expire time
+	 *
+	 * Expiration time for Cross Site Request Forgery protection cookie.
+	 * Defaults to two hours (in seconds).
+	 *
+	 * @var	int
+	 */
+	protected $_csrf_expire =	7200;
+
+	/**
+	 * CSRF Token name
+	 *
+	 * Token name for Cross Site Request Forgery protection cookie.
+	 *
+	 * @var	string
+	 */
+	protected $_csrf_token_name =	'ci_csrf_token';
+
+	/**
+	 * CSRF Cookie name
+	 *
+	 * Cookie name for Cross Site Request Forgery protection cookie.
+	 *
+	 * @var	string
+	 */
+	protected $_csrf_cookie_name =	'ci_csrf_token';
+
+	/**
+	 * List of never allowed strings
+	 *
+	 * @var	array
+	 */
+	protected $_never_allowed_str =	array(
+		'document.cookie' => '[removed]',
+		'(document).cookie' => '[removed]',
+		'document.write'  => '[removed]',
+		'(document).write'  => '[removed]',
+		'.parentNode'     => '[removed]',
+		'.innerHTML'      => '[removed]',
+		'-moz-binding'    => '[removed]',
+		'<!--'            => '&lt;!--',
+		'-->'             => '--&gt;',
+		'<![CDATA['       => '&lt;![CDATA[',
+		'<comment>'	  => '&lt;comment&gt;',
+		'<%'              => '&lt;&#37;'
+	);
+
+	/**
+	 * List of never allowed regex replacements
+	 *
+	 * @var	array
+	 */
+	protected $_never_allowed_regex = array(
+		'javascript\s*:',
+		'(\(?document\)?|\(?window\)?(\.document)?)\.(location|on\w*)',
+		'expression\s*(\(|&\#40;)', // CSS and IE
+		'vbscript\s*:', // IE, surprise!
+		'wscript\s*:', // IE
+		'jscript\s*:', // IE
+		'vbs\s*:', // IE
+		'Redirect\s+30\d',
+		"([\"'])?data\s*:[^\\1]*?base64[^\\1]*?,[^\\1]*?\\1?"
+	);
+
+	/**
+	 * Class constructor
+	 *
+	 * @return	void
+	 */
+	public function __construct()
+	{
+		// Is CSRF protection enabled?
+		if (config_item('csrf_protection'))
+		{
+			// CSRF config
+			foreach (array('csrf_expire', 'csrf_token_name', 'csrf_cookie_name') as $key)
+			{
+				if (NULL !== ($val = config_item($key)))
+				{
+					$this->{'_'.$key} = $val;
+				}
+			}
+
+			// Append application specific cookie prefix
+			if ($cookie_prefix = config_item('cookie_prefix'))
+			{
+				$this->_csrf_cookie_name = $cookie_prefix.$this->_csrf_cookie_name;
+			}
+
+			// Set the CSRF hash
+			$this->_csrf_set_hash();
+		}
+
+		$this->charset = strtoupper(config_item('charset'));
+
+		log_message('info', 'Security Class Initialized');
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * CSRF Verify
+	 *
+	 * @return	CI_Security
+	 */
+	public function csrf_verify()
+	{
+		// If it's not a POST request we will set the CSRF cookie
+		if (strtoupper($_SERVER['REQUEST_METHOD']) !== 'POST')
+		{
+			return $this->csrf_set_cookie();
+		}
+
+		// Check if URI has been whitelisted from CSRF checks
+		if ($exclude_uris = config_item('csrf_exclude_uris'))
+		{
+			$uri = load_class('URI', 'core');
+			foreach ($exclude_uris as $excluded)
+			{
+				if (preg_match('#^'.$excluded.'$#i'.(UTF8_ENABLED ? 'u' : ''), $uri->uri_string()))
+				{
+					return $this;
+				}
+			}
+		}
+
+		// Check CSRF token validity, but don't error on mismatch just yet - we'll want to regenerate
+		$valid = isset($_POST[$this->_csrf_token_name], $_COOKIE[$this->_csrf_cookie_name])
+			&& is_string($_POST[$this->_csrf_token_name]) && is_string($_COOKIE[$this->_csrf_cookie_name])
+			&& hash_equals($_POST[$this->_csrf_token_name], $_COOKIE[$this->_csrf_cookie_name]);
+
+		// We kill this since we're done and we don't want to pollute the _POST array
+		unset($_POST[$this->_csrf_token_name]);
+
+		// Regenerate on every submission?
+		if (config_item('csrf_regenerate'))
+		{
+			// Nothing should last forever
+			unset($_COOKIE[$this->_csrf_cookie_name]);
+			$this->_csrf_hash = NULL;
+		}
+
+		$this->_csrf_set_hash();
+		$this->csrf_set_cookie();
+
+		if ($valid !== TRUE)
+		{
+			$this->csrf_show_error();
+		}
+
+		log_message('info', 'CSRF token verified');
+		return $this;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * CSRF Set Cookie
+	 *
+	 * @codeCoverageIgnore
+	 * @return	CI_Security
+	 */
+	public function csrf_set_cookie()
+	{
+		$expire = time() + $this->_csrf_expire;
+		$secure_cookie = (bool) config_item('cookie_secure');
+
+		if ($secure_cookie && ! is_https())
+		{
+			return FALSE;
+		}
+
+		setcookie(
+			$this->_csrf_cookie_name,
+			$this->_csrf_hash,
+			$expire,
+			config_item('cookie_path'),
+			config_item('cookie_domain'),
+			$secure_cookie,
+			config_item('cookie_httponly')
+		);
+		log_message('info', 'CSRF cookie sent');
+
+		return $this;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Show CSRF Error
+	 *
+	 * @return	void
+	 */
+	public function csrf_show_error()
+	{
+		show_error('The action you have requested is not allowed.', 403);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Get CSRF Hash
+	 *
+	 * @see		CI_Security::$_csrf_hash
+	 * @return 	string	CSRF hash
+	 */
+	public function get_csrf_hash()
+	{
+		return $this->_csrf_hash;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Get CSRF Token Name
+	 *
+	 * @see		CI_Security::$_csrf_token_name
+	 * @return	string	CSRF token name
+	 */
+	public function get_csrf_token_name()
+	{
+		return $this->_csrf_token_name;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * XSS Clean
+	 *
+	 * Sanitizes data so that Cross Site Scripting Hacks can be
+	 * prevented.  This method does a fair amount of work but
+	 * it is extremely thorough, designed to prevent even the
+	 * most obscure XSS attempts.  Nothing is ever 100% foolproof,
+	 * of course, but I haven't been able to get anything passed
+	 * the filter.
+	 *
+	 * Note: Should only be used to deal with data upon submission.
+	 *	 It's not something that should be used for general
+	 *	 runtime processing.
+	 *
+	 * @link	http://channel.bitflux.ch/wiki/XSS_Prevention
+	 * 		Based in part on some code and ideas from Bitflux.
+	 *
+	 * @link	http://ha.ckers.org/xss.html
+	 * 		To help develop this script I used this great list of
+	 *		vulnerabilities along with a few other hacks I've
+	 *		harvested from examining vulnerabilities in other programs.
+	 *
+	 * @param	string|string[]	$str		Input data
+	 * @param 	bool		$is_image	Whether the input is an image
+	 * @return	string
+	 */
+	public function xss_clean($str, $is_image = FALSE)
+	{
+		// Is the string an array?
+		if (is_array($str))
+		{
+			foreach ($str as $key => &$value)
+			{
+				$str[$key] = $this->xss_clean($value);
+			}
+
+			return $str;
+		}
+
+		// Remove Invisible Characters
+		$str = remove_invisible_characters($str);
+
+		/*
+		 * URL Decode
+		 *
+		 * Just in case stuff like this is submitted:
+		 *
+		 * <a href="http://%77%77%77%2E%67%6F%6F%67%6C%65%2E%63%6F%6D">Google</a>
+		 *
+		 * Note: Use rawurldecode() so it does not remove plus signs
+		 */
+		if (stripos($str, '%') !== false)
+		{
+			do
+			{
+				$oldstr = $str;
+				$str = rawurldecode($str);
+				$str = preg_replace_callback('#%(?:\s*[0-9a-f]){2,}#i', array($this, '_urldecodespaces'), $str);
+			}
+			while ($oldstr !== $str);
+			unset($oldstr);
+		}
+
+		/*
+		 * Convert character entities to ASCII
+		 *
+		 * This permits our tests below to work reliably.
+		 * We only convert entities that are within tags since
+		 * these are the ones that will pose security problems.
+		 */
+		$str = preg_replace_callback("/[^a-z0-9>]+[a-z0-9]+=([\'\"]).*?\\1/si", array($this, '_convert_attribute'), $str);
+		$str = preg_replace_callback('/<\w+.*/si', array($this, '_decode_entity'), $str);
+
+		// Remove Invisible Characters Again!
+		$str = remove_invisible_characters($str);
+
+		/*
+		 * Convert all tabs to spaces
+		 *
+		 * This prevents strings like this: ja	vascript
+		 * NOTE: we deal with spaces between characters later.
+		 * NOTE: preg_replace was found to be amazingly slow here on
+		 * large blocks of data, so we use str_replace.
+		 */
+		$str = str_replace("\t", ' ', $str);
+
+		// Capture converted string for later comparison
+		$converted_string = $str;
+
+		// Remove Strings that are never allowed
+		$str = $this->_do_never_allowed($str);
+
+		/*
+		 * Makes PHP tags safe
+		 *
+		 * Note: XML tags are inadvertently replaced too:
+		 *
+		 * <?xml
+		 *
+		 * But it doesn't seem to pose a problem.
+		 */
+		if ($is_image === TRUE)
+		{
+			// Images have a tendency to have the PHP short opening and
+			// closing tags every so often so we skip those and only
+			// do the long opening tags.
+			$str = preg_replace('/<\?(php)/i', '&lt;?\\1', $str);
+		}
+		else
+		{
+			$str = str_replace(array('<?', '?'.'>'), array('&lt;?', '?&gt;'), $str);
+		}
+
+		/*
+		 * Compact any exploded words
+		 *
+		 * This corrects words like:  j a v a s c r i p t
+		 * These words are compacted back to their correct state.
+		 */
+		$words = array(
+			'javascript', 'expression', 'vbscript', 'jscript', 'wscript',
+			'vbs', 'script', 'base64', 'applet', 'alert', 'document',
+			'write', 'cookie', 'window', 'confirm', 'prompt', 'eval'
+		);
+
+		foreach ($words as $word)
+		{
+			$word = implode('\s*', str_split($word)).'\s*';
+
+			// We only want to do this when it is followed by a non-word character
+			// That way valid stuff like "dealer to" does not become "dealerto"
+			$str = preg_replace_callback('#('.substr($word, 0, -3).')(\W)#is', array($this, '_compact_exploded_words'), $str);
+		}
+
+		/*
+		 * Remove disallowed Javascript in links or img tags
+		 * We used to do some version comparisons and use of stripos(),
+		 * but it is dog slow compared to these simplified non-capturing
+		 * preg_match(), especially if the pattern exists in the string
+		 *
+		 * Note: It was reported that not only space characters, but all in
+		 * the following pattern can be parsed as separators between a tag name
+		 * and its attributes: [\d\s"\'`;,\/\=\(\x00\x0B\x09\x0C]
+		 * ... however, remove_invisible_characters() above already strips the
+		 * hex-encoded ones, so we'll skip them below.
+		 */
+		do
+		{
+			$original = $str;
+
+			if (preg_match('/<a/i', $str))
+			{
+				$str = preg_replace_callback('#<a(?:rea)?[^a-z0-9>]+([^>]*?)(?:>|$)#si', array($this, '_js_link_removal'), $str);
+			}
+
+			if (preg_match('/<img/i', $str))
+			{
+				$str = preg_replace_callback('#<img[^a-z0-9]+([^>]*?)(?:\s?/?>|$)#si', array($this, '_js_img_removal'), $str);
+			}
+
+			if (preg_match('/script|xss/i', $str))
+			{
+				$str = preg_replace('#</*(?:script|xss).*?>#si', '[removed]', $str);
+			}
+		}
+		while ($original !== $str);
+		unset($original);
+
+		/*
+		 * Sanitize naughty HTML elements
+		 *
+		 * If a tag containing any of the words in the list
+		 * below is found, the tag gets converted to entities.
+		 *
+		 * So this: <blink>
+		 * Becomes: &lt;blink&gt;
+		 */
+		$pattern = '#'
+			.'<((?<slash>/*\s*)((?<tagName>[a-z0-9]+)(?=[^a-z0-9]|$)|.+)' // tag start and name, followed by a non-tag character
+			.'[^\s\042\047a-z0-9>/=]*' // a valid attribute character immediately after the tag would count as a separator
+			// optional attributes
+			.'(?<attributes>(?:[\s\042\047/=]*' // non-attribute characters, excluding > (tag close) for obvious reasons
+			.'[^\s\042\047>/=]+' // attribute characters
+			// optional attribute-value
+				.'(?:\s*=' // attribute-value separator
+					.'(?:[^\s\042\047=><`]+|\s*\042[^\042]*\042|\s*\047[^\047]*\047|\s*(?U:[^\s\042\047=><`]*))' // single, double or non-quoted value
+				.')?' // end optional attribute-value group
+			.')*)' // end optional attributes group
+			.'[^>]*)(?<closeTag>\>)?#isS';
+
+		// Note: It would be nice to optimize this for speed, BUT
+		//       only matching the naughty elements here results in
+		//       false positives and in turn - vulnerabilities!
+		do
+		{
+			$old_str = $str;
+			$str = preg_replace_callback($pattern, array($this, '_sanitize_naughty_html'), $str);
+		}
+		while ($old_str !== $str);
+		unset($old_str);
+
+		/*
+		 * Sanitize naughty scripting elements
+		 *
+		 * Similar to above, only instead of looking for
+		 * tags it looks for PHP and JavaScript commands
+		 * that are disallowed. Rather than removing the
+		 * code, it simply converts the parenthesis to entities
+		 * rendering the code un-executable.
+		 *
+		 * For example:	eval('some code')
+		 * Becomes:	eval&#40;'some code'&#41;
+		 */
+		$str = preg_replace(
+			'#(alert|prompt|confirm|cmd|passthru|eval|exec|expression|system|fopen|fsockopen|file|file_get_contents|readfile|unlink)(\s*)\((.*?)\)#si',
+			'\\1\\2&#40;\\3&#41;',
+			$str
+		);
+
+		// Same thing, but for "tag functions" (e.g. eval`some code`)
+		// See https://github.com/bcit-ci/CodeIgniter/issues/5420
+		$str = preg_replace(
+			'#(alert|prompt|confirm|cmd|passthru|eval|exec|expression|system|fopen|fsockopen|file|file_get_contents|readfile|unlink)(\s*)`(.*?)`#si',
+			'\\1\\2&#96;\\3&#96;',
+			$str
+		);
+
+		// Final clean up
+		// This adds a bit of extra precaution in case
+		// something got through the above filters
+		$str = $this->_do_never_allowed($str);
+
+		/*
+		 * Images are Handled in a Special Way
+		 * - Essentially, we want to know that after all of the character
+		 * conversion is done whether any unwanted, likely XSS, code was found.
+		 * If not, we return TRUE, as the image is clean.
+		 * However, if the string post-conversion does not matched the
+		 * string post-removal of XSS, then it fails, as there was unwanted XSS
+		 * code found and removed/changed during processing.
+		 */
+		if ($is_image === TRUE)
+		{
+			return ($str === $converted_string);
+		}
+
+		return $str;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * XSS Hash
+	 *
+	 * Generates the XSS hash if needed and returns it.
+	 *
+	 * @see		CI_Security::$_xss_hash
+	 * @return	string	XSS hash
+	 */
+	public function xss_hash()
+	{
+		if ($this->_xss_hash === NULL)
+		{
+			$rand = $this->get_random_bytes(16);
+			$this->_xss_hash = ($rand === FALSE)
+				? md5(uniqid(mt_rand(), TRUE))
+				: bin2hex($rand);
+		}
+
+		return $this->_xss_hash;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Get random bytes
+	 *
+	 * @param	int	$length	Output length
+	 * @return	string
+	 */
+	public function get_random_bytes($length)
+	{
+		if (empty($length) OR ! ctype_digit((string) $length))
+		{
+			return FALSE;
+		}
+
+		if (function_exists('random_bytes'))
+		{
+			try
+			{
+				// The cast is required to avoid TypeError
+				return random_bytes((int) $length);
+			}
+			catch (Exception $e)
+			{
+				// If random_bytes() can't do the job, we can't either ...
+				// There's no point in using fallbacks.
+				log_message('error', $e->getMessage());
+				return FALSE;
+			}
+		}
+
+		// Unfortunately, none of the following PRNGs is guaranteed to exist ...
+		if (defined('MCRYPT_DEV_URANDOM') && ($output = mcrypt_create_iv($length, MCRYPT_DEV_URANDOM)) !== FALSE)
+		{
+			return $output;
+		}
+
+
+		if (is_readable('/dev/urandom') && ($fp = fopen('/dev/urandom', 'rb')) !== FALSE)
+		{
+			// Try not to waste entropy ...
+			is_php('5.4') && stream_set_chunk_size($fp, $length);
+			$output = fread($fp, $length);
+			fclose($fp);
+			if ($output !== FALSE)
+			{
+				return $output;
+			}
+		}
+
+		if (function_exists('openssl_random_pseudo_bytes'))
+		{
+			return openssl_random_pseudo_bytes($length);
+		}
+
+		return FALSE;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * HTML Entities Decode
+	 *
+	 * A replacement for html_entity_decode()
+	 *
+	 * The reason we are not using html_entity_decode() by itself is because
+	 * while it is not technically correct to leave out the semicolon
+	 * at the end of an entity most browsers will still interpret the entity
+	 * correctly. html_entity_decode() does not convert entities without
+	 * semicolons, so we are left with our own little solution here. Bummer.
+	 *
+	 * @link	http://php.net/html-entity-decode
+	 *
+	 * @param	string	$str		Input
+	 * @param	string	$charset	Character set
+	 * @return	string
+	 */
+	public function entity_decode($str, $charset = NULL)
+	{
+		if (strpos($str, '&') === FALSE)
+		{
+			return $str;
+		}
+
+		static $_entities;
+
+		isset($charset) OR $charset = $this->charset;
+		$flag = is_php('5.4')
+			? ENT_COMPAT | ENT_HTML5
+			: ENT_COMPAT;
+
+		if ( ! isset($_entities))
+		{
+			$_entities = array_map('strtolower', get_html_translation_table(HTML_ENTITIES, $flag, $charset));
+
+			// If we're not on PHP 5.4+, add the possibly dangerous HTML 5
+			// entities to the array manually
+			if ($flag === ENT_COMPAT)
+			{
+				$_entities[':'] = '&colon;';
+				$_entities['('] = '&lpar;';
+				$_entities[')'] = '&rpar;';
+				$_entities["\n"] = '&NewLine;';
+				$_entities["\t"] = '&Tab;';
+			}
+		}
+
+		do
+		{
+			$str_compare = $str;
+
+			// Decode standard entities, avoiding false positives
+			if (preg_match_all('/&[a-z]{2,}(?![a-z;])/i', $str, $matches))
+			{
+				$replace = array();
+				$matches = array_unique(array_map('strtolower', $matches[0]));
+				foreach ($matches as &$match)
+				{
+					if (($char = array_search($match.';', $_entities, TRUE)) !== FALSE)
+					{
+						$replace[$match] = $char;
+					}
+				}
+
+				$str = str_replace(array_keys($replace), array_values($replace), $str);
+			}
+
+			// Decode numeric & UTF16 two byte entities
+			$str = html_entity_decode(
+				preg_replace('/(&#(?:x0*[0-9a-f]{2,5}(?![0-9a-f;])|(?:0*\d{2,4}(?![0-9;]))))/iS', '$1;', $str),
+				$flag,
+				$charset
+			);
+
+			if ($flag === ENT_COMPAT)
+			{
+				$str = str_replace(array_values($_entities), array_keys($_entities), $str);
+			}
+		}
+		while ($str_compare !== $str);
+		return $str;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Sanitize Filename
+	 *
+	 * @param	string	$str		Input file name
+	 * @param 	bool	$relative_path	Whether to preserve paths
+	 * @return	string
+	 */
+	public function sanitize_filename($str, $relative_path = FALSE)
+	{
+		$bad = $this->filename_bad_chars;
+
+		if ( ! $relative_path)
+		{
+			$bad[] = './';
+			$bad[] = '/';
+		}
+
+		$str = remove_invisible_characters($str, FALSE);
+
+		do
+		{
+			$old = $str;
+			$str = str_replace($bad, '', $str);
+		}
+		while ($old !== $str);
+
+		return stripslashes($str);
+	}
+
+	// ----------------------------------------------------------------
+
+	/**
+	 * Strip Image Tags
+	 *
+	 * @param	string	$str
+	 * @return	string
+	 */
+	public function strip_image_tags($str)
+	{
+		return preg_replace(
+			array(
+				'#<img[\s/]+.*?src\s*=\s*(["\'])([^\\1]+?)\\1.*?\>#i',
+				'#<img[\s/]+.*?src\s*=\s*?(([^\s"\'=<>`]+)).*?\>#i'
+			),
+			'\\2',
+			$str
+		);
+	}
+
+	// ----------------------------------------------------------------
+
+	/**
+	 * URL-decode taking spaces into account
+	 *
+	 * @see		https://github.com/bcit-ci/CodeIgniter/issues/4877
+	 * @param	array	$matches
+	 * @return	string
+	 */
+	protected function _urldecodespaces($matches)
+	{
+		$input    = $matches[0];
+		$nospaces = preg_replace('#\s+#', '', $input);
+		return ($nospaces === $input)
+			? $input
+			: rawurldecode($nospaces);
+	}
+
+	// ----------------------------------------------------------------
+
+	/**
+	 * Compact Exploded Words
+	 *
+	 * Callback method for xss_clean() to remove whitespace from
+	 * things like 'j a v a s c r i p t'.
+	 *
+	 * @used-by	CI_Security::xss_clean()
+	 * @param	array	$matches
+	 * @return	string
+	 */
+	protected function _compact_exploded_words($matches)
+	{
+		return preg_replace('/\s+/s', '', $matches[1]).$matches[2];
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Sanitize Naughty HTML
+	 *
+	 * Callback method for xss_clean() to remove naughty HTML elements.
+	 *
+	 * @used-by	CI_Security::xss_clean()
+	 * @param	array	$matches
+	 * @return	string
+	 */
+	protected function _sanitize_naughty_html($matches)
+	{
+		static $naughty_tags    = array(
+			'alert', 'area', 'prompt', 'confirm', 'applet', 'audio', 'basefont', 'base', 'behavior', 'bgsound',
+			'blink', 'body', 'embed', 'expression', 'form', 'frameset', 'frame', 'head', 'html', 'ilayer',
+			'iframe', 'input', 'button', 'select', 'isindex', 'layer', 'link', 'meta', 'keygen', 'object',
+			'plaintext', 'style', 'script', 'textarea', 'title', 'math', 'video', 'svg', 'xml', 'xss'
+		);
+
+		static $evil_attributes = array(
+			'on\w+', 'style', 'xmlns', 'formaction', 'form', 'xlink:href', 'FSCommand', 'seekSegmentTime'
+		);
+
+		// First, escape unclosed tags
+		if (empty($matches['closeTag']))
+		{
+			return '&lt;'.$matches[1];
+		}
+		// Is the element that we caught naughty? If so, escape it
+		elseif (in_array(strtolower($matches['tagName']), $naughty_tags, TRUE))
+		{
+			return '&lt;'.$matches[1].'&gt;';
+		}
+		// For other tags, see if their attributes are "evil" and strip those
+		elseif (isset($matches['attributes']))
+		{
+			// We'll store the already filtered attributes here
+			$attributes = array();
+
+			// Attribute-catching pattern
+			$attributes_pattern = '#'
+				.'(?<name>[^\s\042\047>/=]+)' // attribute characters
+				// optional attribute-value
+				.'(?:\s*=(?<value>[^\s\042\047=><`]+|\s*\042[^\042]*\042|\s*\047[^\047]*\047|\s*(?U:[^\s\042\047=><`]*)))' // attribute-value separator
+				.'#i';
+
+			// Blacklist pattern for evil attribute names
+			$is_evil_pattern = '#^('.implode('|', $evil_attributes).')$#i';
+
+			// Each iteration filters a single attribute
+			do
+			{
+				// Strip any non-alpha characters that may precede an attribute.
+				// Browsers often parse these incorrectly and that has been a
+				// of numerous XSS issues we've had.
+				$matches['attributes'] = preg_replace('#^[^a-z]+#i', '', $matches['attributes']);
+
+				if ( ! preg_match($attributes_pattern, $matches['attributes'], $attribute, PREG_OFFSET_CAPTURE))
+				{
+					// No (valid) attribute found? Discard everything else inside the tag
+					break;
+				}
+
+				if (
+					// Is it indeed an "evil" attribute?
+					preg_match($is_evil_pattern, $attribute['name'][0])
+					// Or does it have an equals sign, but no value and not quoted? Strip that too!
+					OR (trim($attribute['value'][0]) === '')
+				)
+				{
+					$attributes[] = 'xss=removed';
+				}
+				else
+				{
+					$attributes[] = $attribute[0][0];
+				}
+
+				$matches['attributes'] = substr($matches['attributes'], $attribute[0][1] + strlen($attribute[0][0]));
+			}
+			while ($matches['attributes'] !== '');
+
+			$attributes = empty($attributes)
+				? ''
+				: ' '.implode(' ', $attributes);
+			return '<'.$matches['slash'].$matches['tagName'].$attributes.'>';
+		}
+
+		return $matches[0];
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * JS Link Removal
+	 *
+	 * Callback method for xss_clean() to sanitize links.
+	 *
+	 * This limits the PCRE backtracks, making it more performance friendly
+	 * and prevents PREG_BACKTRACK_LIMIT_ERROR from being triggered in
+	 * PHP 5.2+ on link-heavy strings.
+	 *
+	 * @used-by	CI_Security::xss_clean()
+	 * @param	array	$match
+	 * @return	string
+	 */
+	protected function _js_link_removal($match)
+	{
+		return str_replace(
+			$match[1],
+			preg_replace(
+				'#href=.*?(?:(?:alert|prompt|confirm)(?:\(|&\#40;|`|&\#96;)|javascript:|livescript:|mocha:|charset=|window\.|\(?document\)?\.|\.cookie|<script|<xss|d\s*a\s*t\s*a\s*:)#si',
+				'',
+				$this->_filter_attributes($match[1])
+			),
+			$match[0]
+		);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * JS Image Removal
+	 *
+	 * Callback method for xss_clean() to sanitize image tags.
+	 *
+	 * This limits the PCRE backtracks, making it more performance friendly
+	 * and prevents PREG_BACKTRACK_LIMIT_ERROR from being triggered in
+	 * PHP 5.2+ on image tag heavy strings.
+	 *
+	 * @used-by	CI_Security::xss_clean()
+	 * @param	array	$match
+	 * @return	string
+	 */
+	protected function _js_img_removal($match)
+	{
+		return str_replace(
+			$match[1],
+			preg_replace(
+				'#src=.*?(?:(?:alert|prompt|confirm|eval)(?:\(|&\#40;|`|&\#96;)|javascript:|livescript:|mocha:|charset=|window\.|\(?document\)?\.|\.cookie|<script|<xss|base64\s*,)#si',
+				'',
+				$this->_filter_attributes($match[1])
+			),
+			$match[0]
+		);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Attribute Conversion
+	 *
+	 * @used-by	CI_Security::xss_clean()
+	 * @param	array	$match
+	 * @return	string
+	 */
+	protected function _convert_attribute($match)
+	{
+		return str_replace(array('>', '<', '\\'), array('&gt;', '&lt;', '\\\\'), $match[0]);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Filter Attributes
+	 *
+	 * Filters tag attributes for consistency and safety.
+	 *
+	 * @used-by	CI_Security::_js_img_removal()
+	 * @used-by	CI_Security::_js_link_removal()
+	 * @param	string	$str
+	 * @return	string
+	 */
+	protected function _filter_attributes($str)
+	{
+		$out = '';
+		if (preg_match_all('#\s*[a-z\-]+\s*=\s*(\042|\047)([^\\1]*?)\\1#is', $str, $matches))
+		{
+			foreach ($matches[0] as $match)
+			{
+				$out .= preg_replace('#/\*.*?\*/#s', '', $match);
+			}
+		}
+
+		return $out;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * HTML Entity Decode Callback
+	 *
+	 * @used-by	CI_Security::xss_clean()
+	 * @param	array	$match
+	 * @return	string
+	 */
+	protected function _decode_entity($match)
+	{
+		// Protect GET variables in URLs
+		// 901119URL5918AMP18930PROTECT8198
+		$match = preg_replace('|\&([a-z\_0-9\-]+)\=([a-z\_0-9\-/]+)|i', $this->xss_hash().'\\1=\\2', $match[0]);
+
+		// Decode, then un-protect URL GET vars
+		return str_replace(
+			$this->xss_hash(),
+			'&',
+			$this->entity_decode($match, $this->charset)
+		);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Do Never Allowed
+	 *
+	 * @used-by	CI_Security::xss_clean()
+	 * @param 	string
+	 * @return 	string
+	 */
+	protected function _do_never_allowed($str)
+	{
+		$str = str_replace(array_keys($this->_never_allowed_str), $this->_never_allowed_str, $str);
+
+		foreach ($this->_never_allowed_regex as $regex)
+		{
+			$str = preg_replace('#'.$regex.'#is', '[removed]', $str);
+		}
+
+		return $str;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Set CSRF Hash and Cookie
+	 *
+	 * @return	string
+	 */
+	protected function _csrf_set_hash()
+	{
+		if ($this->_csrf_hash === NULL)
+		{
+			// If the cookie exists we will use its value.
+			// We don't necessarily want to regenerate it with
+			// each page load since a page could contain embedded
+			// sub-pages causing this feature to fail
+			if (isset($_COOKIE[$this->_csrf_cookie_name]) && is_string($_COOKIE[$this->_csrf_cookie_name])
+				&& preg_match('#^[0-9a-f]{32}$#iS', $_COOKIE[$this->_csrf_cookie_name]) === 1)
+			{
+				return $this->_csrf_hash = $_COOKIE[$this->_csrf_cookie_name];
+			}
+
+			$rand = $this->get_random_bytes(16);
+			$this->_csrf_hash = ($rand === FALSE)
+				? md5(uniqid(mt_rand(), TRUE))
+				: bin2hex($rand);
+		}
+
+		return $this->_csrf_hash;
+	}
+
+}

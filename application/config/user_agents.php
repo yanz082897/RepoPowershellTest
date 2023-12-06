@@ -1,146 +1,216 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+/*
+| -------------------------------------------------------------------
+| USER AGENT TYPES
+| -------------------------------------------------------------------
+| This file contains four arrays of user agent data. It is used by the
+| User Agent Class to help identify browser, platform, robot, and
+| mobile device data. The array keys are used to identify the device
+| and the array values are used to set the actual name of the item.
+*/
+$platforms = array(
+	'windows nt 10.0'	=> 'Windows 10',
+	'windows nt 6.3'	=> 'Windows 8.1',
+	'windows nt 6.2'	=> 'Windows 8',
+	'windows nt 6.1'	=> 'Windows 7',
+	'windows nt 6.0'	=> 'Windows Vista',
+	'windows nt 5.2'	=> 'Windows 2003',
+	'windows nt 5.1'	=> 'Windows XP',
+	'windows nt 5.0'	=> 'Windows 2000',
+	'windows nt 4.0'	=> 'Windows NT 4.0',
+	'winnt4.0'			=> 'Windows NT 4.0',
+	'winnt 4.0'			=> 'Windows NT',
+	'winnt'				=> 'Windows NT',
+	'windows 98'		=> 'Windows 98',
+	'win98'				=> 'Windows 98',
+	'windows 95'		=> 'Windows 95',
+	'win95'				=> 'Windows 95',
+	'windows phone'			=> 'Windows Phone',
+	'windows'			=> 'Unknown Windows OS',
+	'android'			=> 'Android',
+	'blackberry'		=> 'BlackBerry',
+	'iphone'			=> 'iOS',
+	'ipad'				=> 'iOS',
+	'ipod'				=> 'iOS',
+	'os x'				=> 'Mac OS X',
+	'ppc mac'			=> 'Power PC Mac',
+	'freebsd'			=> 'FreeBSD',
+	'ppc'				=> 'Macintosh',
+	'linux'				=> 'Linux',
+	'debian'			=> 'Debian',
+	'sunos'				=> 'Sun Solaris',
+	'beos'				=> 'BeOS',
+	'apachebench'		=> 'ApacheBench',
+	'aix'				=> 'AIX',
+	'irix'				=> 'Irix',
+	'osf'				=> 'DEC OSF',
+	'hp-ux'				=> 'HP-UX',
+	'netbsd'			=> 'NetBSD',
+	'bsdi'				=> 'BSDi',
+	'openbsd'			=> 'OpenBSD',
+	'gnu'				=> 'GNU/Linux',
+	'unix'				=> 'Unknown Unix OS',
+	'symbian' 			=> 'Symbian OS'
+);
+
+
+// The order of this array should NOT be changed. Many browsers return
+// multiple browser types so we want to identify the sub-type first.
+$browsers = array(
+	'OPR'			=> 'Opera',
+	'Flock'			=> 'Flock',
+	'Edge'			=> 'Edge',
+	'Chrome'		=> 'Chrome',
+	// Opera 10+ always reports Opera/9.80 and appends Version/<real version> to the user agent string
+	'Opera.*?Version'	=> 'Opera',
+	'Opera'			=> 'Opera',
+	'MSIE'			=> 'Internet Explorer',
+	'Internet Explorer'	=> 'Internet Explorer',
+	'Trident.* rv'	=> 'Internet Explorer',
+	'Shiira'		=> 'Shiira',
+	'Firefox'		=> 'Firefox',
+	'Chimera'		=> 'Chimera',
+	'Phoenix'		=> 'Phoenix',
+	'Firebird'		=> 'Firebird',
+	'Camino'		=> 'Camino',
+	'Netscape'		=> 'Netscape',
+	'OmniWeb'		=> 'OmniWeb',
+	'Safari'		=> 'Safari',
+	'Mozilla'		=> 'Mozilla',
+	'Konqueror'		=> 'Konqueror',
+	'icab'			=> 'iCab',
+	'Lynx'			=> 'Lynx',
+	'Links'			=> 'Links',
+	'hotjava'		=> 'HotJava',
+	'amaya'			=> 'Amaya',
+	'IBrowse'		=> 'IBrowse',
+	'Maxthon'		=> 'Maxthon',
+	'Ubuntu'		=> 'Ubuntu Web Browser'
+);
+
+$mobiles = array(
+	// legacy array, old values commented out
+	'mobileexplorer'	=> 'Mobile Explorer',
+//  'openwave'			=> 'Open Wave',
+//	'opera mini'		=> 'Opera Mini',
+//	'operamini'			=> 'Opera Mini',
+//	'elaine'			=> 'Palm',
+	'palmsource'		=> 'Palm',
+//	'digital paths'		=> 'Palm',
+//	'avantgo'			=> 'Avantgo',
+//	'xiino'				=> 'Xiino',
+	'palmscape'			=> 'Palmscape',
+//	'nokia'				=> 'Nokia',
+//	'ericsson'			=> 'Ericsson',
+//	'blackberry'		=> 'BlackBerry',
+//	'motorola'			=> 'Motorola'
+
+	// Phones and Manufacturers
+	'motorola'		=> 'Motorola',
+	'nokia'			=> 'Nokia',
+	'nexus'			=> 'Nexus',
+	'palm'			=> 'Palm',
+	'iphone'		=> 'Apple iPhone',
+	'ipad'			=> 'iPad',
+	'ipod'			=> 'Apple iPod Touch',
+	'sony'			=> 'Sony Ericsson',
+	'ericsson'		=> 'Sony Ericsson',
+	'blackberry'	=> 'BlackBerry',
+	'cocoon'		=> 'O2 Cocoon',
+	'blazer'		=> 'Treo',
+	'lg'			=> 'LG',
+	'amoi'			=> 'Amoi',
+	'xda'			=> 'XDA',
+	'mda'			=> 'MDA',
+	'vario'			=> 'Vario',
+	'htc'			=> 'HTC',
+	'samsung'		=> 'Samsung',
+	'sharp'			=> 'Sharp',
+	'sie-'			=> 'Siemens',
+	'alcatel'		=> 'Alcatel',
+	'benq'			=> 'BenQ',
+	'ipaq'			=> 'HP iPaq',
+	'mot-'			=> 'Motorola',
+	'playstation portable'	=> 'PlayStation Portable',
+	'playstation 3'		=> 'PlayStation 3',
+	'playstation vita'  	=> 'PlayStation Vita',
+	'hiptop'		=> 'Danger Hiptop',
+	'nec-'			=> 'NEC',
+	'panasonic'		=> 'Panasonic',
+	'philips'		=> 'Philips',
+	'sagem'			=> 'Sagem',
+	'sanyo'			=> 'Sanyo',
+	'spv'			=> 'SPV',
+	'zte'			=> 'ZTE',
+	'sendo'			=> 'Sendo',
+	'nintendo dsi'	=> 'Nintendo DSi',
+	'nintendo ds'	=> 'Nintendo DS',
+	'nintendo 3ds'	=> 'Nintendo 3DS',
+	'wii'			=> 'Nintendo Wii',
+	'open web'		=> 'Open Web',
+	'openweb'		=> 'OpenWeb',
+	'meizu'                 => 'Meizu',
+
+	// Operating Systems
+	'android'		=> 'Android',
+	'symbian'		=> 'Symbian',
+	'SymbianOS'		=> 'SymbianOS',
+	'elaine'		=> 'Palm',
+	'series60'		=> 'Symbian S60',
+	'windows ce'	=> 'Windows CE',
+
+	// Browsers
+	'obigo'			=> 'Obigo',
+	'netfront'		=> 'Netfront Browser',
+	'openwave'		=> 'Openwave Browser',
+	'mobilexplorer'	=> 'Mobile Explorer',
+	'operamini'		=> 'Opera Mini',
+	'opera mini'	=> 'Opera Mini',
+	'opera mobi'	=> 'Opera Mobile',
+	'fennec'		=> 'Firefox Mobile',
+
+	// Other
+	'digital paths'	=> 'Digital Paths',
+	'avantgo'		=> 'AvantGo',
+	'xiino'			=> 'Xiino',
+	'novarra'		=> 'Novarra Transcoder',
+	'vodafone'		=> 'Vodafone',
+	'docomo'		=> 'NTT DoCoMo',
+	'o2'			=> 'O2',
+
+	// Fallback
+	'mobile'		=> 'Generic Mobile',
+	'wireless'		=> 'Generic Mobile',
+	'j2me'			=> 'Generic Mobile',
+	'midp'			=> 'Generic Mobile',
+	'cldc'			=> 'Generic Mobile',
+	'up.link'		=> 'Generic Mobile',
+	'up.browser'	=> 'Generic Mobile',
+	'smartphone'	=> 'Generic Mobile',
+	'cellphone'		=> 'Generic Mobile'
+);
+
+// There are hundreds of bots but these are the most common.
+$robots = array(
+	'googlebot'		=> 'Googlebot',
+	'msnbot'		=> 'MSNBot',
+	'baiduspider'		=> 'Baiduspider',
+	'bingbot'		=> 'Bing',
+	'slurp'			=> 'Inktomi Slurp',
+	'yahoo'			=> 'Yahoo',
+	'ask jeeves'		=> 'Ask Jeeves',
+	'fastcrawler'		=> 'FastCrawler',
+	'infoseek'		=> 'InfoSeek Robot 1.0',
+	'lycos'			=> 'Lycos',
+	'yandex'		=> 'YandexBot',
+	'mediapartners-google'	=> 'MediaPartners Google',
+	'CRAZYWEBCRAWLER'	=> 'Crazy Webcrawler',
+	'adsbot-google'		=> 'AdsBot Google',
+	'feedfetcher-google'	=> 'Feedfetcher Google',
+	'curious george'	=> 'Curious George',
+	'ia_archiver'		=> 'Alexa Crawler',
+	'MJ12bot'		=> 'Majestic-12',
+	'Uptimebot'		=> 'Uptimebot'
+);

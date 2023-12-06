@@ -1,128 +1,205 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <title>GC Gateway Function List</title>
+  <style type="text/css">
+    /* Add custom styles here */
+
+body {
+  background-color: #f4f4f4;
+}
+
+.container {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  margin-top: 50px;
+}
+
+.list-group-item {
+  border: none;
+  border-top: 1px solid #dee2e6;
+}
+
+.list-group-item:last-child {
+  border-bottom: 1px solid #dee2e6;
+}
+
+.list-group-item:hover {
+  background-color: #f8f9fa;
+  cursor: pointer;
+}
+
+.list-group-item h5 {
+  color: #343a40;
+}
+
+.list-group-item p {
+  color: #6c757d;
+}
+
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <h1>API Gateway List</h1>
+  <ul id="api-list" class="list-group">
+    <li class="list-group-item list-group-item-primary " data-id="balanceInq" data-name="Balance Inquiry">
+        <h5 class="mb-1"><span class="badge badge-success">POST</span> Balance Inquiry </h5>
+        <p class="mb-1"><span class="badge badge-dark">Endpoint</span> /giftcard-apigateway-pinelabs/balance</p>
+
+      
+      </li>
+
+
+       <li class="list-group-item list-group-item-warning " data-id="redem" data-name="Redemption">
+        <h5 class="mb-1"><span class="badge badge-success">POST</span> Redemption </h5>
+        <p class="mb-1"><span class="badge badge-dark">Endpoint</span> /giftcard-apigateway-pinelabs/redeem</p>
+
+      
+      </li>
+
+
+       <li class="list-group-item list-group-item-success " data-id="voidRedem" data-name="Void Redemption">
+        <h5 class="mb-1"><span class="badge badge-success">POST</span> Void Redemption </h5>
+        <p class="mb-1"><span class="badge badge-dark">Endpoint</span> /giftcard-apigateway-pinelabs/void</p>
+
+      
+      </li>
+
+
+       <li class="list-group-item list-group-item-info " data-id="reversalRedem" data-name="Reversal Redemption">
+        <h5 class="mb-1"><span class="badge badge-success">POST</span> Reversal Redemption </h5>
+        <p class="mb-1"><span class="badge badge-dark">Endpoint</span> /giftcard-apigateway-pinelabs/reverse</p>
+
+      
+      </li>
+
+
+       <li class="list-group-item list-group-item-danger " data-id="voidReversal" data-name="Void Reversal">
+        <h5 class="mb-1"><span class="badge badge-success">POST</span> Void Reversal </h5>
+        <p class="mb-1"><span class="badge badge-dark">Endpoint</span> /giftcard-apigateway-pinelabs/reversevoid</p>
+
+      
+      </li>
+
+      <li class="list-group-item list-group-item-dark " data-id="settlement" data-name="Settlement">
+        <h5 class="mb-1"><span class="badge badge-success">POST</span> Settlement </h5>
+        <p class="mb-1"><span class="badge badge-dark">Endpoint</span> /giftcard-apigateway-pinelabs/settlement</p>
+
+      
+      </li>
+
+      
+  </ul>
+</div>
+<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog " role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="modalTitle"><span class="badge badge-success">POST</span> Modal title</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+          <div class="card" >
+            <div class="card-body">
+              <h6 class="card-title"> </h6>
+              <h7 class="card-subtitle mb-2 text-muted">Request</h7>
+              <p class="card-text"><pre><code id="request"></code></pre></p>
+
+                <h7 class="card-subtitle mb-2 text-muted">Response</h7>
+           <p class="card-text"><pre><code id="response"></code></pre></p>
+          
+            </div>
+          </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.1/dist/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+  $(document).ready(function() {
+
+   $('.list-group-item').on('click', function() {
+    var $this = $(this);
+    var $alias = $this.data('alias');
+   
+   
+
+    $('.active').removeClass('active');
+    $this.toggleClass('active');
+
+
+
+
+    $("#modalTitle").html("<span class='badge badge-success'>POST</span> "+$this.attr("data-name"));
+
+    if ($this.attr("data-id") == 'balanceInq') {
+
+    $(".card-title").html("<p class='mb-1'><span class='badge badge-dark'>Endpoint</span> /giftcard-apigateway-pinelabs/balance</p> ")
+      var requestData = {
+    "ProcessingCode":"310000",
+    "Stan":"0200",
+    "PosCode":"0000000",
+    "NII":"0210",
+    "PosCondCode":"11111",
+    "Track2Data":"9141001000003327",
+    "TerminalID":"32534564654654",
+    "MerchantID":"000022223333444",
+    "pinKey":"152879"
+};
+
+     var responseData = {
+    "02^PAN": "9141001000003327",
+    "03^ProcessingCode": "310000",
+    "04^TransactionAmount": 0,
+    "11^Stan": "0200",
+    "12^Date": "2023-08-14",
+    "13^Time": "15:33PM",
+    "24^NII": "0210",
+    "37^ReferenceNumber": 707,
+    "38^ApprovalCode": "64251121",
+    "39^ResponseCode": 0,
+    "41^TerminalID": "32534564654654",
+    "42^MerchantID": "000022223333444",
+    "63^Balance": 147
+};
+
+      var textedRequestJson = JSON.stringify(requestData, undefined, 2);
+      var textedResponseJson = JSON.stringify(responseData, undefined, 2);
+
+      $('#request').text(textedRequestJson);
+      $('#response').text(textedResponseJson);
+
+  
+    }else{
+        $('#request').text('');
+      $('#response').text('');
+       $(".card-title").html('')
+    }
+
+
+    $('#exampleModalCenter').modal('show');
+    // Pass clicked link element to another function
+   // myfunction($this, $alias)
+})
+
+
+  });
+</script>
+</body>
+</html>

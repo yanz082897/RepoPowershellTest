@@ -1,74 +1,217 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-gPE1TH6egT9ugqEb7TBEkZIWbiE0uBNDISvu
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2019, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2019, British Columbia Institute of Technology (https://bcit.ca/)
+ * @license	https://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 2.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+/**
+ * CodeIgniter APC Caching Class
+ *
+ * @package		CodeIgniter
+ * @subpackage	Libraries
+ * @category	Core
+ * @author		EllisLab Dev Team
+ * @link
+ */
+class CI_Cache_apc extends CI_Driver {
+
+	/**
+	 * Class constructor
+	 *
+	 * Only present so that an error message is logged
+	 * if APC is not available.
+	 *
+	 * @return	void
+	 */
+	public function __construct()
+	{
+		if ( ! $this->is_supported())
+		{
+			log_message('error', 'Cache: Failed to initialize APC; extension not loaded/enabled?');
+		}
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Get
+	 *
+	 * Look for a value in the cache. If it exists, return the data
+	 * if not, return FALSE
+	 *
+	 * @param	string
+	 * @return	mixed	value that is stored/FALSE on failure
+	 */
+	public function get($id)
+	{
+		$success = FALSE;
+		$data = apc_fetch($id, $success);
+
+		return ($success === TRUE) ? $data : FALSE;
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Cache Save
+	 *
+	 * @param	string	$id	Cache ID
+	 * @param	mixed	$data	Data to store
+	 * @param	int	$ttl	Length of time (in seconds) to cache the data
+	 * @param	bool	$raw	Whether to store the raw value (unused)
+	 * @return	bool	TRUE on success, FALSE on failure
+	 */
+	public function save($id, $data, $ttl = 60, $raw = FALSE)
+	{
+		return apc_store($id, $data, (int) $ttl);
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Delete from Cache
+	 *
+	 * @param	mixed	unique identifier of the item in the cache
+	 * @return	bool	true on success/false on failure
+	 */
+	public function delete($id)
+	{
+		return apc_delete($id);
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Increment a raw value
+	 *
+	 * @param	string	$id	Cache ID
+	 * @param	int	$offset	Step/value to add
+	 * @return	mixed	New value on success or FALSE on failure
+	 */
+	public function increment($id, $offset = 1)
+	{
+		return apc_inc($id, $offset);
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Decrement a raw value
+	 *
+	 * @param	string	$id	Cache ID
+	 * @param	int	$offset	Step/value to reduce by
+	 * @return	mixed	New value on success or FALSE on failure
+	 */
+	public function decrement($id, $offset = 1)
+	{
+		return apc_dec($id, $offset);
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Clean the cache
+	 *
+	 * @return	bool	false on failure/true on success
+	 */
+	public function clean()
+	{
+		return apc_clear_cache('user');
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Cache Info
+	 *
+	 * @param	string	user/filehits
+	 * @return	mixed	array on success, false on failure
+	 */
+	 public function cache_info($type = NULL)
+	 {
+		 return apc_cache_info($type);
+	 }
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Get Cache Metadata
+	 *
+	 * @param	mixed	key to get cache metadata on
+	 * @return	mixed	array on success/false on failure
+	 */
+	public function get_metadata($id)
+	{
+		$cache_info = apc_cache_info('user', FALSE);
+		if (empty($cache_info) OR empty($cache_info['cache_list']))
+		{
+			return FALSE;
+		}
+
+		foreach ($cache_info['cache_list'] as &$entry)
+		{
+			if ($entry['info'] !== $id)
+			{
+				continue;
+			}
+
+			$success  = FALSE;
+			$metadata = array(
+				'expire' => ($entry['ttl'] ? $entry['mtime'] + $entry['ttl'] : 0),
+				'mtime'  => $entry['ttl'],
+				'data'   => apc_fetch($id, $success)
+			);
+
+			return ($success === TRUE) ? $metadata : FALSE;
+		}
+
+		return FALSE;
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * is_supported()
+	 *
+	 * Check to see if APC is available on this system, bail if it isn't.
+	 *
+	 * @return	bool
+	 */
+	public function is_supported()
+	{
+		return (extension_loaded('apc') && ini_get('apc.enabled'));
+	}
+}

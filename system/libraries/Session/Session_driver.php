@@ -1,58 +1,187 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2019, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2019, British Columbia Institute of Technology (https://bcit.ca/)
+ * @license	https://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 3.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+/**
+ * CodeIgniter Session Driver Class
+ *
+ * @package	CodeIgniter
+ * @subpackage	Libraries
+ * @category	Sessions
+ * @author	Andrey Andreev
+ * @link	https://codeigniter.com/user_guide/libraries/sessions.html
+ */
+abstract class CI_Session_driver implements SessionHandlerInterface {
+
+	protected $_config;
+
+	/**
+	 * Data fingerprint
+	 *
+	 * @var	bool
+	 */
+	protected $_fingerprint;
+
+	/**
+	 * Lock placeholder
+	 *
+	 * @var	mixed
+	 */
+	protected $_lock = FALSE;
+
+	/**
+	 * Read session ID
+	 *
+	 * Used to detect session_regenerate_id() calls because PHP only calls
+	 * write() after regenerating the ID.
+	 *
+	 * @var	string
+	 */
+	protected $_session_id;
+
+	/**
+	 * Success and failure return values
+	 *
+	 * Necessary due to a bug in all PHP 5 versions where return values
+	 * from userspace handlers are not handled properly. PHP 7 fixes the
+	 * bug, so we need to return different values depending on the version.
+	 *
+	 * @see	https://wiki.php.net/rfc/session.user.return-value
+	 * @var	mixed
+	 */
+	protected $_success, $_failure;
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Class constructor
+	 *
+	 * @param	array	$params	Configuration parameters
+	 * @return	void
+	 */
+	public function __construct(&$params)
+	{
+		$this->_config =& $params;
+
+		if (is_php('7'))
+		{
+			$this->_success = TRUE;
+			$this->_failure = FALSE;
+		}
+		else
+		{
+			$this->_success = 0;
+			$this->_failure = -1;
+		}
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * PHP 5.x validate ID
+	 *
+	 * Enforces session.use_strict_mode
+	 *
+	 * @return	void
+	 */
+	public function php5_validate_id()
+	{
+		if (isset($_COOKIE[$this->_config['cookie_name']]) && ! $this->validateSessionId($_COOKIE[$this->_config['cookie_name']]))
+		{
+			unset($_COOKIE[$this->_config['cookie_name']]);
+		}
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Cookie destroy
+	 *
+	 * Internal method to force removal of a cookie by the client
+	 * when session_destroy() is called.
+	 *
+	 * @return	bool
+	 */
+	protected function _cookie_destroy()
+	{
+		return setcookie(
+			$this->_config['cookie_name'],
+			NULL,
+			1,
+			$this->_config['cookie_path'],
+			$this->_config['cookie_domain'],
+			$this->_config['cookie_secure'],
+			TRUE
+		);
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Get lock
+	 *
+	 * A dummy method allowing drivers with no locking functionality
+	 * (databases other than PostgreSQL and MySQL) to act as if they
+	 * do acquire a lock.
+	 *
+	 * @param	string	$session_id
+	 * @return	bool
+	 */
+	protected function _get_lock($session_id)
+	{
+		$this->_lock = TRUE;
+		return TRUE;
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Release lock
+	 *
+	 * @return	bool
+	 */
+	protected function _release_lock()
+	{
+		if ($this->_lock)
+		{
+			$this->_lock = FALSE;
+		}
+
+		return TRUE;
+	}
+}

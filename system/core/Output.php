@@ -1,329 +1,842 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2019, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2019, British Columbia Institute of Technology (https://bcit.ca/)
+ * @license	https://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 1.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+/**
+ * Output Class
+ *
+ * Responsible for sending final output to the browser.
+ *
+ * @package		CodeIgniter
+ * @subpackage	Libraries
+ * @category	Output
+ * @author		EllisLab Dev Team
+ * @link		https://codeigniter.com/user_guide/libraries/output.html
+ */
+class CI_Output {
+
+	/**
+	 * Final output string
+	 *
+	 * @var	string
+	 */
+	public $final_output;
+
+	/**
+	 * Cache expiration time
+	 *
+	 * @var	int
+	 */
+	public $cache_expiration = 0;
+
+	/**
+	 * List of server headers
+	 *
+	 * @var	array
+	 */
+	public $headers = array();
+
+	/**
+	 * List of mime types
+	 *
+	 * @var	array
+	 */
+	public $mimes =	array();
+
+	/**
+	 * Mime-type for the current page
+	 *
+	 * @var	string
+	 */
+	protected $mime_type = 'text/html';
+
+	/**
+	 * Enable Profiler flag
+	 *
+	 * @var	bool
+	 */
+	public $enable_profiler = FALSE;
+
+	/**
+	 * php.ini zlib.output_compression flag
+	 *
+	 * @var	bool
+	 */
+	protected $_zlib_oc = FALSE;
+
+	/**
+	 * CI output compression flag
+	 *
+	 * @var	bool
+	 */
+	protected $_compress_output = FALSE;
+
+	/**
+	 * List of profiler sections
+	 *
+	 * @var	array
+	 */
+	protected $_profiler_sections =	array();
+
+	/**
+	 * Parse markers flag
+	 *
+	 * Whether or not to parse variables like {elapsed_time} and {memory_usage}.
+	 *
+	 * @var	bool
+	 */
+	public $parse_exec_vars = TRUE;
+
+	/**
+	 * mbstring.func_overload flag
+	 *
+	 * @var	bool
+	 */
+	protected static $func_overload;
+
+	/**
+	 * Class constructor
+	 *
+	 * Determines whether zLib output compression will be used.
+	 *
+	 * @return	void
+	 */
+	public function __construct()
+	{
+		$this->_zlib_oc = (bool) ini_get('zlib.output_compression');
+		$this->_compress_output = (
+			$this->_zlib_oc === FALSE
+			&& config_item('compress_output') === TRUE
+			&& extension_loaded('zlib')
+		);
+
+		isset(self::$func_overload) OR self::$func_overload = (extension_loaded('mbstring') && ini_get('mbstring.func_overload'));
+
+		// Get mime types for later
+		$this->mimes =& get_mimes();
+
+		log_message('info', 'Output Class Initialized');
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Get Output
+	 *
+	 * Returns the current output string.
+	 *
+	 * @return	string
+	 */
+	public function get_output()
+	{
+		return $this->final_output;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Set Output
+	 *
+	 * Sets the output string.
+	 *
+	 * @param	string	$output	Output data
+	 * @return	CI_Output
+	 */
+	public function set_output($output)
+	{
+		$this->final_output = $output;
+		return $this;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Append Output
+	 *
+	 * Appends data onto the output string.
+	 *
+	 * @param	string	$output	Data to append
+	 * @return	CI_Output
+	 */
+	public function append_output($output)
+	{
+		$this->final_output .= $output;
+		return $this;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Set Header
+	 *
+	 * Lets you set a server header which will be sent with the final output.
+	 *
+	 * Note: If a file is cached, headers will not be sent.
+	 * @todo	We need to figure out how to permit headers to be cached.
+	 *
+	 * @param	string	$header		Header
+	 * @param	bool	$replace	Whether to replace the old header value, if already set
+	 * @return	CI_Output
+	 */
+	public function set_header($header, $replace = TRUE)
+	{
+		// If zlib.output_compression is enabled it will compress the output,
+		// but it will not modify the content-length header to compensate for
+		// the reduction, causing the browser to hang waiting for more data.
+		// We'll just skip content-length in those cases.
+		if ($this->_zlib_oc && strncasecmp($header, 'content-length', 14) === 0)
+		{
+			return $this;
+		}
+
+		$this->headers[] = array($header, $replace);
+		return $this;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Set Content-Type Header
+	 *
+	 * @param	string	$mime_type	Extension of the file we're outputting
+	 * @param	string	$charset	Character set (default: NULL)
+	 * @return	CI_Output
+	 */
+	public function set_content_type($mime_type, $charset = NULL)
+	{
+		if (strpos($mime_type, '/') === FALSE)
+		{
+			$extension = ltrim($mime_type, '.');
+
+			// Is this extension supported?
+			if (isset($this->mimes[$extension]))
+			{
+				$mime_type =& $this->mimes[$extension];
+
+				if (is_array($mime_type))
+				{
+					$mime_type = current($mime_type);
+				}
+			}
+		}
+
+		$this->mime_type = $mime_type;
+
+		if (empty($charset))
+		{
+			$charset = config_item('charset');
+		}
+
+		$header = 'Content-Type: '.$mime_type
+			.(empty($charset) ? '' : '; charset='.$charset);
+
+		$this->headers[] = array($header, TRUE);
+		return $this;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Get Current Content-Type Header
+	 *
+	 * @return	string	'text/html', if not already set
+	 */
+	public function get_content_type()
+	{
+		for ($i = 0, $c = count($this->headers); $i < $c; $i++)
+		{
+			if (sscanf($this->headers[$i][0], 'Content-Type: %[^;]', $content_type) === 1)
+			{
+				return $content_type;
+			}
+		}
+
+		return 'text/html';
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Get Header
+	 *
+	 * @param	string	$header
+	 * @return	string
+	 */
+	public function get_header($header)
+	{
+		// Combine headers already sent with our batched headers
+		$headers = array_merge(
+			// We only need [x][0] from our multi-dimensional array
+			array_map('array_shift', $this->headers),
+			headers_list()
+		);
+
+		if (empty($headers) OR empty($header))
+		{
+			return NULL;
+		}
+
+		// Count backwards, in order to get the last matching header
+		for ($c = count($headers) - 1; $c > -1; $c--)
+		{
+			if (strncasecmp($header, $headers[$c], $l = self::strlen($header)) === 0)
+			{
+				return trim(self::substr($headers[$c], $l+1));
+			}
+		}
+
+		return NULL;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Set HTTP Status Header
+	 *
+	 * As of version 1.7.2, this is an alias for common function
+	 * set_status_header().
+	 *
+	 * @param	int	$code	Status code (default: 200)
+	 * @param	string	$text	Optional message
+	 * @return	CI_Output
+	 */
+	public function set_status_header($code = 200, $text = '')
+	{
+		set_status_header($code, $text);
+		return $this;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Enable/disable Profiler
+	 *
+	 * @param	bool	$val	TRUE to enable or FALSE to disable
+	 * @return	CI_Output
+	 */
+	public function enable_profiler($val = TRUE)
+	{
+		$this->enable_profiler = is_bool($val) ? $val : TRUE;
+		return $this;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Set Profiler Sections
+	 *
+	 * Allows override of default/config settings for
+	 * Profiler section display.
+	 *
+	 * @param	array	$sections	Profiler sections
+	 * @return	CI_Output
+	 */
+	public function set_profiler_sections($sections)
+	{
+		if (isset($sections['query_toggle_count']))
+		{
+			$this->_profiler_sections['query_toggle_count'] = (int) $sections['query_toggle_count'];
+			unset($sections['query_toggle_count']);
+		}
+
+		foreach ($sections as $section => $enable)
+		{
+			$this->_profiler_sections[$section] = ($enable !== FALSE);
+		}
+
+		return $this;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Set Cache
+	 *
+	 * @param	int	$time	Cache expiration time in minutes
+	 * @return	CI_Output
+	 */
+	public function cache($time)
+	{
+		$this->cache_expiration = is_numeric($time) ? $time : 0;
+		return $this;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Display Output
+	 *
+	 * Processes and sends finalized output data to the browser along
+	 * with any server headers and profile data. It also stops benchmark
+	 * timers so the page rendering speed and memory usage can be shown.
+	 *
+	 * Note: All "view" data is automatically put into $this->final_output
+	 *	 by controller class.
+	 *
+	 * @uses	CI_Output::$final_output
+	 * @param	string	$output	Output data override
+	 * @return	void
+	 */
+	public function _display($output = '')
+	{
+		// Note:  We use load_class() because we can't use $CI =& get_instance()
+		// since this function is sometimes called by the caching mechanism,
+		// which happens before the CI super object is available.
+		$BM =& load_class('Benchmark', 'core');
+		$CFG =& load_class('Config', 'core');
+
+		// Grab the super object if we can.
+		if (class_exists('CI_Controller', FALSE))
+		{
+			$CI =& get_instance();
+		}
+
+		// --------------------------------------------------------------------
+
+		// Set the output data
+		if ($output === '')
+		{
+			$output =& $this->final_output;
+		}
+
+		// --------------------------------------------------------------------
+
+		// Do we need to write a cache file? Only if the controller does not have its
+		// own _output() method and we are not dealing with a cache file, which we
+		// can determine by the existence of the $CI object above
+		if ($this->cache_expiration > 0 && isset($CI) && ! method_exists($CI, '_output'))
+		{
+			$this->_write_cache($output);
+		}
+
+		// --------------------------------------------------------------------
+
+		// Parse out the elapsed time and memory usage,
+		// then swap the pseudo-variables with the data
+
+		$elapsed = $BM->elapsed_time('total_execution_time_start', 'total_execution_time_end');
+
+		if ($this->parse_exec_vars === TRUE)
+		{
+			$memory	= round(memory_get_usage() / 1024 / 1024, 2).'MB';
+			$output = str_replace(array('{elapsed_time}', '{memory_usage}'), array($elapsed, $memory), $output);
+		}
+
+		// --------------------------------------------------------------------
+
+		// Is compression requested?
+		if (isset($CI) // This means that we're not serving a cache file, if we were, it would already be compressed
+			&& $this->_compress_output === TRUE
+			&& isset($_SERVER['HTTP_ACCEPT_ENCODING']) && strpos($_SERVER['HTTP_ACCEPT_ENCODING'], 'gzip') !== FALSE)
+		{
+			ob_start('ob_gzhandler');
+		}
+
+		// --------------------------------------------------------------------
+
+		// Are there any server headers to send?
+		if (count($this->headers) > 0)
+		{
+			foreach ($this->headers as $header)
+			{
+				@header($header[0], $header[1]);
+			}
+		}
+
+		// --------------------------------------------------------------------
+
+		// Does the $CI object exist?
+		// If not we know we are dealing with a cache file so we'll
+		// simply echo out the data and exit.
+		if ( ! isset($CI))
+		{
+			if ($this->_compress_output === TRUE)
+			{
+				if (isset($_SERVER['HTTP_ACCEPT_ENCODING']) && strpos($_SERVER['HTTP_ACCEPT_ENCODING'], 'gzip') !== FALSE)
+				{
+					header('Content-Encoding: gzip');
+					header('Content-Length: '.self::strlen($output));
+				}
+				else
+				{
+					// User agent doesn't support gzip compression,
+					// so we'll have to decompress our cache
+					$output = gzinflate(self::substr($output, 10, -8));
+				}
+			}
+
+			echo $output;
+			log_message('info', 'Final output sent to browser');
+			log_message('debug', 'Total execution time: '.$elapsed);
+			return;
+		}
+
+		// --------------------------------------------------------------------
+
+		// Do we need to generate profile data?
+		// If so, load the Profile class and run it.
+		if ($this->enable_profiler === TRUE)
+		{
+			$CI->load->library('profiler');
+			if ( ! empty($this->_profiler_sections))
+			{
+				$CI->profiler->set_sections($this->_profiler_sections);
+			}
+
+			// If the output data contains closing </body> and </html> tags
+			// we will remove them and add them back after we insert the profile data
+			$output = preg_replace('|</body>.*?</html>|is', '', $output, -1, $count).$CI->profiler->run();
+			if ($count > 0)
+			{
+				$output .= '</body></html>';
+			}
+		}
+
+		// Does the controller contain a function named _output()?
+		// If so send the output there.  Otherwise, echo it.
+		if (method_exists($CI, '_output'))
+		{
+			$CI->_output($output);
+		}
+		else
+		{
+			echo $output; // Send it to the browser!
+		}
+
+		log_message('info', 'Final output sent to browser');
+		log_message('debug', 'Total execution time: '.$elapsed);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Write Cache
+	 *
+	 * @param	string	$output	Output data to cache
+	 * @return	void
+	 */
+	public function _write_cache($output)
+	{
+		$CI =& get_instance();
+		$path = $CI->config->item('cache_path');
+		$cache_path = ($path === '') ? APPPATH.'cache/' : $path;
+
+		if ( ! is_dir($cache_path) OR ! is_really_writable($cache_path))
+		{
+			log_message('error', 'Unable to write cache file: '.$cache_path);
+			return;
+		}
+
+		$uri = $CI->config->item('base_url')
+			.$CI->config->item('index_page')
+			.$CI->uri->uri_string();
+
+		if (($cache_query_string = $CI->config->item('cache_query_string')) && ! empty($_SERVER['QUERY_STRING']))
+		{
+			if (is_array($cache_query_string))
+			{
+				$uri .= '?'.http_build_query(array_intersect_key($_GET, array_flip($cache_query_string)));
+			}
+			else
+			{
+				$uri .= '?'.$_SERVER['QUERY_STRING'];
+			}
+		}
+
+		$cache_path .= md5($uri);
+
+		if ( ! $fp = @fopen($cache_path, 'w+b'))
+		{
+			log_message('error', 'Unable to write cache file: '.$cache_path);
+			return;
+		}
+
+		if ( ! flock($fp, LOCK_EX))
+		{
+			log_message('error', 'Unable to secure a file lock for file at: '.$cache_path);
+			fclose($fp);
+			return;
+		}
+
+		// If output compression is enabled, compress the cache
+		// itself, so that we don't have to do that each time
+		// we're serving it
+		if ($this->_compress_output === TRUE)
+		{
+			$output = gzencode($output);
+
+			if ($this->get_header('content-type') === NULL)
+			{
+				$this->set_content_type($this->mime_type);
+			}
+		}
+
+		$expire = time() + ($this->cache_expiration * 60);
+
+		// Put together our serialized info.
+		$cache_info = serialize(array(
+			'expire'	=> $expire,
+			'headers'	=> $this->headers
+		));
+
+		$output = $cache_info.'ENDCI--->'.$output;
+
+		for ($written = 0, $length = self::strlen($output); $written < $length; $written += $result)
+		{
+			if (($result = fwrite($fp, self::substr($output, $written))) === FALSE)
+			{
+				break;
+			}
+		}
+
+		flock($fp, LOCK_UN);
+		fclose($fp);
+
+		if ( ! is_int($result))
+		{
+			@unlink($cache_path);
+			log_message('error', 'Unable to write the complete cache content at: '.$cache_path);
+			return;
+		}
+
+		chmod($cache_path, 0640);
+		log_message('debug', 'Cache file written: '.$cache_path);
+
+		// Send HTTP cache-control headers to browser to match file cache settings.
+		$this->set_cache_header($_SERVER['REQUEST_TIME'], $expire);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Update/serve cached output
+	 *
+	 * @uses	CI_Config
+	 * @uses	CI_URI
+	 *
+	 * @param	object	&$CFG	CI_Config class instance
+	 * @param	object	&$URI	CI_URI class instance
+	 * @return	bool	TRUE on success or FALSE on failure
+	 */
+	public function _display_cache(&$CFG, &$URI)
+	{
+		$cache_path = ($CFG->item('cache_path') === '') ? APPPATH.'cache/' : $CFG->item('cache_path');
+
+		// Build the file path. The file name is an MD5 hash of the full URI
+		$uri = $CFG->item('base_url').$CFG->item('index_page').$URI->uri_string;
+
+		if (($cache_query_string = $CFG->item('cache_query_string')) && ! empty($_SERVER['QUERY_STRING']))
+		{
+			if (is_array($cache_query_string))
+			{
+				$uri .= '?'.http_build_query(array_intersect_key($_GET, array_flip($cache_query_string)));
+			}
+			else
+			{
+				$uri .= '?'.$_SERVER['QUERY_STRING'];
+			}
+		}
+
+		$filepath = $cache_path.md5($uri);
+
+		if ( ! file_exists($filepath) OR ! $fp = @fopen($filepath, 'rb'))
+		{
+			return FALSE;
+		}
+
+		flock($fp, LOCK_SH);
+
+		$cache = (filesize($filepath) > 0) ? fread($fp, filesize($filepath)) : '';
+
+		flock($fp, LOCK_UN);
+		fclose($fp);
+
+		// Look for embedded serialized file info.
+		if ( ! preg_match('/^(.*)ENDCI--->/', $cache, $match))
+		{
+			return FALSE;
+		}
+
+		$cache_info = unserialize($match[1]);
+		$expire = $cache_info['expire'];
+
+		$last_modified = filemtime($filepath);
+
+		// Has the file expired?
+		if ($_SERVER['REQUEST_TIME'] >= $expire && is_really_writable($cache_path))
+		{
+			// If so we'll delete it.
+			@unlink($filepath);
+			log_message('debug', 'Cache file has expired. File deleted.');
+			return FALSE;
+		}
+
+		// Send the HTTP cache control headers
+		$this->set_cache_header($last_modified, $expire);
+
+		// Add headers from cache file.
+		foreach ($cache_info['headers'] as $header)
+		{
+			$this->set_header($header[0], $header[1]);
+		}
+
+		// Display the cache
+		$this->_display(self::substr($cache, self::strlen($match[0])));
+		log_message('debug', 'Cache file is current. Sending it to browser.');
+		return TRUE;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Delete cache
+	 *
+	 * @param	string	$uri	URI string
+	 * @return	bool
+	 */
+	public function delete_cache($uri = '')
+	{
+		$CI =& get_instance();
+		$cache_path = $CI->config->item('cache_path');
+		if ($cache_path === '')
+		{
+			$cache_path = APPPATH.'cache/';
+		}
+
+		if ( ! is_dir($cache_path))
+		{
+			log_message('error', 'Unable to find cache path: '.$cache_path);
+			return FALSE;
+		}
+
+		if (empty($uri))
+		{
+			$uri = $CI->uri->uri_string();
+
+			if (($cache_query_string = $CI->config->item('cache_query_string')) && ! empty($_SERVER['QUERY_STRING']))
+			{
+				if (is_array($cache_query_string))
+				{
+					$uri .= '?'.http_build_query(array_intersect_key($_GET, array_flip($cache_query_string)));
+				}
+				else
+				{
+					$uri .= '?'.$_SERVER['QUERY_STRING'];
+				}
+			}
+		}
+
+		$cache_path .= md5($CI->config->item('base_url').$CI->config->item('index_page').ltrim($uri, '/'));
+
+		if ( ! @unlink($cache_path))
+		{
+			log_message('error', 'Unable to delete cache file for '.$uri);
+			return FALSE;
+		}
+
+		return TRUE;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Set Cache Header
+	 *
+	 * Set the HTTP headers to match the server-side file cache settings
+	 * in order to reduce bandwidth.
+	 *
+	 * @param	int	$last_modified	Timestamp of when the page was last modified
+	 * @param	int	$expiration	Timestamp of when should the requested page expire from cache
+	 * @return	void
+	 */
+	public function set_cache_header($last_modified, $expiration)
+	{
+		$max_age = $expiration - $_SERVER['REQUEST_TIME'];
+
+		if (isset($_SERVER['HTTP_IF_MODIFIED_SINCE']) && $last_modified <= strtotime($_SERVER['HTTP_IF_MODIFIED_SINCE']))
+		{
+			$this->set_status_header(304);
+			exit;
+		}
+
+		header('Pragma: public');
+		header('Cache-Control: max-age='.$max_age.', public');
+		header('Expires: '.gmdate('D, d M Y H:i:s', $expiration).' GMT');
+		header('Last-modified: '.gmdate('D, d M Y H:i:s', $last_modified).' GMT');
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Byte-safe strlen()
+	 *
+	 * @param	string	$str
+	 * @return	int
+	 */
+	protected static function strlen($str)
+	{
+		return (self::$func_overload)
+			? mb_strlen($str, '8bit')
+			: strlen($str);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Byte-safe substr()
+	 *
+	 * @param	string	$str
+	 * @param	int	$start
+	 * @param	int	$length
+	 * @return	string
+	 */
+	protected static function substr($str, $start, $length = NULL)
+	{
+		if (self::$func_overload)
+		{
+			// mb_substr($str, $start, null, '8bit') returns an empty
+			// string on PHP 5.3
+			isset($length) OR $length = ($start >= 0 ? self::strlen($str) - $start : -$start);
+			return mb_substr($str, $start, $length, '8bit');
+		}
+
+		return isset($length)
+			? substr($str, $start, $length)
+			: substr($str, $start);
+	}
+}

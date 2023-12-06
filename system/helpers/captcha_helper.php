@@ -1,150 +1,341 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-3onal0Ih4xG=
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2019, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2019, British Columbia Institute of Technology (https://bcit.ca/)
+ * @license	https://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 1.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+/**
+ * CodeIgniter CAPTCHA Helper
+ *
+ * @package		CodeIgniter
+ * @subpackage	Helpers
+ * @category	Helpers
+ * @author		EllisLab Dev Team
+ * @link		https://codeigniter.com/user_guide/helpers/captcha_helper.html
+ */
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('create_captcha'))
+{
+	/**
+	 * Create CAPTCHA
+	 *
+	 * @param	array	$data		Data for the CAPTCHA
+	 * @param	string	$img_path	Path to create the image in (deprecated)
+	 * @param	string	$img_url	URL to the CAPTCHA image folder (deprecated)
+	 * @param	string	$font_path	Server path to font (deprecated)
+	 * @return	string
+	 */
+	function create_captcha($data = '', $img_path = '', $img_url = '', $font_path = '')
+	{
+		$defaults = array(
+			'word'		=> '',
+			'img_path'	=> '',
+			'img_url'	=> '',
+			'img_width'	=> '150',
+			'img_height'	=> '30',
+			'font_path'	=> '',
+			'expiration'	=> 7200,
+			'word_length'	=> 8,
+			'font_size'	=> 16,
+			'img_id'	=> '',
+			'pool'		=> '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ',
+			'colors'	=> array(
+				'background'	=> array(255,255,255),
+				'border'	=> array(153,102,102),
+				'text'		=> array(204,153,153),
+				'grid'		=> array(255,182,182)
+			)
+		);
+
+		foreach ($defaults as $key => $val)
+		{
+			if ( ! is_array($data) && empty($$key))
+			{
+				$$key = $val;
+			}
+			else
+			{
+				$$key = isset($data[$key]) ? $data[$key] : $val;
+			}
+		}
+
+		if ($img_path === '' OR $img_url === ''
+			OR ! is_dir($img_path) OR ! is_really_writable($img_path)
+			OR ! extension_loaded('gd'))
+		{
+			return FALSE;
+		}
+
+		// -----------------------------------
+		// Remove old images
+		// -----------------------------------
+
+		$now = microtime(TRUE);
+
+		$current_dir = @opendir($img_path);
+		while ($filename = @readdir($current_dir))
+		{
+			if (in_array(substr($filename, -4), array('.jpg', '.png'))
+				&& (str_replace(array('.jpg', '.png'), '', $filename) + $expiration) < $now)
+			{
+				@unlink($img_path.$filename);
+			}
+		}
+
+		@closedir($current_dir);
+
+		// -----------------------------------
+		// Do we have a "word" yet?
+		// -----------------------------------
+
+		if (empty($word))
+		{
+			$word = '';
+			$pool_length = strlen($pool);
+			$rand_max = $pool_length - 1;
+
+			// PHP7 or a suitable polyfill
+			if (function_exists('random_int'))
+			{
+				try
+				{
+					for ($i = 0; $i < $word_length; $i++)
+					{
+						$word .= $pool[random_int(0, $rand_max)];
+					}
+				}
+				catch (Exception $e)
+				{
+					// This means fallback to the next possible
+					// alternative to random_int()
+					$word = '';
+				}
+			}
+		}
+
+		if (empty($word))
+		{
+			// Nobody will have a larger character pool than
+			// 256 characters, but let's handle it just in case ...
+			//
+			// No, I do not care that the fallback to mt_rand() can
+			// handle it; if you trigger this, you're very obviously
+			// trying to break it. -- Narf
+			if ($pool_length > 256)
+			{
+				return FALSE;
+			}
+
+			// We'll try using the operating system's PRNG first,
+			// which we can access through CI_Security::get_random_bytes()
+			$security = get_instance()->security;
+
+			// To avoid numerous get_random_bytes() calls, we'll
+			// just try fetching as much bytes as we need at once.
+			if (($bytes = $security->get_random_bytes($pool_length)) !== FALSE)
+			{
+				$byte_index = $word_index = 0;
+				while ($word_index < $word_length)
+				{
+					// Do we have more random data to use?
+					// It could be exhausted by previous iterations
+					// ignoring bytes higher than $rand_max.
+					if ($byte_index === $pool_length)
+					{
+						// No failures should be possible if the
+						// first get_random_bytes() call didn't
+						// return FALSE, but still ...
+						for ($i = 0; $i < 5; $i++)
+						{
+							if (($bytes = $security->get_random_bytes($pool_length)) === FALSE)
+							{
+								continue;
+							}
+
+							$byte_index = 0;
+							break;
+						}
+
+						if ($bytes === FALSE)
+						{
+							// Sadly, this means fallback to mt_rand()
+							$word = '';
+							break;
+						}
+					}
+
+					list(, $rand_index) = unpack('C', $bytes[$byte_index++]);
+					if ($rand_index > $rand_max)
+					{
+						continue;
+					}
+
+					$word .= $pool[$rand_index];
+					$word_index++;
+				}
+			}
+		}
+
+		if (empty($word))
+		{
+			for ($i = 0; $i < $word_length; $i++)
+			{
+				$word .= $pool[mt_rand(0, $rand_max)];
+			}
+		}
+		elseif ( ! is_string($word))
+		{
+			$word = (string) $word;
+		}
+
+		// -----------------------------------
+		// Determine angle and position
+		// -----------------------------------
+		$length	= strlen($word);
+		$angle	= ($length >= 6) ? mt_rand(-($length-6), ($length-6)) : 0;
+		$x_axis	= mt_rand(6, (360/$length)-16);
+		$y_axis = ($angle >= 0) ? mt_rand($img_height, $img_width) : mt_rand(6, $img_height);
+
+		// Create image
+		// PHP.net recommends imagecreatetruecolor(), but it isn't always available
+		$im = function_exists('imagecreatetruecolor')
+			? imagecreatetruecolor($img_width, $img_height)
+			: imagecreate($img_width, $img_height);
+
+		// -----------------------------------
+		//  Assign colors
+		// ----------------------------------
+
+		is_array($colors) OR $colors = $defaults['colors'];
+
+		foreach (array_keys($defaults['colors']) as $key)
+		{
+			// Check for a possible missing value
+			is_array($colors[$key]) OR $colors[$key] = $defaults['colors'][$key];
+			$colors[$key] = imagecolorallocate($im, $colors[$key][0], $colors[$key][1], $colors[$key][2]);
+		}
+
+		// Create the rectangle
+		ImageFilledRectangle($im, 0, 0, $img_width, $img_height, $colors['background']);
+
+		// -----------------------------------
+		//  Create the spiral pattern
+		// -----------------------------------
+		$theta		= 1;
+		$thetac		= 7;
+		$radius		= 16;
+		$circles	= 20;
+		$points		= 32;
+
+		for ($i = 0, $cp = ($circles * $points) - 1; $i < $cp; $i++)
+		{
+			$theta += $thetac;
+			$rad = $radius * ($i / $points);
+			$x = ($rad * cos($theta)) + $x_axis;
+			$y = ($rad * sin($theta)) + $y_axis;
+			$theta += $thetac;
+			$rad1 = $radius * (($i + 1) / $points);
+			$x1 = ($rad1 * cos($theta)) + $x_axis;
+			$y1 = ($rad1 * sin($theta)) + $y_axis;
+			imageline($im, $x, $y, $x1, $y1, $colors['grid']);
+			$theta -= $thetac;
+		}
+
+		// -----------------------------------
+		//  Write the text
+		// -----------------------------------
+
+		$use_font = ($font_path !== '' && file_exists($font_path) && function_exists('imagettftext'));
+		if ($use_font === FALSE)
+		{
+			($font_size > 5) && $font_size = 5;
+			$x = mt_rand(0, $img_width / ($length / 3));
+			$y = 0;
+		}
+		else
+		{
+			($font_size > 30) && $font_size = 30;
+			$x = mt_rand(0, $img_width / ($length / 1.5));
+			$y = $font_size + 2;
+		}
+
+		for ($i = 0; $i < $length; $i++)
+		{
+			if ($use_font === FALSE)
+			{
+				$y = mt_rand(0 , $img_height / 2);
+				imagestring($im, $font_size, $x, $y, $word[$i], $colors['text']);
+				$x += ($font_size * 2);
+			}
+			else
+			{
+				$y = mt_rand($img_height / 2, $img_height - 3);
+				imagettftext($im, $font_size, $angle, $x, $y, $colors['text'], $font_path, $word[$i]);
+				$x += $font_size;
+			}
+		}
+
+		// Create the border
+		imagerectangle($im, 0, 0, $img_width - 1, $img_height - 1, $colors['border']);
+
+		// -----------------------------------
+		//  Generate the image
+		// -----------------------------------
+		$img_url = rtrim($img_url, '/').'/';
+
+		if (function_exists('imagejpeg'))
+		{
+			$img_filename = $now.'.jpg';
+			imagejpeg($im, $img_path.$img_filename);
+		}
+		elseif (function_exists('imagepng'))
+		{
+			$img_filename = $now.'.png';
+			imagepng($im, $img_path.$img_filename);
+		}
+		else
+		{
+			return FALSE;
+		}
+
+		$img = '<img '.($img_id === '' ? '' : 'id="'.$img_id.'"').' src="'.$img_url.$img_filename.'" style="width: '.$img_width.'px; height: '.$img_height .'px; border: 0;" alt=" " />';
+		ImageDestroy($im);
+
+		return array('word' => $word, 'time' => $now, 'image' => $img, 'filename' => $img_filename);
+	}
+}

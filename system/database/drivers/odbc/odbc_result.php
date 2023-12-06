@@ -1,114 +1,268 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPzPOT+00zKl8hPdYm+grsKFdMMywvHjbnzeYhcoMtDnUOLOwkHacf3wQWjcCmCqouLgTtQOO
-Z5RDhrr16eQbWq3GsuXybTkvzur2hwzlw0cYH4xeYoSBeXxiJoi8iv0QgXJ/d247yrM4Ht+wDbpa
-rD4N5ZJ9wODdlNp9L+gRpisAqXRvZy4Ajg8DK9AuFrmDKevhMQNst/RI7kNXOlPGqpdsJ5dVSLNh
-QbAAan7boGuRrNi+4U5+OoPCWH32pPAR9jR4jSnqHXyETATQ4LoWNGx7Iz2/al6ReLUrFTNqXKLa
-CsO/FdQNwpVdB6+i38IAWYCm64dwSlGvmw1pK2Bx+OnSNnq4AIsFM5a8ZsjbWyt32ZAH+MvgoeBE
-4OIqus1ua0Xxob5jIWWMeBVW+CxOUGdSBMc+jez5Ow7Kvb69y76reC9A9uC8LEVrkhCb6mLrUOGk
-XbjWQJxt6+G6v0brViVMHDRMYirdPY3Fyj20dYLxJfJWkzuJKqb0bhdKwFp37fkmAYjq2tLvY0ft
-7xvZpQRENPKXxfHHhLko4Bn1CK9qfGVr0R+V7zeWneXD1VqlYzEbYxFvNVQzP6J+aKm3tlGhO3wc
-SI3Xn4G2aa1mjD0Xk0G48BMxYJhjfBTMDucFW+Huzckh1XT5ThDESkIUTObb10GkqW5hAF/oOIfF
-tvEaWIzqvRNWUxBj/HA9FUEwl4gY46Ss6MhVy3VucTJ4OiaGPwMn3ciZy30t9hOHwk8cudK/hu7W
-fH8n4dkgIs84i+ssvqswSolOUnPrOn7dZt/HdLDZ8hyPe1EFTFHoid4qkW76+omnSIw3Dydo1Y0j
-My4b2goFDSL4B9QwNf9NCCb0BU6sGNLqM3LnmfUcSCzm4Kmnr+DgTCfXnmanLRx2pqNp7lYrmmNI
-YWF9Zgiv2/Z2pv8ip4bPBXW4lrzKoy1uwMpjkwR+EkifppCTqFXi0A2HGW8os3hgGIJqI1YTWbNI
-G8okm8X1tjx5N4nTTbOXEAhT7RMvdtaUtATtcgEB27oQqL3C6j7HNWGubQU/fnaNu51p2SEWZmrb
-OROenE1XCUDlPYPgeiA3OOPlLrK6CYPyJcf6o83eHjlqji+q2b4M35QLFL09TuYjeSUCynnTB0Gi
-Ck+ZEnT7rMfqfwH+vXxbmKpcCF8kKExD1Ngd6HG7n1E216Ud4P2SK/UeKHPGp0mRwmaaahiKUUH4
-w/oRSZuTGlN4/i/Y/opasKZ35mL4i/lvtbseoGlvVyvexcRtQ4W1CWl0VtJc+4PHfo2K/HjiFt2A
-4qrc/7zEQu/5vcKF+wycum2Uk0GYfWryXbIece6Z8YTtyjcB5uWcEG7eTOowdxN12cjuZbbVK7DI
-bE9m6Vf+aELDjhl+oar/G4wdXUh2wEQa9ch4dAm8cPm1JEwrza76htLDXEzHZRzavw676BWw0mYZ
-45CRY4NjFp4mVlryZf2DNx231nRfz/Ns2fEV7QmxSdo/yyugdTXRfTt5x1d8B2zPLktO0ob3Jo95
-JdZKVqcd211CpFV4W4Y3QK/9ii1V/drau+FgJ9uDGbyf3NdkyhocKSTRGhXI0Zd2H1hieZJ4nykm
-lfefoEdzzK/BPFnx1byn08CY/YPiWXhdc+ZIWEJsXNaLe0u16D2nLM6ufoMei6moR3Cps8+Cd90w
-MhKBND71E+irb58S3m6L6023j4tecO/T9TbP7KEnAlyutfTJo+8677bZLVnY0QztWHZQjkVTnf41
-ytMHdqI5okbQS0kmGIrWsQ6KQWM46DGPTmhhGfZIeHCt+6dSABWjjd0FmIXm8DxBUZ3lP8SEK60X
-CH9nKQTgFhYkR16MWhJcTiiqGt5PFz4kW2ZS4TSOc1dKTEhyLTvimpwUIFESXmCBeQuvhRxXRm+m
-0yWAOQdmhL2FC/bZJZC9m4QiFzVWcimjLGtswDMkTy9EN1MMxfgDqVDyH8tqFixWWlcZC7owyisA
-LRYNah4jtRO1vBBLp8Gh+1Ri8TXFiDowRa7hxOT9UzjHVGA07FCcRvgwVGzTSw6JTqmR72pDzw6H
-RVyDNY2SUpK3NRwpb/G085CI2OULLYipv5ukSvHesol1VInMI8aaYhUxFdeCSettXbX4xZ5AXX8F
-7J03iAGLi3SUp7HPJTFu4s8udM3AU/inM5/UPUFImyP6NRFnwC7Oa3MDEpkWzUzOXrAgz2ZJaU6v
-gJArZkTlXUT1aA7H1WrKU8KUynlFngiKn3cyrRkF5eaVNsWmvOoddapOQVLp5Zf3wAsUTTVF9CuG
-KYDD4bKdCnbLkNbrK4XREhKAS3EM7OLv8WHftFcwJVlN8d0+YzdSDMuUapyzffRvlWAmV9BSEgur
-I0TDWJg7UUU2iEJX9cVFkw+ORyuzywGAAX+SaRQEYvY4Tc//FnzhYoACXEFK1kIPtGxnSyiwtOfE
-KXiqtu+2FVIGv72jW07l+KondDiXSxX2yK4qmk1gqRLZHFW2kO7bdZcaLvY2MhShhL3fZDQOv2A+
-AkHU7wQMtKtQnYo6v0zMiJ5ucjh4E8lUk/RMMfNWS+rSh61pbo5GM6mKrrRtORhMiuiC8GKOppWb
-Ffl8LZRKoDXr81/+vT6fTvNugiH7Lp3QQjgVJowSdedDzIgPMBMJj2/47msKdYs2qbD9Yl3OOaaN
-Y7mahlF3ngHHvqp/ELTSY5ZqDZAzec4FzFI72bjWbSrNFII9ZT6UM0oEuXYFSLyJvXfteF5hJZfC
-2ckdLU7LHYQ9JVmUzfDBK3X62VHIrKZxsqqKo0oMqV6vN20hKPI0z/gOmc1S+eQj7TZYmrGrQhwA
-NZeMi3gnqGsViQDvMy7jzvd819uHrU6xyvJoB+x/9bcTdnMkDUMVoUewfLXymZDEzhu3IYBTVI0B
-sYBj8SkDuuPG+2S3zoJdL1nYd80hVV/MG7DpQGU+xALqtBooy1QSWcWBrpf8wax/4D8qBFvGz3OD
-4N+fv/vnQPYxAXp3iXsxDHdPJV+v8qDksCfPtB8zk3LW3QriNeib7iniAwCP4PjIphzfyZ5zOTlq
-Hr34X2DHpdgLCnpbwHeYZ0mnbqev8DFFVEPHGQg3eg273msmx+L7C1ifime9jT6cMSPtjKHgt2tZ
-J8fXQh/cVurA9DZmXztXjAl3SEbwiozKrZ7Suv7EFeVb3yubUooKGdIU70SYtsAdz4+JNNlSWIrJ
-jvVoKhP4/i2H+Av0dpX6nx5Vd7acBy0/9+n7eQmQWS7zJxtZIp5uiGxpxb4ZwqN3JVZ9HyeoX8EQ
-BIreAWcxmmC4VCcpeW3ReS1CB5HnIvlvEMvQXtnstL3DP24mdXhEbP+YTCiq5JbaOxaQkyAzGQ0Y
-2MUL1KS5pci9b3J/aLQLLA7NFdTSBlTpwvePoq9WyRcENHcAzCiF946azRrtzHBoJSHv53CkFust
-ZtQJjcvFQkrdIl/W0n3/9ORkYWJ4tOAgurdb27Vx6ndSZ1cDI8IqI/V2ojmhcnF0TNsrJFIAgOiN
-SzTUHBt6PDVzC8XVgxN+owgPo7w7ImAdVPIdWRfNYLn9MOVYwfbQH9CHvJhSiPetHuDdTaZdt0/G
-MPsNvAs8wkpziFZnHyVB/9qtJOx8lanBKQv+4I3eZrBFB43d9+LP6Ep45FK+4Kn2/3dPMq7rC+HH
-XFqAK51f6heTYIXwJleFLhJlD9AXWzwh+bzDyWFEf5jjkxDfpw+oznyGs7QrIATYGWknPM3p856h
-FL5OdwqRCZYQg0YJSugmqP5xPaiVvF3dPIBe/8DG46ZqyfebkI3M5u6cHtoteZqrocjhVF5upHKe
-sSvkXmw/PCMvdEKo5sGsh5S6k1CmmqwZN4VUtbfNgqoS/qymA9YVZUWckYNHaOL7jE8NEQbNH/6G
-VkYi2o1jkN5atYRIS2NUQv0DpHm6K1pH35Vl9lXiUeblLxe8DQtx/ta4wHbEOqwDCOytO+BDXr16
-36JXhDBiB8X71jQkuOR+7tMICBDdFIw42i1/1Naieqoa3Aw7iCB3hDebyKEf5sDwjiP5EieTcGA5
-Pgd5zR3YNPYPmCzAooVonvB5YALcFamC7D83S2ev9h77iruUEpYU4dNx9ldoRg/4cwcNnlOo9el8
-kXr5OulLi66ppKGBH5pfKAn24IqB7gR3gExgTvO9c+zyBLpOlnhIJ8ZBSePe5ehMNWswlOj7QE3g
-h96fgS0aV5TBYpNRllnW4A58eyK41FTuYFafPoVKrERXg2CEYyXbQpDST6/ojSOQzW4jiRXhovjr
-VMi47D9t90hvCmesUtBE5gC1+tKN2ECoVVBPnCnzEN26rwfjaF29OCLVt4LmRz7NHseuWUGv6rJp
-YIuOsbpK4A8eYI9BDlM2SkJbFi94XJ/Zso8N/6kOGKHVHkYLk/wodp5/+1Yi+b8YznSMNp8hzQS4
-Bb9Sf5BYbFxOloy1I1p43IKIeL8zKORKUWLfaPvjoKiSYZTnmjlsuZ0D/kmlQqJWoDfxP5dfIjWP
-klR7zT8D3P7ZYckOVuTGVw8dJWj/N6PCLgcCFdtTXjrKJM+nmJx/nynRCdwJxc7kHVMUJ125ZJbl
-r86yNYmXivjc8b1q6SomxagvkIZt3GXqNH5w9VVyG5Kktzmcrl0PAX6kD7D7tezRTkN0ezXOeoVd
-vbgTPUZwQpAHiG7DUgRRX4Z/7F1LLDYPzaj/MqfvVr9wOmZd8BeMa2uslCFV2epCrvqiXfqRHuXx
-7JRuw0DqCCbBwF1KnCqkA03Vy9boyNraRAfSoXgyLdTQVwVowT37ODzXQon9lBdHLjWrqdFNnmcA
-HYMPur0LSlW3oXW1rz9Fcp+XtBbuONzkFwRXQ3ky6V8hsPWW4IC2HVsK77fkPsa/klPBKadiVZ3z
-qt+6w+nzKrKOZ2Is3PnmJjdwCNQmWbcpY1LTgnZhruXTD9W011p3bOc65DTErmYUz9LY3x71B4BY
-U5//qaXTAVqg0UNnVvF7DBGvfauwucF5sPnlOVeX2iFprXgn3Z4lRt8xngTTHFnM9dlIimcNZydT
-Lda+uM7i7RTBX/AVnh5D+1Zh7nuX+jqBFhYwh+JLfRIIYjYxINqQN2g5W7fI9KgPJpubCqKf6/ma
-U+0IWdtcPtyw8lZtBTVQivIKRn3dksCOz7XoQXw4+tuROdEPZoqA6TgKg/K9sH/Ao71U0BKAzNYh
-wF/oaedlqyLuMCyoKi72NeBsogFRgHerwtWx22dvXcrSxXVCM+piZ+215ihYhVQ8tlQSDrpsTmQq
-TaiRdrxmQLN26gy+aXQB5fLUHxyhv9ArrmxoThO6i5IXdflzS97re4sOpbMcEqDcYfK0mdY39pDw
-W0LQMcCng9JRMy4FAst/z11dk5CZfeX8zR4iuwvzh2Y399oGRp/9L64+ISP1pgbNDfvAkkHKW0D2
-KRqUAYVXbjntzoyd6376dd+k0o56eQ8ktDMcNAC4Dh3M4t87N18V2bFMKTg5G3qv9xpn3QlwXnEo
-oFmeuUWbTGMUc5ZuziNOARLP5z2GEK//kAFDCP3gUo3pxfohp/PbOnJ/OvATJqs8O902MgX3LcUO
-rX+xzWUgfjXd6TJ6/EZcvUto49AK8TZrJSeth9uzlnGepoL0RUgs6SfNk7DcGeI1un81ko76eJwP
-o46+V615VIDiChRQxf15k5qC8UA+DEALm45/Alub1NOgcGpWHESudMp+/eALDv7uxZrbAP4EXmQE
-eEtPwrGJHiZrH/ZO21R8I+2tFRqwID9wbdJELgj0A69pHUU05eX98OmvH9tAIknNVKu3/e4014SU
-IifpJU3EyRr2l9tV6uUG+o1/jnBVFySxvZg9BQ34Gpta/UwPpooee/ZqtVMt5W922sdGTu3zQs2A
-j+oj4SWDkSBVd/r+5Vza3oO+7n9aBg3vna4+7O4Q65sscfv2D7pq9zAiXlrN3IuKVbsY69pXaV+e
-+nmiaNsuXL9u7PsftMrEWox+XK0PXCM3LoAAB4DpEgjMh0FTkzsYcE6rO7mnE4toazMCBwOVIkDs
-16g6Giah+55h8Ee9Jw7jjKNTfEn5cFSKlLm0lPF9g9xAIN2dUCZ1ZCNFGyaWPPz34CAshUqxWZzS
-2s+mhYeZqb/OTSX2tWTu8JkfOkiBAVlc2OEgbo6WIQKPg40K8qj74kefBdonPaDvlPa6FLsRcak9
-BbZzrLqRfuCxAa0qTBwYc3uXNcW9cGc3YQK8RtVDSgqWfbC872i7ulis//9kvXqu7nkR2To8BE3g
-IEzKHyuST8g2u2MFwpyXYUskEb2qYUpZNxZJt1n/Ot4JzPB59lYcslAJGIDEL2U+hAi27m4Lcilr
-4oT0ZeRNYrpBX81s3yZlsl/znnh3/95nst6Fi8ul4Ddf2V9sPIyPe7lc1wejcfuKt4u+ZHBw/ako
-CkJ3KZeA0zZ4nuJqV//nqqwWzpjIux6m8agwSuPyv6bT7Losd6ERlP9B3qhP7znWJ8jX1z7ndBkI
-Cj+52LiIprNeleCk21JLPzqUbtfkeZsBgfbcCUcZULR9t4npyMYFEETxo/Uida5naxjhBctQx5u3
-J5Q6Isne9Z2/wTMkXNsZMIdTnnjtF+HVOTIBZfiz501RR5ZN+K2k7wxNjHYWzP2dITe4ov5f9EgJ
-zE1jQFAn2TKYMTEafwUw0JxUnlPWUPqOBJN4hlwzZkLUAEGT14ei5Nqho/upmUH9fPIxRSilMLFN
-njWWosz0Oq1hlztjSvwMORvg6Rx6PzllX97aXWYE/m9ZIuhdoJUp/oHeORUMqv4it8LrOvTmbOid
-k3XfPaFupPsiFaWMjOm7AjEMwjBpWV9+WhUN4CRGyVV7sp7BjVaMRsIhkWEKN/AMrG1C7g5mlds0
-CwXOJdpyBK3bCmS5V2IDSEpdhxndK3tDiZUUuWyI34LrKebrPbAneN7hkQM96Yb7Oi282pQ0L4Wj
-sjb5KVU2YJSo6WaTQR54ATPIQ7VyDMHh+58aNY1+YiSdiVQyXZLRBo7A+99EQz6cpW5jOTJ6xXMK
-MqY2S13h+fR6g8oP08p/gULasGGJQlZQphNO+WSSc6n50rQQTuCsLXaY/HW6oMSMGoPy+N1Aey+8
-C/prqavW+HZWCWEXMcBRSEoXVFC32xfRRnCAq3+6JTDeDLuHboyt2j635dHw3JU3YFUBibV6+00+
-htKY4nkcBCpE4d/+tEk2Pby+j6U4egGB3cI9YN4+ZrIBSqJNwbhnG2CHhjqom5dptnxVe57tFeL/
-ZuZhN3rIPd+a0AlrvsKj/a3Uo89d9GKQ7VrV7tI2cP9vmyE55a+ia/tT1RMjS4AdqWo+1xiLcafX
-ZsU5fM0rzO6qAQTUZ6aEU/XcXBZQYJ0sQirpN0YqMNIH9Ij2NTBXdYedBpJ1KXFgwN7LfV7R5hem
-hfDQvTZk8qswcPAErq3MadNLMTDip4Ulkj2oBapAxvvzRvbt2S8L4If+DEsEhXu9oB17VUaqQzWU
-aIo7MCm8amUEXCyuu2K6Qsh59q5junjXbTK/G9vFWMeZ5JYyDCAOfNQR8csminWqydEw+Xy6j8Dy
-Jpj+eOKSCPM4E8gnymDkLT/Q/JlMPefRjqhTPCTo2l8/7tdIqHsYefzNHQCzsQwCCJlfifI9+Ndg
-01HowLelN9Qxz195QW5jFXO73yr1FLfima5bs8Fj0zdHgSkxRmVt/W5MziJS7/3DOLDiYDQQ3JFF
-QCSBeytig10XgE5JqWnHi+AE7oKksGReG2priI+e25e8GkZxCH/S6wpGnbbTCN236qlkZikcA6v5
-XEkZ8QU2JCRCaMlI7cXh2Rm8+U2VaIt/xLqV8r4CCLpgfdMBQ9N/RqjZUm9Uo/MtSf6MsJ0jN6iZ
-23V0+l93sODeGj196fTzBZCrUCmdIBXUB61s4dI/ob1ScWRp9tzDTUUVMo1sCVfLjzWBiqHacXw8
-MNLaplr4hLA+TiZYFP9BpXhJOg5KZBfnbOO4h5+dENyZWrvMQ6NvoUlLEZAnG9FXcUxxgsGNLhrb
-FJskpWpBfg1paQwEGhhiSVtFVSq1itaNGXs+KeVAKo50Vlv/xhoK1rPP9dE7Gll/+3ua0G/C1Xpe
-WseGAWm6f475O/vgewFDzvpnA79v0bEOqeZ469a0axCvPRjuJm44JG4xv8n9bdzYCTb0y5I8iXjq
-6cLqORSthZqg12uBZTY4umQPmsI4EMor5o1uHnSZN0dsFZ/eGg1+mk0x52e+hGfnUSWCovx+l1nD
-d7frTeTrlso+7AICPq9fXhgY4mNHrxzZitz/tGs+V1u+ktbUXiTksKBNlLmsQ2amdJWaZPT1VqGC
-YIinsbY5SR1xUqfB4LfMM5oHsnhmdF0vjVT0HgZDYne/6AZcSN8sVlH4taM2Zhi0Q9XsrONDZscg
-xRV/5hK1tW==
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2019, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2019, British Columbia Institute of Technology (https://bcit.ca/)
+ * @license	https://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 1.3.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+/**
+ * ODBC Result Class
+ *
+ * This class extends the parent result class: CI_DB_result
+ *
+ * @package		CodeIgniter
+ * @subpackage	Drivers
+ * @category	Database
+ * @author		EllisLab Dev Team
+ * @link		https://codeigniter.com/user_guide/database/
+ */
+class CI_DB_odbc_result extends CI_DB_result {
+
+	/**
+	 * Number of rows in the result set
+	 *
+	 * @return	int
+	 */
+	public function num_rows()
+	{
+		if (is_int($this->num_rows))
+		{
+			return $this->num_rows;
+		}
+		elseif (($this->num_rows = odbc_num_rows($this->result_id)) !== -1)
+		{
+			return $this->num_rows;
+		}
+
+		// Work-around for ODBC subdrivers that don't support num_rows()
+		if (count($this->result_array) > 0)
+		{
+			return $this->num_rows = count($this->result_array);
+		}
+		elseif (count($this->result_object) > 0)
+		{
+			return $this->num_rows = count($this->result_object);
+		}
+
+		return $this->num_rows = count($this->result_array());
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Number of fields in the result set
+	 *
+	 * @return	int
+	 */
+	public function num_fields()
+	{
+		return odbc_num_fields($this->result_id);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Fetch Field Names
+	 *
+	 * Generates an array of column names
+	 *
+	 * @return	array
+	 */
+	public function list_fields()
+	{
+		$field_names = array();
+		$num_fields = $this->num_fields();
+
+		if ($num_fields > 0)
+		{
+			for ($i = 1; $i <= $num_fields; $i++)
+			{
+				$field_names[] = odbc_field_name($this->result_id, $i);
+			}
+		}
+
+		return $field_names;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Field data
+	 *
+	 * Generates an array of objects containing field meta-data
+	 *
+	 * @return	array
+	 */
+	public function field_data()
+	{
+		$retval = array();
+		for ($i = 0, $odbc_index = 1, $c = $this->num_fields(); $i < $c; $i++, $odbc_index++)
+		{
+			$retval[$i]			= new stdClass();
+			$retval[$i]->name		= odbc_field_name($this->result_id, $odbc_index);
+			$retval[$i]->type		= odbc_field_type($this->result_id, $odbc_index);
+			$retval[$i]->max_length		= odbc_field_len($this->result_id, $odbc_index);
+			$retval[$i]->primary_key	= 0;
+			$retval[$i]->default		= '';
+		}
+
+		return $retval;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Free the result
+	 *
+	 * @return	void
+	 */
+	public function free_result()
+	{
+		if (is_resource($this->result_id))
+		{
+			odbc_free_result($this->result_id);
+			$this->result_id = FALSE;
+		}
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Result - associative array
+	 *
+	 * Returns the result set as an array
+	 *
+	 * @return	array
+	 */
+	protected function _fetch_assoc()
+	{
+		return odbc_fetch_array($this->result_id);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Result - object
+	 *
+	 * Returns the result set as an object
+	 *
+	 * @param	string	$class_name
+	 * @return	object
+	 */
+	protected function _fetch_object($class_name = 'stdClass')
+	{
+		$row = odbc_fetch_object($this->result_id);
+
+		if ($class_name === 'stdClass' OR ! $row)
+		{
+			return $row;
+		}
+
+		$class_name = new $class_name();
+		foreach ($row as $key => $value)
+		{
+			$class_name->$key = $value;
+		}
+
+		return $class_name;
+	}
+
+}
+
+// --------------------------------------------------------------------
+
+if ( ! function_exists('odbc_fetch_array'))
+{
+	/**
+	 * ODBC Fetch array
+	 *
+	 * Emulates the native odbc_fetch_array() function when
+	 * it is not available (odbc_fetch_array() requires unixODBC)
+	 *
+	 * @param	resource	&$result
+	 * @param	int		$rownumber
+	 * @return	array
+	 */
+	function odbc_fetch_array(&$result, $rownumber = 1)
+	{
+		$rs = array();
+		if ( ! odbc_fetch_into($result, $rs, $rownumber))
+		{
+			return FALSE;
+		}
+
+		$rs_assoc = array();
+		foreach ($rs as $k => $v)
+		{
+			$field_name = odbc_field_name($result, $k+1);
+			$rs_assoc[$field_name] = $v;
+		}
+
+		return $rs_assoc;
+	}
+}
+
+// --------------------------------------------------------------------
+
+if ( ! function_exists('odbc_fetch_object'))
+{
+	/**
+	 * ODBC Fetch object
+	 *
+	 * Emulates the native odbc_fetch_object() function when
+	 * it is not available.
+	 *
+	 * @param	resource	&$result
+	 * @param	int		$rownumber
+	 * @return	object
+	 */
+	function odbc_fetch_object(&$result, $rownumber = 1)
+	{
+		$rs = array();
+		if ( ! odbc_fetch_into($result, $rs, $rownumber))
+		{
+			return FALSE;
+		}
+
+		$rs_object = new stdClass();
+		foreach ($rs as $k => $v)
+		{
+			$field_name = odbc_field_name($result, $k+1);
+			$rs_object->$field_name = $v;
+		}
+
+		return $rs_object;
+	}
+}

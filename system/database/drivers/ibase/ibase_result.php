@@ -1,64 +1,161 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-mm==
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2019, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2019, British Columbia Institute of Technology (https://bcit.ca/)
+ * @license	https://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 3.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+/**
+ * Interbase/Firebird Result Class
+ *
+ * This class extends the parent result class: CI_DB_result
+ *
+ * @category	Database
+ * @author		EllisLab Dev Team
+ * @link		https://codeigniter.com/user_guide/database/
+ */
+class CI_DB_ibase_result extends CI_DB_result {
+
+	/**
+	 * Number of fields in the result set
+	 *
+	 * @return	int
+	 */
+	public function num_fields()
+	{
+		return ibase_num_fields($this->result_id);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Fetch Field Names
+	 *
+	 * Generates an array of column names
+	 *
+	 * @return	array
+	 */
+	public function list_fields()
+	{
+		$field_names = array();
+		for ($i = 0, $num_fields = $this->num_fields(); $i < $num_fields; $i++)
+		{
+			$info = ibase_field_info($this->result_id, $i);
+			$field_names[] = $info['name'];
+		}
+
+		return $field_names;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Field data
+	 *
+	 * Generates an array of objects containing field meta-data
+	 *
+	 * @return	array
+	 */
+	public function field_data()
+	{
+		$retval = array();
+		for ($i = 0, $c = $this->num_fields(); $i < $c; $i++)
+		{
+			$info = ibase_field_info($this->result_id, $i);
+
+			$retval[$i]			= new stdClass();
+			$retval[$i]->name		= $info['name'];
+			$retval[$i]->type		= $info['type'];
+			$retval[$i]->max_length		= $info['length'];
+		}
+
+		return $retval;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Free the result
+	 *
+	 * @return	void
+	 */
+	public function free_result()
+	{
+		ibase_free_result($this->result_id);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Result - associative array
+	 *
+	 * Returns the result set as an array
+	 *
+	 * @return	array
+	 */
+	protected function _fetch_assoc()
+	{
+		return ibase_fetch_assoc($this->result_id, IBASE_FETCH_BLOBS);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Result - object
+	 *
+	 * Returns the result set as an object
+	 *
+	 * @param	string	$class_name
+	 * @return	object
+	 */
+	protected function _fetch_object($class_name = 'stdClass')
+	{
+		$row = ibase_fetch_object($this->result_id, IBASE_FETCH_BLOBS);
+
+		if ($class_name === 'stdClass' OR ! $row)
+		{
+			return $row;
+		}
+
+		$class_name = new $class_name();
+		foreach ($row as $key => $value)
+		{
+			$class_name->$key = $value;
+		}
+
+		return $class_name;
+	}
+
+}

@@ -1,181 +1,424 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-+E2ahe1OtxQ0UWPKSmc7WqW4HId3iAWlytiu
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2019, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2019, British Columbia Institute of Technology (https://bcit.ca/)
+ * @license	https://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 1.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+/**
+ * Database Utility Class
+ *
+ * @category	Database
+ * @author		EllisLab Dev Team
+ * @link		https://codeigniter.com/user_guide/database/
+ */
+abstract class CI_DB_utility {
+
+	/**
+	 * Database object
+	 *
+	 * @var	object
+	 */
+	protected $db;
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * List databases statement
+	 *
+	 * @var	string
+	 */
+	protected $_list_databases		= FALSE;
+
+	/**
+	 * OPTIMIZE TABLE statement
+	 *
+	 * @var	string
+	 */
+	protected $_optimize_table	= FALSE;
+
+	/**
+	 * REPAIR TABLE statement
+	 *
+	 * @var	string
+	 */
+	protected $_repair_table	= FALSE;
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Class constructor
+	 *
+	 * @param	object	&$db	Database object
+	 * @return	void
+	 */
+	public function __construct(&$db)
+	{
+		$this->db =& $db;
+		log_message('info', 'Database Utility Class Initialized');
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * List databases
+	 *
+	 * @return	array
+	 */
+	public function list_databases()
+	{
+		// Is there a cached result?
+		if (isset($this->db->data_cache['db_names']))
+		{
+			return $this->db->data_cache['db_names'];
+		}
+		elseif ($this->_list_databases === FALSE)
+		{
+			return ($this->db->db_debug) ? $this->db->display_error('db_unsupported_feature') : FALSE;
+		}
+
+		$this->db->data_cache['db_names'] = array();
+
+		$query = $this->db->query($this->_list_databases);
+		if ($query === FALSE)
+		{
+			return $this->db->data_cache['db_names'];
+		}
+
+		for ($i = 0, $query = $query->result_array(), $c = count($query); $i < $c; $i++)
+		{
+			$this->db->data_cache['db_names'][] = current($query[$i]);
+		}
+
+		return $this->db->data_cache['db_names'];
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Determine if a particular database exists
+	 *
+	 * @param	string	$database_name
+	 * @return	bool
+	 */
+	public function database_exists($database_name)
+	{
+		return in_array($database_name, $this->list_databases());
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Optimize Table
+	 *
+	 * @param	string	$table_name
+	 * @return	mixed
+	 */
+	public function optimize_table($table_name)
+	{
+		if ($this->_optimize_table === FALSE)
+		{
+			return ($this->db->db_debug) ? $this->db->display_error('db_unsupported_feature') : FALSE;
+		}
+
+		$query = $this->db->query(sprintf($this->_optimize_table, $this->db->escape_identifiers($table_name)));
+		if ($query !== FALSE)
+		{
+			$query = $query->result_array();
+			return current($query);
+		}
+
+		return FALSE;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Optimize Database
+	 *
+	 * @return	mixed
+	 */
+	public function optimize_database()
+	{
+		if ($this->_optimize_table === FALSE)
+		{
+			return ($this->db->db_debug) ? $this->db->display_error('db_unsupported_feature') : FALSE;
+		}
+
+		$result = array();
+		foreach ($this->db->list_tables() as $table_name)
+		{
+			$res = $this->db->query(sprintf($this->_optimize_table, $this->db->escape_identifiers($table_name)));
+			if (is_bool($res))
+			{
+				return $res;
+			}
+
+			// Build the result array...
+			$res = $res->result_array();
+			$res = current($res);
+			$key = str_replace($this->db->database.'.', '', current($res));
+			$keys = array_keys($res);
+			unset($res[$keys[0]]);
+
+			$result[$key] = $res;
+		}
+
+		return $result;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Repair Table
+	 *
+	 * @param	string	$table_name
+	 * @return	mixed
+	 */
+	public function repair_table($table_name)
+	{
+		if ($this->_repair_table === FALSE)
+		{
+			return ($this->db->db_debug) ? $this->db->display_error('db_unsupported_feature') : FALSE;
+		}
+
+		$query = $this->db->query(sprintf($this->_repair_table, $this->db->escape_identifiers($table_name)));
+		if (is_bool($query))
+		{
+			return $query;
+		}
+
+		$query = $query->result_array();
+		return current($query);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Generate CSV from a query result object
+	 *
+	 * @param	object	$query		Query result object
+	 * @param	string	$delim		Delimiter (default: ,)
+	 * @param	string	$newline	Newline character (default: \n)
+	 * @param	string	$enclosure	Enclosure (default: ")
+	 * @return	string
+	 */
+	public function csv_from_result($query, $delim = ',', $newline = "\n", $enclosure = '"')
+	{
+		if ( ! is_object($query) OR ! method_exists($query, 'list_fields'))
+		{
+			show_error('You must submit a valid result object');
+		}
+
+		$out = '';
+		// First generate the headings from the table column names
+		foreach ($query->list_fields() as $name)
+		{
+			$out .= $enclosure.str_replace($enclosure, $enclosure.$enclosure, $name).$enclosure.$delim;
+		}
+
+		$out = substr($out, 0, -strlen($delim)).$newline;
+
+		// Next blast through the result array and build out the rows
+		while ($row = $query->unbuffered_row('array'))
+		{
+			$line = array();
+			foreach ($row as $item)
+			{
+				$line[] = $enclosure.str_replace($enclosure, $enclosure.$enclosure, $item).$enclosure;
+			}
+			$out .= implode($delim, $line).$newline;
+		}
+
+		return $out;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Generate XML data from a query result object
+	 *
+	 * @param	object	$query	Query result object
+	 * @param	array	$params	Any preferences
+	 * @return	string
+	 */
+	public function xml_from_result($query, $params = array())
+	{
+		if ( ! is_object($query) OR ! method_exists($query, 'list_fields'))
+		{
+			show_error('You must submit a valid result object');
+		}
+
+		// Set our default values
+		foreach (array('root' => 'root', 'element' => 'element', 'newline' => "\n", 'tab' => "\t") as $key => $val)
+		{
+			if ( ! isset($params[$key]))
+			{
+				$params[$key] = $val;
+			}
+		}
+
+		// Create variables for convenience
+		extract($params);
+
+		// Load the xml helper
+		get_instance()->load->helper('xml');
+
+		// Generate the result
+		$xml = '<'.$root.'>'.$newline;
+		while ($row = $query->unbuffered_row())
+		{
+			$xml .= $tab.'<'.$element.'>'.$newline;
+			foreach ($row as $key => $val)
+			{
+				$xml .= $tab.$tab.'<'.$key.'>'.xml_convert($val).'</'.$key.'>'.$newline;
+			}
+			$xml .= $tab.'</'.$element.'>'.$newline;
+		}
+
+		return $xml.'</'.$root.'>'.$newline;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Database Backup
+	 *
+	 * @param	array	$params
+	 * @return	string
+	 */
+	public function backup($params = array())
+	{
+		// If the parameters have not been submitted as an
+		// array then we know that it is simply the table
+		// name, which is a valid short cut.
+		if (is_string($params))
+		{
+			$params = array('tables' => $params);
+		}
+
+		// Set up our default preferences
+		$prefs = array(
+			'tables'		=> array(),
+			'ignore'		=> array(),
+			'filename'		=> '',
+			'format'		=> 'gzip', // gzip, zip, txt
+			'add_drop'		=> TRUE,
+			'add_insert'		=> TRUE,
+			'newline'		=> "\n",
+			'foreign_key_checks'	=> TRUE
+		);
+
+		// Did the user submit any preferences? If so set them....
+		if (count($params) > 0)
+		{
+			foreach ($prefs as $key => $val)
+			{
+				if (isset($params[$key]))
+				{
+					$prefs[$key] = $params[$key];
+				}
+			}
+		}
+
+		// Are we backing up a complete database or individual tables?
+		// If no table names were submitted we'll fetch the entire table list
+		if (count($prefs['tables']) === 0)
+		{
+			$prefs['tables'] = $this->db->list_tables();
+		}
+
+		// Validate the format
+		if ( ! in_array($prefs['format'], array('gzip', 'zip', 'txt'), TRUE))
+		{
+			$prefs['format'] = 'txt';
+		}
+
+		// Is the encoder supported? If not, we'll either issue an
+		// error or use plain text depending on the debug settings
+		if (($prefs['format'] === 'gzip' && ! function_exists('gzencode'))
+			OR ($prefs['format'] === 'zip' && ! function_exists('gzcompress')))
+		{
+			if ($this->db->db_debug)
+			{
+				return $this->db->display_error('db_unsupported_compression');
+			}
+
+			$prefs['format'] = 'txt';
+		}
+
+		// Was a Zip file requested?
+		if ($prefs['format'] === 'zip')
+		{
+			// Set the filename if not provided (only needed with Zip files)
+			if ($prefs['filename'] === '')
+			{
+				$prefs['filename'] = (count($prefs['tables']) === 1 ? $prefs['tables'] : $this->db->database)
+							.date('Y-m-d_H-i', time()).'.sql';
+			}
+			else
+			{
+				// If they included the .zip file extension we'll remove it
+				if (preg_match('|.+?\.zip$|', $prefs['filename']))
+				{
+					$prefs['filename'] = str_replace('.zip', '', $prefs['filename']);
+				}
+
+				// Tack on the ".sql" file extension if needed
+				if ( ! preg_match('|.+?\.sql$|', $prefs['filename']))
+				{
+					$prefs['filename'] .= '.sql';
+				}
+			}
+
+			// Load the Zip class and output it
+			$CI =& get_instance();
+			$CI->load->library('zip');
+			$CI->zip->add_data($prefs['filename'], $this->_backup($prefs));
+			return $CI->zip->get_zip();
+		}
+		elseif ($prefs['format'] === 'txt') // Was a text file requested?
+		{
+			return $this->_backup($prefs);
+		}
+		elseif ($prefs['format'] === 'gzip') // Was a Gzip file requested?
+		{
+			return gzencode($this->_backup($prefs));
+		}
+
+		return;
+	}
+
+}

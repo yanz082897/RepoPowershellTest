@@ -1,211 +1,643 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-pjCGuKAq+6bCdcYJDLEU9AjZW8d/aW==
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2019, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2019, British Columbia Institute of Technology (https://bcit.ca/)
+ * @license	https://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 1.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+/**
+ * URI Class
+ *
+ * Parses URIs and determines routing
+ *
+ * @package		CodeIgniter
+ * @subpackage	Libraries
+ * @category	URI
+ * @author		EllisLab Dev Team
+ * @link		https://codeigniter.com/user_guide/libraries/uri.html
+ */
+class CI_URI {
+
+	/**
+	 * List of cached URI segments
+	 *
+	 * @var	array
+	 */
+	public $keyval = array();
+
+	/**
+	 * Current URI string
+	 *
+	 * @var	string
+	 */
+	public $uri_string = '';
+
+	/**
+	 * List of URI segments
+	 *
+	 * Starts at 1 instead of 0.
+	 *
+	 * @var	array
+	 */
+	public $segments = array();
+
+	/**
+	 * List of routed URI segments
+	 *
+	 * Starts at 1 instead of 0.
+	 *
+	 * @var	array
+	 */
+	public $rsegments = array();
+
+	/**
+	 * Permitted URI chars
+	 *
+	 * PCRE character group allowed in URI segments
+	 *
+	 * @var	string
+	 */
+	protected $_permitted_uri_chars;
+
+	/**
+	 * Class constructor
+	 *
+	 * @return	void
+	 */
+	public function __construct()
+	{
+		$this->config =& load_class('Config', 'core');
+
+		// If query strings are enabled, we don't need to parse any segments.
+		// However, they don't make sense under CLI.
+		if (is_cli() OR $this->config->item('enable_query_strings') !== TRUE)
+		{
+			$this->_permitted_uri_chars = $this->config->item('permitted_uri_chars');
+
+			// If it's a CLI request, ignore the configuration
+			if (is_cli())
+			{
+				$uri = $this->_parse_argv();
+			}
+			else
+			{
+				$protocol = $this->config->item('uri_protocol');
+				empty($protocol) && $protocol = 'REQUEST_URI';
+
+				switch ($protocol)
+				{
+					case 'AUTO': // For BC purposes only
+					case 'REQUEST_URI':
+						$uri = $this->_parse_request_uri();
+						break;
+					case 'QUERY_STRING':
+						$uri = $this->_parse_query_string();
+						break;
+					case 'PATH_INFO':
+					default:
+						$uri = isset($_SERVER[$protocol])
+							? $_SERVER[$protocol]
+							: $this->_parse_request_uri();
+						break;
+				}
+			}
+
+			$this->_set_uri_string($uri);
+		}
+
+		log_message('info', 'URI Class Initialized');
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Set URI String
+	 *
+	 * @param 	string	$str
+	 * @return	void
+	 */
+	protected function _set_uri_string($str)
+	{
+		// Filter out control characters and trim slashes
+		$this->uri_string = trim(remove_invisible_characters($str, FALSE), '/');
+
+		if ($this->uri_string !== '')
+		{
+			// Remove the URL suffix, if present
+			if (($suffix = (string) $this->config->item('url_suffix')) !== '')
+			{
+				$slen = strlen($suffix);
+
+				if (substr($this->uri_string, -$slen) === $suffix)
+				{
+					$this->uri_string = substr($this->uri_string, 0, -$slen);
+				}
+			}
+
+			$this->segments[0] = NULL;
+			// Populate the segments array
+			foreach (explode('/', trim($this->uri_string, '/')) as $val)
+			{
+				$val = trim($val);
+				// Filter segments for security
+				$this->filter_uri($val);
+
+				if ($val !== '')
+				{
+					$this->segments[] = $val;
+				}
+			}
+
+			unset($this->segments[0]);
+		}
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Parse REQUEST_URI
+	 *
+	 * Will parse REQUEST_URI and automatically detect the URI from it,
+	 * while fixing the query string if necessary.
+	 *
+	 * @return	string
+	 */
+	protected function _parse_request_uri()
+	{
+		if ( ! isset($_SERVER['REQUEST_URI'], $_SERVER['SCRIPT_NAME']))
+		{
+			return '';
+		}
+
+		// parse_url() returns false if no host is present, but the path or query string
+		// contains a colon followed by a number
+		$uri = parse_url('http://dummy'.$_SERVER['REQUEST_URI']);
+		$query = isset($uri['query']) ? $uri['query'] : '';
+		$uri = isset($uri['path']) ? $uri['path'] : '';
+
+		if (isset($_SERVER['SCRIPT_NAME'][0]))
+		{
+			if (strpos($uri, $_SERVER['SCRIPT_NAME']) === 0)
+			{
+				$uri = (string) substr($uri, strlen($_SERVER['SCRIPT_NAME']));
+			}
+			elseif (strpos($uri, dirname($_SERVER['SCRIPT_NAME'])) === 0)
+			{
+				$uri = (string) substr($uri, strlen(dirname($_SERVER['SCRIPT_NAME'])));
+			}
+		}
+
+		// This section ensures that even on servers that require the URI to be in the query string (Nginx) a correct
+		// URI is found, and also fixes the QUERY_STRING server var and $_GET array.
+		if (trim($uri, '/') === '' && strncmp($query, '/', 1) === 0)
+		{
+			$query = explode('?', $query, 2);
+			$uri = $query[0];
+			$_SERVER['QUERY_STRING'] = isset($query[1]) ? $query[1] : '';
+		}
+		else
+		{
+			$_SERVER['QUERY_STRING'] = $query;
+		}
+
+		parse_str($_SERVER['QUERY_STRING'], $_GET);
+
+		if ($uri === '/' OR $uri === '')
+		{
+			return '/';
+		}
+
+		// Do some final cleaning of the URI and return it
+		return $this->_remove_relative_directory($uri);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Parse QUERY_STRING
+	 *
+	 * Will parse QUERY_STRING and automatically detect the URI from it.
+	 *
+	 * @return	string
+	 */
+	protected function _parse_query_string()
+	{
+		$uri = isset($_SERVER['QUERY_STRING']) ? $_SERVER['QUERY_STRING'] : @getenv('QUERY_STRING');
+
+		if (trim($uri, '/') === '')
+		{
+			return '';
+		}
+		elseif (strncmp($uri, '/', 1) === 0)
+		{
+			$uri = explode('?', $uri, 2);
+			$_SERVER['QUERY_STRING'] = isset($uri[1]) ? $uri[1] : '';
+			$uri = $uri[0];
+		}
+
+		parse_str($_SERVER['QUERY_STRING'], $_GET);
+
+		return $this->_remove_relative_directory($uri);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Parse CLI arguments
+	 *
+	 * Take each command line argument and assume it is a URI segment.
+	 *
+	 * @return	string
+	 */
+	protected function _parse_argv()
+	{
+		$args = array_slice($_SERVER['argv'], 1);
+		return $args ? implode('/', $args) : '';
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Remove relative directory (../) and multi slashes (///)
+	 *
+	 * Do some final cleaning of the URI and return it, currently only used in self::_parse_request_uri()
+	 *
+	 * @param	string	$uri
+	 * @return	string
+	 */
+	protected function _remove_relative_directory($uri)
+	{
+		$uris = array();
+		$tok = strtok($uri, '/');
+		while ($tok !== FALSE)
+		{
+			if (( ! empty($tok) OR $tok === '0') && $tok !== '..')
+			{
+				$uris[] = $tok;
+			}
+			$tok = strtok('/');
+		}
+
+		return implode('/', $uris);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Filter URI
+	 *
+	 * Filters segments for malicious characters.
+	 *
+	 * @param	string	$str
+	 * @return	void
+	 */
+	public function filter_uri(&$str)
+	{
+		if ( ! empty($str) && ! empty($this->_permitted_uri_chars) && ! preg_match('/^['.$this->_permitted_uri_chars.']+$/i'.(UTF8_ENABLED ? 'u' : ''), $str))
+		{
+			show_error('The URI you submitted has disallowed characters.', 400);
+		}
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Fetch URI Segment
+	 *
+	 * @see		CI_URI::$segments
+	 * @param	int		$n		Index
+	 * @param	mixed		$no_result	What to return if the segment index is not found
+	 * @return	mixed
+	 */
+	public function segment($n, $no_result = NULL)
+	{
+		return isset($this->segments[$n]) ? $this->segments[$n] : $no_result;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Fetch URI "routed" Segment
+	 *
+	 * Returns the re-routed URI segment (assuming routing rules are used)
+	 * based on the index provided. If there is no routing, will return
+	 * the same result as CI_URI::segment().
+	 *
+	 * @see		CI_URI::$rsegments
+	 * @see		CI_URI::segment()
+	 * @param	int		$n		Index
+	 * @param	mixed		$no_result	What to return if the segment index is not found
+	 * @return	mixed
+	 */
+	public function rsegment($n, $no_result = NULL)
+	{
+		return isset($this->rsegments[$n]) ? $this->rsegments[$n] : $no_result;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * URI to assoc
+	 *
+	 * Generates an associative array of URI data starting at the supplied
+	 * segment index. For example, if this is your URI:
+	 *
+	 *	example.com/user/search/name/joe/location/UK/gender/male
+	 *
+	 * You can use this method to generate an array with this prototype:
+	 *
+	 *	array (
+	 *		name => joe
+	 *		location => UK
+	 *		gender => male
+	 *	 )
+	 *
+	 * @param	int	$n		Index (default: 3)
+	 * @param	array	$default	Default values
+	 * @return	array
+	 */
+	public function uri_to_assoc($n = 3, $default = array())
+	{
+		return $this->_uri_to_assoc($n, $default, 'segment');
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Routed URI to assoc
+	 *
+	 * Identical to CI_URI::uri_to_assoc(), only it uses the re-routed
+	 * segment array.
+	 *
+	 * @see		CI_URI::uri_to_assoc()
+	 * @param 	int	$n		Index (default: 3)
+	 * @param 	array	$default	Default values
+	 * @return 	array
+	 */
+	public function ruri_to_assoc($n = 3, $default = array())
+	{
+		return $this->_uri_to_assoc($n, $default, 'rsegment');
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Internal URI-to-assoc
+	 *
+	 * Generates a key/value pair from the URI string or re-routed URI string.
+	 *
+	 * @used-by	CI_URI::uri_to_assoc()
+	 * @used-by	CI_URI::ruri_to_assoc()
+	 * @param	int	$n		Index (default: 3)
+	 * @param	array	$default	Default values
+	 * @param	string	$which		Array name ('segment' or 'rsegment')
+	 * @return	array
+	 */
+	protected function _uri_to_assoc($n = 3, $default = array(), $which = 'segment')
+	{
+		if ( ! is_numeric($n))
+		{
+			return $default;
+		}
+
+		if (isset($this->keyval[$which], $this->keyval[$which][$n]))
+		{
+			return $this->keyval[$which][$n];
+		}
+
+		$total_segments = "total_{$which}s";
+		$segment_array = "{$which}_array";
+
+		if ($this->$total_segments() < $n)
+		{
+			return (count($default) === 0)
+				? array()
+				: array_fill_keys($default, NULL);
+		}
+
+		$segments = array_slice($this->$segment_array(), ($n - 1));
+		$i = 0;
+		$lastval = '';
+		$retval = array();
+		foreach ($segments as $seg)
+		{
+			if ($i % 2)
+			{
+				$retval[$lastval] = $seg;
+			}
+			else
+			{
+				$retval[$seg] = NULL;
+				$lastval = $seg;
+			}
+
+			$i++;
+		}
+
+		if (count($default) > 0)
+		{
+			foreach ($default as $val)
+			{
+				if ( ! array_key_exists($val, $retval))
+				{
+					$retval[$val] = NULL;
+				}
+			}
+		}
+
+		// Cache the array for reuse
+		isset($this->keyval[$which]) OR $this->keyval[$which] = array();
+		$this->keyval[$which][$n] = $retval;
+		return $retval;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Assoc to URI
+	 *
+	 * Generates a URI string from an associative array.
+	 *
+	 * @param	array	$array	Input array of key/value pairs
+	 * @return	string	URI string
+	 */
+	public function assoc_to_uri($array)
+	{
+		$temp = array();
+		foreach ((array) $array as $key => $val)
+		{
+			$temp[] = $key;
+			$temp[] = $val;
+		}
+
+		return implode('/', $temp);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Slash segment
+	 *
+	 * Fetches an URI segment with a slash.
+	 *
+	 * @param	int	$n	Index
+	 * @param	string	$where	Where to add the slash ('trailing' or 'leading')
+	 * @return	string
+	 */
+	public function slash_segment($n, $where = 'trailing')
+	{
+		return $this->_slash_segment($n, $where, 'segment');
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Slash routed segment
+	 *
+	 * Fetches an URI routed segment with a slash.
+	 *
+	 * @param	int	$n	Index
+	 * @param	string	$where	Where to add the slash ('trailing' or 'leading')
+	 * @return	string
+	 */
+	public function slash_rsegment($n, $where = 'trailing')
+	{
+		return $this->_slash_segment($n, $where, 'rsegment');
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Internal Slash segment
+	 *
+	 * Fetches an URI Segment and adds a slash to it.
+	 *
+	 * @used-by	CI_URI::slash_segment()
+	 * @used-by	CI_URI::slash_rsegment()
+	 *
+	 * @param	int	$n	Index
+	 * @param	string	$where	Where to add the slash ('trailing' or 'leading')
+	 * @param	string	$which	Array name ('segment' or 'rsegment')
+	 * @return	string
+	 */
+	protected function _slash_segment($n, $where = 'trailing', $which = 'segment')
+	{
+		$leading = $trailing = '/';
+
+		if ($where === 'trailing')
+		{
+			$leading	= '';
+		}
+		elseif ($where === 'leading')
+		{
+			$trailing	= '';
+		}
+
+		return $leading.$this->$which($n).$trailing;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Segment Array
+	 *
+	 * @return	array	CI_URI::$segments
+	 */
+	public function segment_array()
+	{
+		return $this->segments;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Routed Segment Array
+	 *
+	 * @return	array	CI_URI::$rsegments
+	 */
+	public function rsegment_array()
+	{
+		return $this->rsegments;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Total number of segments
+	 *
+	 * @return	int
+	 */
+	public function total_segments()
+	{
+		return count($this->segments);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Total number of routed segments
+	 *
+	 * @return	int
+	 */
+	public function total_rsegments()
+	{
+		return count($this->rsegments);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Fetch URI string
+	 *
+	 * @return	string	CI_URI::$uri_string
+	 */
+	public function uri_string()
+	{
+		return $this->uri_string;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Fetch Re-routed URI string
+	 *
+	 * @return	string
+	 */
+	public function ruri_string()
+	{
+		return ltrim(load_class('Router', 'core')->directory, '/').implode('/', $this->rsegments);
+	}
+
+}

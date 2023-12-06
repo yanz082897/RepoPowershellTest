@@ -1,61 +1,164 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2019, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2019, British Columbia Institute of Technology (https://bcit.ca/)
+ * @license	https://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 2.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+/**
+ * Utf8 Class
+ *
+ * Provides support for UTF-8 environments
+ *
+ * @package		CodeIgniter
+ * @subpackage	Libraries
+ * @category	UTF-8
+ * @author		EllisLab Dev Team
+ * @link		https://codeigniter.com/user_guide/libraries/utf8.html
+ */
+class CI_Utf8 {
+
+	/**
+	 * Class constructor
+	 *
+	 * Determines if UTF-8 support is to be enabled.
+	 *
+	 * @return	void
+	 */
+	public function __construct()
+	{
+		if (
+			defined('PREG_BAD_UTF8_ERROR')				// PCRE must support UTF-8
+			&& (ICONV_ENABLED === TRUE OR MB_ENABLED === TRUE)	// iconv or mbstring must be installed
+			&& strtoupper(config_item('charset')) === 'UTF-8'	// Application charset must be UTF-8
+			)
+		{
+			define('UTF8_ENABLED', TRUE);
+			log_message('debug', 'UTF-8 Support Enabled');
+		}
+		else
+		{
+			define('UTF8_ENABLED', FALSE);
+			log_message('debug', 'UTF-8 Support Disabled');
+		}
+
+		log_message('info', 'Utf8 Class Initialized');
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Clean UTF-8 strings
+	 *
+	 * Ensures strings contain only valid UTF-8 characters.
+	 *
+	 * @param	string	$str	String to clean
+	 * @return	string
+	 */
+	public function clean_string($str)
+	{
+		if ($this->is_ascii($str) === FALSE)
+		{
+			if (MB_ENABLED)
+			{
+				$str = mb_convert_encoding($str, 'UTF-8', 'UTF-8');
+			}
+			elseif (ICONV_ENABLED)
+			{
+				$str = @iconv('UTF-8', 'UTF-8//IGNORE', $str);
+			}
+		}
+
+		return $str;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Remove ASCII control characters
+	 *
+	 * Removes all ASCII control characters except horizontal tabs,
+	 * line feeds, and carriage returns, as all others can cause
+	 * problems in XML.
+	 *
+	 * @param	string	$str	String to clean
+	 * @return	string
+	 */
+	public function safe_ascii_for_xml($str)
+	{
+		return remove_invisible_characters($str, FALSE);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Convert to UTF-8
+	 *
+	 * Attempts to convert a string to UTF-8.
+	 *
+	 * @param	string	$str		Input string
+	 * @param	string	$encoding	Input encoding
+	 * @return	string	$str encoded in UTF-8 or FALSE on failure
+	 */
+	public function convert_to_utf8($str, $encoding)
+	{
+		if (MB_ENABLED)
+		{
+			return mb_convert_encoding($str, 'UTF-8', $encoding);
+		}
+		elseif (ICONV_ENABLED)
+		{
+			return @iconv($encoding, 'UTF-8', $str);
+		}
+
+		return FALSE;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Is ASCII?
+	 *
+	 * Tests if a string is standard 7-bit ASCII or not.
+	 *
+	 * @param	string	$str	String to check
+	 * @return	bool
+	 */
+	public function is_ascii($str)
+	{
+		return (preg_match('/[^\x00-\x7F]/S', $str) === 0);
+	}
+
+}
